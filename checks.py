@@ -40,6 +40,14 @@ def main():
             # line_1 = [line, suffix, '']
             line_with_suffix = re.split("(\[%p\]$|\[%e\])$", original_line)
             line_1 = line_with_suffix[0]
+        
+            if len(line_with_suffix) == 1:
+                # file che non sono script di testo, tipo _phone.scx.txt
+                if "\n" in line_1:
+                    lines.append(line_1)
+                else:
+                    lines.append(line_1+"\n")
+                continue
             suffix = line_with_suffix[1]
             # line_2 = [line] or [lin]
             line_2 = re.split("^(\[name\].*\[line\])", line_1)
