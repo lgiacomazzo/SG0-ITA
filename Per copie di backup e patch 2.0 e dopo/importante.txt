@@ -1,0 +1,3 @@
+Se cerchi di installare la patch dei CoZ su una copia di backup (tipo fitgirl), per fare partire l'installazione della patch (dalla 2.0 in poi credo, io ho provato con la 2.1.1) bisogna prendere l'eseguibile contenuto in Game.zip e copiarlo nella cartella del gioco. Poi è possibile fare partire l'installazione della patch. Ovviamente con la versione Steam basta solo installare la patch, senza altre manovre.
+Inoltre, consiglio di non rinominare la cartella del gioco in qualcosa di diverso da "Steins;Gate 0", visto che facendo alcuni test ho visto che un nome diverso causa il mancato avvio corretto della patch (anche se il launcher sembra far partire tutto correttamente).
+Ultima cosa, per la patch, il file eseguibile da lanciare è "LauncherC0.exe"
