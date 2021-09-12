@@ -1,11 +1,11 @@
-All unsaved game progress will be lost.
-Exit Game?
+Tutti i progressi di gioco non salvati saranno perduti.
+Uscire dal gioco?
 OK
-Cancel
-All unsaved game progress will be lost.
-Exit Game?
+Annulla
+Tutti i progressi di gioco non salvati saranno perduti.
+Uscire dal gioco?
 OK
-Cancel
+Annulla
 アクティブユーザーを変更すると、保存されていない
 プレイ状況は失われます。
  
@@ -15,30 +15,30 @@ Cancel
 このコンテンツはインストールが完了するまで
 開始することができません。
 インストールが完了するまでお待ちください。
-All unsaved game progress will be lost.
-Return to Title Menu?
+Tutti i progressi di gioco non salvati saranno perduti.
+Tornare al menù principale?
 OK
-Cancel
-All unsaved game progress will be lost.
-Return to Title Menu?
+Annulla
+Tutti i progressi di gioco non salvati saranno perduti.
+Tornare al menù principale?
 OK
-Cancel
-Return to Title Menu?
+Annulla
+Tornare al menù principale?
 OK
-Cancel
-All unsaved game progress will be lost.
-Exit Game?
+Annulla
+Tutti i progressi di gioco non salvati saranno perduti.
+Uscire dal gioco?
 OK
-Cancel
+Annulla
 シーン回想を中断しますか?
 はい
 いいえ
-Return this page to default settings?
+Ripristinare le impostazioni default?
 OK
-Cancel
-The defaults for these settings have been restored.
-Saving System Data.
-Please do not turn off the power.
+Annulla
+Impostazioni default ripristinate con successo.
+Salvataggio dati di sistema.
+Si prega di non interrompere l'alimentazione.
 セーブデータを保存する空き容量が不足しています。
 不要なデータを削除して空き容量を確保してください。
 このデータを読み込みますか?
@@ -47,57 +47,57 @@ Please do not turn off the power.
 このセーブファイルはインストールが完了するまで
 開始することができません。
 インストールが完了するまでお待ちください。
-Load this data?
-All unsaved game progress will be lost.
+Caricare questi dati?
+Tutti i progressi di gioco non salvati saranno perduti.
 OK
-Cancel
-All save files are locked.
-When all save files are locked, you are unable to quick save.
-If you would like to use the quick save feature, please unlock
-the lock on unnecessary save files.
-All save files are locked.
-When all save files are locked, you are unable to quick save.
-If you would like to use the quick save feature, please unlock
-the lock on unnecessary save files.
-Save file already exists.
-If you overwrite this save file,
-the old data will be lost.
-Overwrite this save file?
-Overwrite
-Cancel
-This save file is locked.
-If you would like to overwrite it, 
-please unlock it.
-The save data is corrupted.
-If you overwrite this save file, the old data will be lost.
-Overwrite this save file?
-Overwrite
-Cancel
-Saving data.
-Please do not turn off the system.
-Not enough free space to store Save Data.
-Please free up some space on your hard drive to save.
-Saving System Data.
-Please do not turn off the power.
-Checking System Data.
-Loading System Data.
-No System Data found.
-System Data will now be created.
-Creating System Data.
-Please do not turn off the power.
-System Data is corrupted.
-System Data will now be repaired.
-Repairing System Data.
-Please do not turn off the power.
+Annulla
+Tutti i salvataggi sono bloccati.
+Quando tutti i salvataggi sono bloccati, non è possibile fare un salvataggio rapido.
+Se vuoi usare la funzione di salvataggio rapido, per favore sblocca
+i file di salvataggio non necessari.
+Tutti i salvataggi sono bloccati.
+Quando tutti i salvataggi sono bloccati, non è possibile fare un salvataggio rapido.
+Se vuoi usare la funzione di salvataggio rapido, per favore sblocca
+i file di salvataggio non necessari.
+Già esiste un salvataggio.
+Se sovrascrivi questo salvatagio,
+i vecchi dati saranno persi.
+Sovrascrivere questo salvataggio?
+Sovrascrivi
+Annulla
+Questo salvataggio è bloccato.
+Se vuoi sovrascriverlo, 
+per favore sbloccalo.
+Questo salvataggio è corrotto.
+Se sovrascrivi questo salvatagio, i vecchi dati saranno persi.
+Sovrascrivere questo salvataggio?
+Sovrascrivi
+Annulla
+Salvataggio dei dati.
+Si prega di non spegnere il sistema.
+Non c'è abbastanza spazio libero per salvare i dati.
+Si prega di liberare un po' di spazio sul vostro disco rigido per poter salvare.
+Salvataggio dati di sistema.
+Si prega di non spegnere il sistema.
+Controllo dati di sistema.
+Caricamento dati di sistema.
+Dati di sistema non trovati.
+Ora verrano creati nuovi dati di sistema.
+Creazione dati di sistema.
+Si prega di non spegnere il sistema.
+I dati di sistema sono corrotti.
+Adesso verranno riparati.
+Riparazione dati di sistema.
+Si prega di non spegnere il sistema.
 セーブデータを保存する空き容量が不足しています。
 不要なデータを削除して空き容量を確保してください。
 このシステムデータは別のユーザーのものです。
 ゲームを終了して、システムデータを削除してください。
-This System Data belongs to another user.
-Please exit the game and delete the System Data.
-System Data is corrupted.
-Unable to load System Data.
-Failed to load System Data.
-Please quit the game and try again.
-Failed to create System Data.
-Please quit the game and try again.
+Questi dati di sistema appartengono a un altro utente.
+Si prega di uscire dal gioco e cancellare i dati di sistema.
+I dati di sistema sono corrotti.
+Impossibile caricare i dati di sistema.
+Non è stato possibile caricare i dati di sistema.
+Si prega di uscire dal gioco e riprovare.
+Non è stato possibile creare i dati di sistema.
+Si prega di uscire dal gioco e riprovare.
