@@ -43,6 +43,8 @@ def main():
         
             if len(line_with_suffix) == 1:
                 # file che non sono script di testo, tipo _phone.scx.txt
+                prefixes.append("")
+                suffixes.append("")
                 if "\n" in line_1:
                     lines.append(line_1)
                 else:
