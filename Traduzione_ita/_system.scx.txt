@@ -1,16 +1,16 @@
   、。.,?!〜”ー)〕]}〉》」』】☆★♪々ぁぃぅぇぉっゃゅょァィゥェォッャュョ⋯—
 “(〔[{〈《「『【
-Sign out was done. I return to a title screen.
-A game pad was removed. Please connect a game pad.
-Sign in do a game, please to play.
-Broken Data
-No data
-Play Time:
-Save Time:
+Logout completato. Ritorno al menù principale.
+Game pad rimosso. Per favore connetti un game pad.
+Fare login per giocare.
+Dati corrotti
+Niente dati
+Tempo di gioco:
+Salvato il:
 /
 :
-No.
-Total Play Time
+N.
+Tempo di gioco totale
 m
 s
 h
@@ -19,11 +19,11 @@ h
 /
 ??/??
 ??????
-Reached Ending
-Acquired TIPS
-Album Achievement Rate
-New
-Unread
+Finali ottenuti
+Numero TIPS letti
+Percentuale completamento album
+Nuovi
+Non letti
 
 
 
@@ -105,33 +105,33 @@ Unread
 
 『
 』
- 
+
 Absolute Zero
- 
+
 Closed Epigraph
- 
+
 A Stray Sheep
- 
+
 The Orbital Eclipse
- 
+
 Antinomic Dual
- 
+
 Promised Rinascimento
- 
+
 X-Day Protocol
- 
+
 Pandora’s Box
- 
+
 Presage or Recognize
- 
+
 Gehenna’s Stigma
- 
+
 Vega and Altair
- 
+
 Recursive Mother Goose
- 
+
 Twin Automata
- 
+
 Milky-way Crossing
 Opening
 Kanako Itou
@@ -142,12 +142,12 @@ Megumi Han
 Ending3
 Eri Sasaki
 Animelo Summer Live 2015 -THE GATE-
- 
-track
-time
-title
+
+Traccia
+Durata
+Titolo
 ?????
-artist
+Artisti
 ...
 Aug.13,2036
 Comp.:Takeshi Abo
