@@ -29,8 +29,8 @@ Automaton of Provable Existence
  Twin Automata
 Stardust of Intersected Coordinates
  Milky-way Crossing
-                   Date : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
-                      Date : [hardcoded-value index="11"]
- Date : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
- Date : [hardcoded-value index="11"]
+                   Data : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
+                      Data : [hardcoded-value index="11"]
+ Data : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
+ Data : [hardcoded-value index="11"]
 ––––––––––––––––––––––––––––

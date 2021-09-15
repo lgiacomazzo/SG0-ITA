@@ -1,35 +1,35 @@
 
-A [color index="A01F0000"]D-RINE[color index="800000"] was sent.
+È stato inviato un [color index="A01F0000"]D-RINE[color index="800000"].
 
 
 
 [color index="A01F0000"]“EXTRA”
-[color index="800000"]menu was added to the title menu.
+[color index="800000"]menù è stato aggiunto al menù principale.
 [color index="A01F0000"]“CLEAR LIST”
-[color index="800000"]menu was added to the extra menu.
+[color index="800000"]menù è stato aggiunto al menù extra.
 [color index="A01F0000"]“CG LIBRARY”
-[color index="800000"]menu was added to the extra menu.
+[color index="800000"]menù è stato aggiunto al menù extra.
 [color index="A01F0000"]“SOUND LIBRARY”
-[color index="800000"]menu was added to the extra menu.
+[color index="800000"]menù è stato aggiunto al menù extra.
 [color index="A01F0000"]“MOVIE LIBRARY”
-[color index="800000"]menu was added to the extra menu.
+[color index="800000"]menù è stato aggiunto al menù extra.
 [color index="A01F0000"]“TIPS”
-[color index="800000"]menu was added to the extra menu.
-[color index="A01F0000"]New item
-[color index="800000"]unlocked in “TIPS.”
-[color index="A01F0000"]New item
-[color index="800000"]unlocked in “CG LIBRARY.”
-[color index="A01F0000"]New wallpaper
-[color index="800000"]unlocked in “Wallpaper Settings.”
-[color index="A01F0000"]【Promised Rinascimento】[color index="800000"] Completed
-[color index="A01F0000"]【Twin Automata】[color index="800000"] Completed
-[color index="A01F0000"]【Recursive Mother Goose】[color index="800000"] Completed
-[color index="A01F0000"]【Vega and Altair】[color index="800000"] Completed
-[color index="A01F0000"]【Gehenna’s Stigma】[color index="800000"] Completed
-[color index="A01F0000"]【Milky-way Crossing】[color index="800000"] Completed
-[color index="810000"]【Promised Rinascimento】[color index="800000"] Completed
-[color index="810000"]【Twin Automata】[color index="800000"] Completed
-[color index="810000"]【Recursive Mother Goose】[color index="800000"] Completed
-[color index="810000"]【Vega and Altair】[color index="800000"] Completed
-[color index="810000"]【Gehenna’s Stigma】[color index="800000"] Completed
-[color index="810000"]【Milky-way Crossing】[color index="800000"] Completed
+[color index="800000"]menù è stato aggiunto al menù extra.
+[color index="A01F0000"]Nuovo elemento
+[color index="800000"]sbloccato in “TIPS”.
+[color index="A01F0000"]Nuovo elemento
+[color index="800000"]sbloccato in “LIBRERIA CG”.
+[color index="A01F0000"]Nuovo sfondo
+[color index="800000"]sbloccato in “Impostazioni sfondo”.
+[color index="A01F0000"]【Promised Rinascimento】[color index="800000"] Completato
+[color index="A01F0000"]【Twin Automata】[color index="800000"] Completato
+[color index="A01F0000"]【Recursive Mother Goose】[color index="800000"] Completato
+[color index="A01F0000"]【Vega and Altair】[color index="800000"] Completato
+[color index="A01F0000"]【Gehenna’s Stigma】[color index="800000"] Completato
+[color index="A01F0000"]【Milky-way Crossing】[color index="800000"] Completato
+[color index="810000"]【Promised Rinascimento】[color index="800000"] Completato
+[color index="810000"]【Twin Automata】[color index="800000"] Completato
+[color index="810000"]【Recursive Mother Goose】[color index="800000"] Completato
+[color index="810000"]【Vega and Altair】[color index="800000"] Completato
+[color index="810000"]【Gehenna’s Stigma】[color index="800000"] Completato
+[color index="810000"]【Milky-way Crossing】[color index="800000"] Completato
