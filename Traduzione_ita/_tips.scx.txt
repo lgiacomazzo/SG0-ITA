@@ -6,74 +6,74 @@ Tipsキーワード追加
 あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@β
 No Data
 ???
-No.
+N.
 /
 ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろわをんaAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ0123456789@β
-Other
+Altro
 Arc Rewrite
 Arc Rewrite
 Arc Rewrite
-(Fictional) An editing production company located in Akihabara. They primarily publish articles for computer magazines.
-Science
+(Non reale) Una compagnia di produzione editoriale situata ad Akihabara. Pubblicano principalmente articoli per riviste di informatica.
+Scienza
 Einstein
 Einstein
 Einstein
-Albert Einstein (1879-1955). A German Jew known by many as the “Father of Modern Physics.”[linebreak][linebreak]Einstein developed many important theories, including the theory of general relativity and the theory of special relativity.[linebreak][linebreak]Winner of the 1921 Nobel Prize in Physics.
+Albert Einstein (1879-1955). Un uomo tedesco di famiglia ebraica conosciuto da molti come il “Padre della Fisica Moderna”.[linebreak][linebreak]Einstein sviluppò molte teorie importanti, tra cui la teoria della relatività generale e la teoria della relatività speciale.[linebreak][linebreak]Vincitore del premio Nobel per la fisica nel 1921.
 Akihabara
 Akihabara Radio Kaikan
 Akihabara Radio Kaikan
 Akihabara Radio Kaikan
-An eight-story commercial building located in front of Akihabara Station.[linebreak][linebreak]Nicknamed “Radi-Kan,” it contains lots of computer and hobby shops, and on the seventh floor is a plaque reading, “The Birthplace of Personal Computing.”
-Other
-Devil’s Proof
-Devil’s Proof
-Devil’s Proof
-A concept said to have been created by a jurist in medieval Europe during a case over possession rights.[linebreak][linebreak]The concept is as follows:[linebreak]Let’s say someone told you to prove that the devil exists. In response, you then demand proof that the devil does NOT exist. As your opponent has no way to provide that proof, you then go on to say, “Since you can’t prove the devil doesn’t exist, then he must exist!”[linebreak][linebreak]This is, of course, pure sophistry that proves nothing at all, but since it can turn a debate into an endless loop, the burden of proof is traditionally placed on the first person to make such a statement.[linebreak][linebreak]Nowadays, the concept is merely used as a tool to point out inequitable arguments in various contexts, such as law, politics, or science.
-Other
-Attractor Field
-Attractor Field
-Attractor Field
-(Fictional) A worldline convergence zone, and the standard accepted model in quantum mechanics in 2036, following the many worlds interpretation and the Copenhagen interpretation.[linebreak][linebreak]According to the model, many worldlines gather in a “world branch” called an “attractor field.” Attractor fields are “zones” in which all worldlines will eventually reach the same end result, making the interpretation deterministic in nature.[linebreak][linebreak]Major splits in the worldline at the attractor field level are called “worldline trunks.” One pre-2010 example of a worldline trunk occurred in the year 2000.
-Other
+Un edificio commerciale di otto piani situato di fronte alla stazione di Akihabara.[linebreak][linebreak]Soprannominato “Radi-Kan”, contiene molti negozi per computer e hobby, e al settimo piano c’è una targa che recita: “Il Luogo di Nascita del Personal Computing”.
+Altro
+Prova del Diavolo
+Prova del Diavolo
+Prova del Diavolo
+Chiamata anche Probatio diabolica. Un concetto che si dice sia stato creato da un giurista nell’Europa medievale durante una causa sui diritti di possesso.[linebreak][linebreak]Il concetto è il seguente:[linebreak]Supponiamo che qualcuno vi chieda di provare che il diavolo esiste. In risposta, voi chiedete la prova che il diavolo NON esiste. Poiché il tuo avversario non ha modo di fornire tale prova, tu allora dici: “Dato che non puoi dimostrare che il diavolo non esiste, allora deve esistere!”[linebreak][linebreak]Questo è, ovviamente, un puro sofisma che non prova assolutamente nulla, ma poiché può trasformare un dibattito in un loop senza fine, l’onere della prova è tradizionalmente a carico della prima persona che fa una tale dichiarazione. [linebreak][linebreak]Al giorno d’oggi, il concetto è semplicemente usato come un mezzo per evidenziare argomenti iniqui in vari contesti, come diritto, politica o scienza.
+Altro
+Campo Attrattore
+Campo Attrattore
+Campo Attrattore
+(Non reale) Una zona di convergenza tra le linee di universo, e il modello standard riconosciuto nella meccanica quantistica nel 2036, che segue l’interpretazione a molti mondi e l’interpretazione di Copenhagen.[linebreak][linebreak]Secondo il modello, molte linee di universo si riuniscono in un “grande fascio di linee” chiamato “campo attrattore”. I campi attrattori sono “zone” in cui tutte le linee di universo raggiungeranno prima o poi lo stesso risultato finale, rendendo l’interpretazione deterministica per sua natura.[linebreak][linebreak]Grandi divergenze tra le linee di universo a livello di campo attrattore sono chiamate “tronchi di linee di universo” (originale: worldline trunks). Un esempio precedente al 2010 di un tronco di linee di universo (worldline trunk) si è verificato nell’anno 2000 (Millennium Bug).
+Altro
 App
 App
 App
-Short for “application.”[linebreak][linebreak]A program that becomes usable upon installing it onto a certain OS.
-Other
+Abbreviazione di “applicazione”.[linebreak][linebreak]Un programma che diventa utilizzabile dopo averlo installato su un certo sistema operativo.
+Altro
 Amadeus
 Amadeus
 Amadeus
-Latin for “Beloved of God,” and the middle name of the Austrian composer Mozart.[linebreak][linebreak]There is also a play about Mozart that shares the same name, which went on to receive a movie adaptation.
+Traduzione latina del nome Teofilo, che significa “Amato da Dio”, e il secondo nome del compositore austriaco Mozart.[linebreak][linebreak]C’è anche un’opera teatrale su Mozart con lo stesso nome, che ha ricevuto un adattamento cinematografico.
 Internet
 Hater
 Hater
 Hater
-People who post negative comments about someone or something on the internet. They appear in places where fans of those people or things gather, and provoke them by posting derogatory things. It’s not rare for them to cause emotional debate among fans.
+Persone che pubblicano commenti negativi su qualcuno o qualcosa su internet. Appaiono in luoghi dove si riuniscono i fan di quelle persone o cose, e li provocano pubblicando cose offensive. Non è raro che causino un dibattito emotivo tra i fan.
 Internet
 TL;DR
 TL;DR
 TL;DR
-Net slang. Short for “too long; didn’t read.”[linebreak][linebreak]Typically used to request a short summary of a lengthy post or thread, it can also refer to the summary itself.
-Other
+Gergo di Internet. Abbreviazione di “too long; didn’t read”.[linebreak][linebreak]Tipicamente usato per richiedere un breve riassunto di un lungo post o thread, può anche riferirsi al riassunto stesso.
+Altro
 Iruma Air Base
 Iruma Air Base
 Iruma Air Base
-One of the Japan Air Self-Defense Force’s (JASDF) largest bases, located between the cities of Iruma and Sayama in Saitama Prefecture.[linebreak][linebreak]The base is home to eighteen units, and approximately 4,300 personnel. It is also the location of the Central Air Defense Force headquarters.
-Other
-The Principle of Causality
-The Principle of Causality
-The Principle of Causality
-A scientific and philosophical principle that states that every event has a cause, and it is by that cause that an effect is produced. However, quantum physicists have observed micro-scale phenomena that do not appear to obey the principle of causality.[linebreak][linebreak]The theory of relativity is founded upon this principle.
+Una delle basi più grandi della Japan Air Self-Defense Force (JASDF), situata tra le città di Iruma e Sayama nella prefettura di Saitama.[linebreak][linebreak]La base ospita diciotto unità, e circa 4.300 membri del personale. È anche la sede del quartier generale della Central Air Defense Force (CADF).
+Altro
+Il Principio di Causalità
+Il Principio di Causalità
+Il Principio di Causalità
+Un principio scientifico e filosofico che afferma che ogni evento ha una causa, ed è da questa causa che viene prodotto un effetto. Tuttavia, i fisici quantistici hanno osservato fenomeni su microscala che non sembrano obbedire al principio di causalità.[linebreak][linebreak]La teoria della relatività è fondata su questo principio.
 Otaku
 Upa
 Upa
 Upa
-(Fictional) A mascot character from the anime, “RaiNet Kakeru.”[linebreak][linebreak]A doglike virtual pet with an egg-shaped, cylindrical body, and short, stubby arms and legs. Comes in many different colors.[linebreak][linebreak]It is incapable of human speech, but it can communicate by saying “Upa?” or “Upa!”
-Science
+(Non reale) La mascotte dell’anime “RaiNet Kakeru”.[linebreak][linebreak]Un animale virtuale simile a un cane, con un corpo cilindrico a forma di uovo, e braccia e gambe corte e tozze. È disponibile in molti colori diversi.[linebreak][linebreak]Non è in grado di parlare con gli esseri umani, ma può comunicare dicendo “Upa?” o “Upa!”.
+Scienza
 JAXA
 JAXA
 JAXA
-Short for “Japan Aerospace Exploration Agency.”[linebreak][linebreak]An independent, administrative institution established in 2003 through the merging of the Institute of Space and Astronautical Science (ISAS), the National Aerospace Laboratory of Japan (NAL), and the National Space Development Agency of Japan (NASDA). The main focus of the institution is research and development into space and aviation.[linebreak][linebreak]In addition to its headquarters in Chofu, Tokyo, JAXA possesses several other aerospace and observation centers, including ones in Sagamihara, Kanagawa Prefecture, Tsukuba, Ibaraki Prefecture, Usuda, Nagano Prefecture, and many others throughout Japan.[linebreak][linebreak]JAXA only has two rocket launch sites, both of which are in Kagoshima Prefecture. One is located in Uchinoura, and the other is in Tanegashima. These are the only rocket launch sites in Japan.[linebreak][linebreak]As of March 2010, it employs around 1,500 people.
+Abbreviazione di “Japan Aerospace Exploration Agency” (Agenzia spaziale giapponese).[linebreak][linebreak]Un’istituzione amministrativa indipendente creata nel 2003 attraverso la fusione dell’Institute of Space and Astronautical Science (ISAS), National Aerospace Laboratory of Japan (NAL) e National Space Development Agency of Japan (NASDA). L’obiettivo principale dell’istituzione è la ricerca e sviluppo nel settore spaziale e dell’aviazione.[linebreak][linebreak]Oltre al suo quartier generale a Chofu, Tokyo, la JAXA possiede diversi altri centri aerospaziali e di osservazione, compresi quelli situati a Sagamihara, prefettura di Kanagawa, Tsukuba, prefettura di Ibaraki, Usuda, prefettura di Nagano, e molti altri in tutto il Giappone.[linebreak][linebreak]La JAXA ha solo due siti di lancio, entrambi nella prefettura di Kagoshima. Uno si trova a Uchinoura e l’altro a Tanegashima. Questi sono gli unici siti di lancio per razzi in Giappone.[linebreak][linebreak]Nel mese di marzo 2010, conta circa 1.500 dipendenti.
 Chuunibyou
 ECHELON
 ECHELON
@@ -84,17 +84,17 @@ Kk
 Kk
 kk
 Net slang. Short for “okay.”
-Other
+Altro
 Oonusa
 Oonusa
 Oonusa
 A wand that is carried by a Shinto priest, adorned with “shide” paper. It is used in blessing rituals to ward off evil spirits.
-Other
+Altro
 Okinawa Defense Bureau
 Okinawa Defense Bureau
 Okinawa Defense Bureau
 One of the eight regional defense bureaus of the Ministry of Defense in Japan. It serves as the center for defense administration in Okinawa Prefecture.
-Other
+Altro
 Okinawa Monorail
 Okinawa Monorail
 Okinawa Monorail
@@ -114,37 +114,37 @@ Operation Skuld
 Operation Skuld
 Operation Skuld
 The final mission to reach Steins Gate, entrusted by Okabe Rintaro in the year 2025 to himself in the year 2010. The parameters for the mission’s success were as follows:[linebreak][linebreak]“Change the results of established events, without changing the events themselves.”[linebreak]“Deceive the original Okabe Rintaro.”[linebreak]“Deceive the world.”[linebreak][linebreak]Skuld is the youngest of the three Norns, the goddesses of fate in Norse mythology. The three sisters tend to the world tree, Yggdrasil, which has roots in Urd’s fountain. Skuld, specifically, is the Norn of the Future, and also a valkyrie.
-Other
+Altro
 Omiki
 Omiki
 Omiki
 Holy sake that is offered to the gods.
-Other
+Altro
 Orihime
 Orihime
 Orihime
 A girl who appears in the legend of Tanabata.[linebreak][linebreak]Orihime was the daughter of the Tentei (“Emperor of Heaven”) and was given the name Orihime (“Weaver Girl”) because of her mastery of the loom. She is married to Hikoboshi—also known as Natsuhikoboshi—but the Tentei decreed that they would only be allowed to meet once a year, on July 7th of the old Japanese calendar.[linebreak][linebreak]The star Vega in the constellation Lyra is referred to as Orihime’s star, as well as the “Arc-light of the Sky.”
-Science
+Scienza
 Kerr Black Hole
 Kerr Black Hole
 Kerr Black Hole
 A black hole whose existence has been theoretically predicted.[linebreak][linebreak]Unlike other black holes, the singularity at the center of a Kerr black hole rotates. As well as this, while other black holes have their singularities at a single point, the Kerr black hole’s singularity is shaped like a ring.
-Other
+Altro
 Parahippocampal gyrus
 Parahippocampal gyrus
 Parahippocampal gyrus
 The region of the brain surrounding the hippocampus.[linebreak][linebreak]The hippocampus is the part of the brain that controls memories and spatial recognition, while the parahippocampal gyrus is in charge of spatial reasoning and the sensation of “familiarity.” It also plays an important role in memory encoding and retrieval.
-Other
+Altro
 External Storage
 External Storage
 External Storage
 A data storage unit that can be detached from a computer, cell phone, or other electronic device. Some examples include external hard drives and flash drives.
-Other
+Altro
 Honest
 Honest
 Honest
 Slang.[linebreak][linebreak]Used to assert that a claim is truthful, e.g. “I did the dishes. Honest!”
-Other
+Altro
 Kadena Air Base
 Kadena Air Base
 Kadena Air Base
@@ -154,26 +154,26 @@ Kameko
 Kameko
 Kameko
 Short for “kamera kozou” (“camera boy”).[linebreak][linebreak]Refers to those who appear en masse at anime conventions—or wherever cosplayers frequent—and use expensive SLR (single-lens reflex) cameras to take pictures of scantily-clad women.[linebreak][linebreak]“Low anglers”—cameramen who photograph female cosplayers and idols from a low angle—are not considered true kameko, for a true kameko must be a gentleman above all else.
-Other
+Altro
 Déjà vu
 Déjà vu
 Déjà vu
 The feeling of having experienced something before despite not having actually experienced it. It feels as if one is recalling a genuine past experience, as opposed to an imagined experience or a dream. However, the individual is unable to recall when and where that experience occurred, which results in an intense feeling of strangeness.[linebreak][linebreak]The cause of déjà vu has yet to be determined. One theory is that it is a physiological phenomenon caused by an extremely rare temporary desynchronization of the “recollection” and “storage” functions of memory. The cause is theorized to be spasms in the brain’s parahippocampal gyrus, which is in charge of spatial reasoning and the sensation of “familiarity.”
-Other
+Altro
 Quiche
 Quiche
 Quiche
 A traditional French dish made by filling a pie crust with cream, cheese, eggs, meat, and vegetables, then cooking it to a flaky golden brown.
-Other
+Altro
 Kitchen Jiro
 Kitchen Jiro
 Kitchen Jiro
 A restaurant chain found in downtown Tokyo and the Kansai region. It is well known for its impressive menu, which offers delicious food served in bountiful combo meals.[linebreak][linebreak]In addition to the restaurants, Kitchen Jiro also offers a food delivery service.
-Other
+Altro
 Kitchen Toukai
 Kitchen Toukai
 Kitchen Toukai
-(Fictional) A long-established western-style restaurant located in Jinbocho. It offers delicious food at a reasonable price, so it’s often filled to the brim with businessmen and students at lunchtime.[linebreak][linebreak]The curry is especially popular.
+(Non reale) A long-established western-style restaurant located in Jinbocho. It offers delicious food at a reasonable price, so it’s often filled to the brim with businessmen and students at lunchtime.[linebreak][linebreak]The curry is especially popular.
 Internet
 Goggle
 Goggle
@@ -184,7 +184,7 @@ Cracking
 Cracking
 Cracking
 Computer terminology.[linebreak][linebreak]Used to describe actions such as illegally accessing networked systems, tampering with data, etc.[linebreak][linebreak]It is often confused with hacking, but the word “hacking” originally means the constructive study of software. Cracking, however, refers to malicious, unauthorized activity, so whenever the term “hacking” is used by the media, this is typically what they’re referring to.
-Other
+Altro
 Glock 17
 Glock 17
 Glock 17
@@ -199,12 +199,12 @@ Sniff Sniff
 Sniff Sniff
 Sniff Sniff
 Onomatopoeia used to describe the act of smelling something.[linebreak][linebreak]Often used in manga and on the internet, it is a favorite phrase of perverted gentlemen.[linebreak][linebreak]The origin of the term is unclear, but its usage has been recorded as far back as a popular manga in the early 1980s.
-Other
+Altro
 Guerrilla Attack Alert
 Guerrilla Attack Alert
 Guerrilla Attack Alert
 A type of alert from Japan’s early warning system, J-ALERT.[linebreak][linebreak]The J-ALERT system is a system used in the event of an emergency—such as a large-scale disaster or an armed attack—to send out information from the government to warn the populace. When activated, the J-ALERT system uses communications satellites to automatically activate all disaster warning systems throughout Japan, including loudspeakers, sirens, and alerts that interrupt radio and TV station broadcasts.[linebreak][linebreak]There are several different types of alerts, including Earthquake Early Warnings, Tokai earthquake alerts, tsunami warnings, volcanic eruption warnings, severe weather advisories, ballistic missile alerts, air raid alerts, guerrilla and special forces attack alerts, and large-scale terrorism alerts.
-Science
+Scienza
 Crystal Radio
 Crystal Radio
 Crystal Radio
@@ -214,7 +214,7 @@ Ghost in the Ball
 Ghost in the Ball
 Ghost in the Ball
 Future Gadget No. 7.[linebreak][linebreak]A gadget created by arranging twelve six-inch CRT monitors in a sphere. Small C-MOS cameras are installed in the gaps between the monitors, each of which are connected to the monitor on the opposite side of the sphere.[linebreak][linebreak]This attempt at practical optical camouflage is the greatest masterpiece among the completed Future Gadgets, but its sheer size makes it difficult to store.[linebreak][linebreak]Its name is a reference to the sci-fi manga, “Ghost in the Husk,” which has an anime adaptation.
-Other
+Altro
 Detective Agency
 Detective Agency
 Detective Agency
@@ -224,12 +224,12 @@ Legal Loli
 Legal Loli
 Legal Loli
 Refers to female characters in anime or manga who appears to be no older than an elementary schooler, but are in fact over the legal age of 20.
-Other
+Altro
 Go Go Curry
 Go Go Curry
 Go Go Curry
 A curry chain based out of Kanazawa, Ishikawa Prefecture.[linebreak][linebreak]The chain has stores all over Japan, but is primarily located in the northern and eastern parts of the country. It offers “Kanazawa Curry,” which is famous for its thick roux topped with katsu and cabbage.
-Other
+Altro
 DoD
 DoD
 DoD
@@ -239,7 +239,7 @@ Cosplay
 Cosplay
 Cosplay
 Short for “costume play.”[linebreak][linebreak]To dress up in costume, most often as a fictional character. People who cosplay are called “cosplayers,” which can be shortened to “’layers” in Japanese. Many cosplayers also make their own costumes.
-Other
+Altro
 National Diet Library
 National Diet Library
 National Diet Library
@@ -253,13 +253,13 @@ Otaku
 ComiMa
 ComiMa
 ComiMa
-(Fictional) Short for “Comic Giga Market.”[linebreak][linebreak] A massive otaku event held every year in August and December at Tokyo Big Sight.
-Other
+(Non reale) Short for “Comic Giga Market.”[linebreak][linebreak] A massive otaku event held every year in August and December at Tokyo Big Sight.
+Altro
 Golbachev
 Golbachev
 Golbachev
-(Fictional) Mikhail Sergeyevich Golbachev. He was the General Secretary of the Central Committee of the Communist Party of the Soviet Union, and the last leader of the USSR. He executed the “Perestroika” political movement and brought the Cold War to an end.
-Other
+(Non reale) Mikhail Sergeyevich Golbachev. He was the General Secretary of the Central Committee of the Communist Party of the Soviet Union, and the last leader of the USSR. He executed the “Perestroika” political movement and brought the Cold War to an end.
+Altro
 Colt Government
 Colt Government
 Colt Government
@@ -269,7 +269,7 @@ Soz
 Soz
 Soz
 Net slang. Short for “sorry.”[linebreak][linebreak]Often used in conjunction with “lol” or other common net slang, e.g. “Fuhihi, soz, lololol.”[linebreak][linebreak]Although it is indeed an apology, it is often used in order to tease or provoke the other party instead.
-Other
+Altro
 Hypnotherapy
 Hypnotherapy
 Hypnotherapy
@@ -279,27 +279,27 @@ Cyalume Saber
 Cyalume Saber
 Cyalume Saber
 Future Gadget No. 6.[linebreak][linebreak]A red chemical glowstick with a handle attached, allowing one to grip it like a sword. Made possible not just with Future Gadget Laboratory hardware, but also with chemical knowledge![linebreak][linebreak]Its name is a reference to “Spark Wars,” a series of epic sci-fi Hollywood movies.
-Other
+Altro
 Salieri
 Salieri
 Salieri
 Antonio Salieri (1750-1825). An Italian composer who lived in the same time as Mozart.[linebreak][linebreak]Salieri was court composer at Vienna for many years, and taught many famous composers such as Beethoven, Schubert, and Liszt.
-Science
+Scienza
 Sampling
 Sampling
 Sampling
 The act of taking data at regular intervals.
-Science
+Scienza
 Dentate gyrus
 Dentate gyrus
 Dentate gyrus
 A region of the hippocampus made up of cells known as “granule cells,” located near the parahippocampal gyrus.[linebreak][linebreak]In anatomy, the dentate gyrus is treated as separate from the hippocampus, but in neuroscience, they are often collectively referred to as the hippocampus.[linebreak][linebreak]Recent studies have shown that neurogenesis occurring in the dentate gyrus is intensely related to memory lapse.
-Science
+Scienza
 Event Horizon
 Event Horizon
 Event Horizon
 Also known as the “Schwarzchild surface.”[linebreak][linebreak]In a black hole, there exists a point beyond which even light can no longer escape the black hole’s immense gravity. This boundary is called the “event horizon.”[linebreak][linebreak]Because light and other electromagnetic waves are responsible for conveying information, nothing that occurs within the event horizon can be observed from the outside. That is the reason why black holes appear black—no light can escape from the center.
-Other
+Altro
 Job Hunting
 Job Hunting
 Job Hunting
@@ -313,23 +313,23 @@ Internet
 Noob
 Noob
 Noob
-Net slang. Short for “newbie.”[linebreak][linebreak]Generally used on websites and in games to mock foolish behavior, attributing it to the target’s inexperience.[linebreak][linebreak]Variants include “newb,” “n3wb,” “n00b,” etc. 
-Other
+Net slang. Short for “newbie.”[linebreak][linebreak]Generally used on websites and in games to mock foolish behavior, attributing it to the target’s inexperience.[linebreak][linebreak]Variants include “newb,” “n3wb,” “n00b,” etc.
+Altro
 John Titor
 John Titor
 John Titor
-A self-proclaimed time traveler from 2036 who appeared on an American internet message board in November of 2000.[linebreak][linebreak]The internet went into an uproar after Titor’s appearance, flooding the board with questions and debate. Titor went on to post pictures of his time machine and its operation manual, as well as diagrams illustrating time machine mechanics. He also disclosed information on near-future events, time travel physics, history intervention, the multiverse, timelines, and worldlines.[linebreak][linebreak]And then, four months after his initial appearance, he left a comment saying “I will be leaving this worldline shortly and this will be my final post,” and disappeared.
-Science
+A self-proclaimed time traveler from 2036 who appeared on an American internet message board in November of 2000.[linebreak][linebreak]The internet went into an uproar after Titor’s appearance, flooding the board with questions and debate. Titor went on to post pictures of his time machine and its operation manual, as well as diagrams illustrating time machine mechanics. He also disclosed information on near-future events, time travel physics, history intervention, the multiverse, timelines, and le linee di universo.[linebreak][linebreak]And then, four months after his initial appearance, he left a comment saying “I will be leaving this worldline shortly and this will be my final post,” and disappeared.
+Scienza
 Technological Singularity
 Technological Singularity
 Technological Singularity
 A theory proposed by mathematician Vernor Vinge and inventor Ray Kurzweil.[linebreak][linebreak]The technological singularity—or simply the “singularity”—refers to a point in time in which an AI is created whose intelligence exceeds that of humanity’s. The theory states that when the singularity is reached, all further technological advancement will be performed by AI without any human intervention. As a result of this, a non-human-centric civilization will begin to develop, marking a major paradigm shift in human history.[linebreak][linebreak]Kurzweil has stated that the singularity will occur sometime around 2045, and many other AI researchers, while they disagree on the exact date, say that it will happen eventually. However, opinions are still divided on what role humanity will play following the singularity.
-Science
+Scienza
 Nerve Impulse
 Nerve Impulse
 Nerve Impulse
 An electrical signal or stimulus that travels through the nerve cells of an organism. Has the ability to quickly transmit information between tissues.
-Science
+Scienza
 Artificial Intelligence
 Artificial Intelligence
 Artificial Intelligence
@@ -344,17 +344,17 @@ Super Hacka
 Super Hacka
 Super Hacka
 A tremendously skilled hacker. Or at least someone who claims to be one.[linebreak][linebreak]The threat “my friend’s a hacker, so he can easily find out who you are” often appears during arguments on the internet. People mockingly call the obviously nonexistent hacker a “hacka.”
-Other
+Altro
 Stratfo
 Stratfo
 Stratfo
-(Fictional) Short for “Strategic Focus.”[linebreak][linebreak]Stratfo is an American private intelligence agency, and it is sometimes referred to as the “Shadow CIA.” It has its own independent intelligence network that it uses to gather and analyze security information from all around the globe, and many famous companies and military organizations are present on its board of advisors.[linebreak][linebreak]They are a for-profit company, with completely different ideals and policies from groups like “Anonymous,” who crack classified information, or “WikiLeaks,” which publishes public interest-related information provided by whistleblowers.[linebreak][linebreak]There is a real information broker named Strategic Forecasting, Inc. that is based in Texas, but this company bears no relationship whatsoever to Strategic Focus.
-Other
+(Non reale) Short for “Strategic Focus.”[linebreak][linebreak]Stratfo is an American private intelligence agency, and it is sometimes referred to as the “Shadow CIA.” It has its own independent intelligence network that it uses to gather and analyze security information from all around the globe, and many famous companies and military organizations are present on its board of advisors.[linebreak][linebreak]They are a for-profit company, with completely different ideals and policies from groups like “Anonymous,” who crack classified information, or “WikiLeaks,” which publishes public interest-related information provided by whistleblowers.[linebreak][linebreak]There is a real information broker named Strategic Forecasting, Inc. that is based in Texas, but this company bears no relationship whatsoever to Strategic Focus.
+Altro
 Smartphone
 Smartphone
 Smartphone
 A general term for the cellular devices that became widespread starting in the early 2010s. It can view emails, browse the internet, and manage schedules, all while still carrying the normal voice communication functions of a mobile phone.[linebreak][linebreak]The recent introduction of a high-performance touchscreen led to most analysts believing that smartphones will explode in popularity.
-Other
+Altro
 When The Stars Become Right
 When The Stars Become Right
 When The Stars Become Right
@@ -364,62 +364,62 @@ Seishin Zanma School
 Seishin Zanma School
 Seishin Zanma School
 A style of swordsmanship taught to Urushibara Luka, the descendant of the ancient protectors of Akihabara, by his master, Hououin Kyouma. It functions to strengthen the mind and quell the evil flames that lurk within Urushibara, and only the cursed blade Samidare can bring out its true power.[linebreak][linebreak]One of its fiercest, most secret techniques is known only as the “Type-33 Cherry Blossom Rage”... or at least that’s what Okabe said when he made it up.
-Other
+Altro
 Psychophysiology Lab
 Psychophysiology Lab
 Psychophysiology Lab
-(Fictional) One of the labs at Viktor Chondria University.[linebreak][linebreak]While the Brain Science Institute works to understand the processes behind thought and memory by examining the systems used in the brain, the Psychophysiology Lab’s goals are more medical in nature. The Psychophysiology Lab develops new medical treatments by conducting research on the physiological effects caused by the various inner workings of the mind.[linebreak][linebreak]The lab’s research covers a wide array of areas, including perception, cognitive function, reflexes, learning, sleep, alcohol dependence, and schizophrenia.
-Other
+(Non reale) One of the labs at Viktor Chondria University.[linebreak][linebreak]While the Brain Science Institute works to understand the processes behind thought and memory by examining the systems used in the brain, the Psychophysiology Lab’s goals are more medical in nature. The Psychophysiology Lab develops new medical treatments by conducting research on the physiological effects caused by the various inner workings of the mind.[linebreak][linebreak]The lab’s research covers a wide array of areas, including perception, cognitive function, reflexes, learning, sleep, alcohol dependence, and schizophrenia.
+Altro
 Biometrics
 Biometrics
 Biometrics
 The use of fingerprints, voice recognition, vein/iris scanning, etc., instead of a password.
-Other
+Altro
 Worldline
 Worldline
 Worldline
 A term referring to the infinite number of possible worlds. However, these worlds do not exist in parallel to one another—only one exists at a given time.[linebreak][linebreak]Everything that occurs along a worldline, from the past to the future, has been predetermined. Thus, no matter how much you change the past along a single worldline, the result will always converge to the same outcome.
-Science
+Scienza
 Superficial Temporal Artery
 Superficial Temporal Artery
 Superficial Temporal Artery
 An artery located at one of the two end branches that splits from the external carotid artery. It runs from the neck to the top of the head, as well as between the temples and ears. It supplies blood to the skin, ears, and jaw joints.
-Other
+Altro
 Frontal lobe
 Frontal lobe
 Frontal lobe
 A region of the cerebrum located at the front of the brain. It controls thought, will, action, movement, creativity, and more.[linebreak][linebreak]The frontal lobe can be further divided by location into the prefrontal cortex, motor cortex, and premotor cortex.
-Other
+Altro
 Brainwashing
 Brainwashing
 Brainwashing
 The use of violent methods to forcibly reconstruct someone’s thoughts or principles.[linebreak][linebreak]Brainwashing is performed by applying intense external pressure via physical methods (such as confinement, threats, physical violence, use of drugs, etc.) or psychological methods (such as instilling guilt, verbal abuse, etc.)[linebreak][linebreak]It is a method of mental reconstruction that is even stronger than mind control.
-Science
+Scienza
 Theory of Relativity
 Theory of Relativity
 Theory of Relativity
 Refers to both Einstein’s special theory of relativity published in 1905, and his general theory of relativity published in 1916. Represented by the famous equation, E=mc².[linebreak][linebreak]The special theory of relativity is defined by the following axioms:[linebreak]“Objects cannot travel faster than the speed of light.”[linebreak]“As velocity approaches the speed of light, the passage of time approaches zero.”[linebreak]“As velocity approaches the speed of light, length approaches zero.”[linebreak]“As velocity approaches the speed of light, mass approaches infinity.”[linebreak][linebreak]The general theory of relativity adds the following axioms:[linebreak]“In the presence of large gravitational fields, the passage of time slows down.”[linebreak]“In the presence of large gravitational fields, space curves.”[linebreak]“In the presence of large gravitational fields, mass increases.”
-Other
+Altro
 Temporal lobe
 Temporal lobe
 Temporal lobe
 A region of the cerebrum located at the side of the brain. It controls memory, judgment, emotional restraint, hearing, and more. It is also used for accessing the hippocampus, which is located in the limbic system.
-Other
+Altro
 Soviet Union
 Soviet Union
 Soviet Union
 Short for the “Union of Soviet Socialist Republics” (USSR).[linebreak][linebreak]A federal communist state founded in 1922.[linebreak][linebreak]After the end of World War II, the Soviet Union engaged in the Cold War with America, before dissolving in 1991.[linebreak][linebreak]The state consisted of Russia, Belarus, Ukraine, Moldova, Georgia, Armenia, Azerbaijan, Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan, Tajikistan, Estonia, Latvia, and Lithuania.
-Other
+Altro
 Symptomatic Therapy
 Symptomatic Therapy
 Symptomatic Therapy
 Treatment intended not to cure the cause of a disease, but to alleviate its symptoms and reduce pain. Painkillers and fever reducers are examples of this.
-Science
+Scienza
 Cerebral Physiology
 Cerebral Physiology
 Cerebral Physiology
 The study of the cerebrum, the part of the brain that controls actions in mammals.[linebreak][linebreak]In recent years, many things have been achieved in the field of AI with a technology known as “neural networks,” a subset of machine learning that mimics the structure of the human brain. Because of this, it is becoming more and more popular to approach cerebral physiology from a computer science standpoint.
-Other
+Altro
 Cerebral cortex
 Cerebral cortex
 Cerebral cortex
@@ -429,7 +429,7 @@ Bamboo Helicam
 Bamboo Helicam
 Bamboo Helicam
 Future Gadget No. 2.[linebreak][linebreak]A CCD camera mounted to a bamboo toy helicopter. The camera is attached to the helicopter’s fulcrum, allowing it to record aerial footage unpowered. However, the image rotates at a high speed, so you might get dizzy if you keep looking at it.[linebreak][linebreak]Its name is a reference to the sci-fi manga, “22 Emon.”
-Other
+Altro
 Cheshire Cat
 Cheshire Cat
 Cheshire Cat
@@ -448,7 +448,7 @@ Internet
 Twipo
 Twipo
 Twipo
-(Fictional) The name of a microblogging application.[linebreak][linebreak]The posts, known as “tweeps,” are all limited to 140 full-width characters (such as Japanese characters) or 280 half-width characters (such as English letters).[linebreak][linebreak]Following a user on Twipo will cause that user’s tweeps to appear on your timeline, and users can send private messages as well.
+(Non reale) The name of a microblogging application.[linebreak][linebreak]The posts, known as “tweeps,” are all limited to 140 full-width characters (such as Japanese characters) or 280 half-width characters (such as English letters).[linebreak][linebreak]Following a user on Twipo will cause that user’s tweeps to appear on your timeline, and users can send private messages as well.
 Internet
 Bait
 Bait
@@ -459,12 +459,12 @@ Tsundere
 Tsundere
 Tsundere
 A girl who is usually aloof and acerbic (“tsun”), but becomes affectionate (“dere”) when alone with her romantic interest. However, the definition has become more broad recently.
-Science
+Scienza
 Philosophical Zombie
 Philosophical Zombie
 Philosophical Zombie
 A thought experiment proposed by philosopher David Chalmers in order to explain qualia.[linebreak][linebreak]Qualia are individual sensory experiences, such as “the color red,” “a good smell,” or “a sweet taste.” A philosophical zombie, meanwhile, is someone whose external experiences, internal structure, words, and actions mirror a human’s. However, despite these similarities, they do not possess qualia. Because of this, it is impossible to distinguish philosophical zombies from ordinary humans.
-Science
+Scienza
 Microwave Oven
 Microwave Oven
 Microwave Oven
@@ -474,22 +474,22 @@ PhoneWave (name subject to change)
 PhoneWave (name subject to change)
 PhoneWave (name subject to change)
 Future Gadget No. 8.[linebreak][linebreak]A microwave oven that can be remote controlled by a cell phone. By chance, it gained the ability to send “D-Mails,” emails that could go back into the past.[linebreak][linebreak]After he arrived in the Beta worldline, Okabe destroyed it and disposed of the remains.
-Other
+Altro
 Tokyo Denki University
 Tokyo Denki University
 Tokyo Denki University
 A university committed to cultivating scientists and engineers in order to promote the healthy development of science and technology.[linebreak][linebreak]First established in Kanda, Tokyo as the high school “Denki Gakko” in 1907, it was chartered as a university in 1949. It was founded around the educational maxim, “Respect for Practical Study,” and its motto is, “In the Technology Breathes its Creator.”[linebreak][linebreak]Because of the school’s location, it was deeply involved in the development of Akihabara.
-Other
+Altro
 Tokyo Hands
 Tokyo Hands
 Tokyo Hands
-(Fictional) A home improvement center chain based out of Tokyo.[linebreak][linebreak]Unlike most stores of its nature—which typically have large buildings situated outside city centers—Tokyo Hands has many department store-style buildings located around major train stations instead.[linebreak][linebreak]Tokyo Hands stores carry a wide variety of products, from professional-grade tools and materials, to accessories, to a whole host of other miscellaneous goods.
-Science
+(Non reale) A home improvement center chain based out of Tokyo.[linebreak][linebreak]Unlike most stores of its nature—which typically have large buildings situated outside city centers—Tokyo Hands has many department store-style buildings located around major train stations instead.[linebreak][linebreak]Tokyo Hands stores carry a wide variety of products, from professional-grade tools and materials, to accessories, to a whole host of other miscellaneous goods.
+Scienza
 Singularity
 Singularity
 Singularity
 In astrophysics, a point of infinite gravity.[linebreak][linebreak]Singularities are predicted to exist at the center of black holes. However, since it is impossible to observe the interior of a singularity, the existence of such cannot be proven. In a black hole, the singularity is formed by the gravitational collapse of a dying star.[linebreak][linebreak]For example, imagine a star that is over one million kilometers in diameter. Now imagine that entire star’s mass compressed into a space smaller than the period at the end of this sentence. That is a singularity.
-Other
+Altro
 Dr P
 Dr P
 Dr P
@@ -499,27 +499,27 @@ Urban Legend
 Urban Legend
 Urban Legend
 Rumors whose source is unknown or unclear, mainly from the 20th century or later. They can be divided into ghost stories, occult stories, and folklore, but the differences between these three categories have become rather vague recently.[linebreak][linebreak]Urban legends range from short, silly stories, to absolutely terrifying and nightmarish, and all of them are told as if they really happened. Examples of urban legends include the Japanese urban legend Hanako-san, Shadow People, or the Men in Black.
-Science
-Retrieval Signals 
-Retrieval Signals 
-Retrieval Signals 
+Scienza
+Retrieval Signals
+Retrieval Signals
+Retrieval Signals
 Nerve impulses in the cerebrum that are sent from the frontal lobe to the temporal lobe during memory retrieval.
 Internet
 Tripcode
 Tripcode
 Tripcode
 An encoded string of characters that appears next to a name on @channel.[linebreak][linebreak]By entering your name as “(Name)#(Some Word)”, you can cause (Some Word) to appear in an encrypted form.
-Other
+Altro
 DrinkWorks Studios
 DrinkWorks Studios
 DrinkWorks Studios
-(Fictional) An American film production company that primarily produces CGI-animated movies.
-Other
+(Non reale) An American film production company that primarily produces CGI-animated movies.
+Altro
 Turkish March
 Turkish March
 Turkish March
 The third movement of Mozart’s Piano Sonata No. 11 in A major.[linebreak][linebreak]Piano Sonata No. 11 is composed of three movements, but the third movement in particular is exceptionally famous, and is often performed on its own.[linebreak][linebreak]A normal sonata consists of four movements: an allegro, a slow movement—such as an andante or largo—a minuet, and an allegro once again. However, since the Piano Sonata only has three movements, it violates the standard structure of a sonata, but this can be considered yet another example of Mozart’s genius.
-Other
+Altro
 Naha Airport
 Naha Airport
 Naha Airport
@@ -528,8 +528,8 @@ Internet
 NicoLive
 NicoLive
 NicoLive
-(Fictional) Short for “Niconiya Livestreaming.”[linebreak][linebreak]A live streaming service offered by the major video streaming site, Niconiya Video.
-Science
+(Non reale) Short for “Niconiya Livestreaming.”[linebreak][linebreak]A live streaming service offered by the major video streaming site, Niconiya Video.
+Scienza
 Neuron
 Neuron
 Neuron
@@ -539,17 +539,17 @@ Nullpo
 Nullpo
 Nullpo
 An old @channel term.[linebreak][linebreak]First seen on the programming board in 2003, “nullpo” is short for “NullPointerException,” which is an error seen in the Java programming language. When someone announces “nullpo,” the correct response is to smack them on the head and say “Gah!”
-Science
+Scienza
 Von Neumann Architecture
 Von Neumann Architecture
 Von Neumann Architecture
 A type of computer architecture first proposed by mathematician John von Neumann in 1946.[linebreak][linebreak]In the early days of computing, computers made no distinction between what we now call the “OS” and a “program,” and were composed entirely of physical wiring, which greatly limited their potential. However, Von Neumann’s system allowed not only data, but even programs to be loaded onto hardware memory from an external source at any time, and then executed.[linebreak][linebreak]Nowadays, almost all modern computers use Von Neumann architecture.
-Science
+Scienza
 Brain Science
 Brain Science
 Brain Science
 The scientific study of the brain.[linebreak][linebreak]This field incorporates biology, genetics, medicine, psychology, and electrical engineering.
-Other
+Altro
 Noro
 Noro
 Noro
@@ -559,12 +559,12 @@ Byakhee
 Byakhee
 Byakhee
 Winged interstellar creatures that appear in the Cthulhu Mythos.[linebreak][linebreak]Created by August Derleth, the co-creator of the Cthulhu Mythos along with H.P. Lovecraft, these predators can be found in stories such as, “The House on Curwen Street.” They are described as being chimera-like creatures around 3 meters tall, with the wings of a pterosaur, the legs of an eagle, and an abdomen like a hornet’s. Despite their terrifying appearance, they understand human speech, and if they feel it’s in their best interest, they can even work together with humans.[linebreak][linebreak]In space, they usually travel at around one-tenth the speed of light, but an organ called the “hune” located in their abdomen allows them to fly faster than the speed of light.[linebreak][linebreak]The Byakhee are servants of Hastur, the god of shepherds, a creation of Ambrose Bierce, author of the famous book, “The Devil’s Dictionary.”
-Other
+Altro
 Paipatiroma
 Paipatiroma
 Paipatiroma
 A mystical, legendary island, whose name written in kanji means, “the island between the shining southern waves.”[linebreak][linebreak]It is said to be located even further south than Hateruma Island, Okinawa Prefecture, the southernmost inhabited island of Japan.[linebreak][linebreak]In Okinawan, “pai” means south, “pati” means end, and “roma” means “coral reef,” so all together it means, “the southernmost coral reef.”[linebreak][linebreak]The Okinawan faith has always believed that beyond the sea lies a mythical utopia called “Nirai Kanai,” and Paipatiroma is believed to be a variant of this. Another theory states that geographically, it could refer to Taiwan or Luzon island, but neither of these theories have been proven.[linebreak][linebreak]Incidentally, another island in the Yaeyama Islands, Yonaguni Island, has a belief in a legendary island called “Haidounan,” located at the end of the ocean. This island, just like Paipatiroma, is said to be south of the Yaeyama Islands. This goes to show just how deeply embedded the Nirai Kanai belief is in the area.
-Other
+Altro
 Butterfly Effect
 Butterfly Effect
 Butterfly Effect
@@ -573,13 +573,13 @@ Internet
 Parthenon
 Parthenon
 Parthenon
-(Fictional) A female freelance illustrator. She primarily does illustrations for Vocalo songs on Niconiya Video, and is popular mostly with young women.
-Other
+(Non reale) A female freelance illustrator. She primarily does illustrations for Vocalo songs on Niconiya Video, and is popular mostly with young women.
+Altro
 Solder
 Solder
 Solder
 An alloy comprised primarily of lead and tin that is used to join metal components together.
-Other
+Altro
 Pandora’s Box
 Pandora’s Box
 Pandora’s Box
@@ -589,7 +589,7 @@ Fiber-Optic Internet
 Fiber-Optic Internet
 Fiber-Optic Internet
 A high-speed, high-capacity broadband connection that uses fiber-optic cables. Also known as “FTTH” (“Fiber to the Home”), “fiber internet,” or simply “fiber.”[linebreak][linebreak]Instead of relying on existing telephone lines, fiber-optic internet requires the construction of a whole new communications network. For this reason, fiber-optic internet has taken longer to implement than ADSL internet did.[linebreak][linebreak]As of 2010, 35% of Japan has fiber-optic internet.
-Other
+Altro
 Hikoboshi
 Hikoboshi
 Hikoboshi
@@ -599,27 +599,27 @@ Bit Particle Gun
 Bit Particle Gun
 Bit Particle Gun
 Future Gadget No. 1.[linebreak][linebreak]The very first Future Gadget, it is a toy ray gun with a TV remote jammed inside. The wielder can change channels by pointing it at the TV and pulling the trigger. However, the only supported button is “Channel +.” No other buttons, such as the volume control, are usable. To turn the TV on, you must manually flip the switch on the TV.[linebreak][linebreak]Its name is a reference to the classic Japanese robot anime, “Mobile Jacket Gunbam.”
-Other
+Altro
 Valley of Hinnom
 Valley of Hinnom
 Valley of Hinnom
 The name of a valley in eastern Israel, located on the south side of the old city district of Jerusalem. Also known as “Gehenna.”[linebreak][linebreak]The valley was once where foul garbage and executed criminals were disposed of, and it was always filled with fires, black smoke, and a horrible stench. As well as this, it was also where human sacrifices were offered to the god Moloch, leading the valley to be reviled by the people.[linebreak][linebreak]The sight of this valley, constantly burning with unholy fires, became linked in people’s minds with the idea of hell, and before long, Gehenna would become a symbol of hell.[linebreak][linebreak]The Hebrew root word for the Valley of Hinnom was “Gehinnom,” which became the Greek “Geenna” and later the English “Gehenna.” This is also why the flames that burn in hell are sometimes known as the “flames of Gehenna.”
-Other
+Altro
 Puchin
 Puchin
 Puchin
-(Fictional) Vladimir Vladimirovich Puchin. From 2000 to 2008, he was the 2nd President of Russia, and after 2008, he became the Prime Minister.[linebreak][linebreak]A former KGB agent.
-Science
+(Non reale) Vladimir Vladimirovich Puchin. From 2000 to 2008, he was the 2nd President of Russia, and after 2008, he became the Prime Minister.[linebreak][linebreak]A former KGB agent.
+Scienza
 Ferdinand Braun
 Ferdinand Braun
 Ferdinand Braun
 Karl Ferdinand Braun (1850-1918). A German man who invented the Braun tube.[linebreak][linebreak]Winner of the 1909 Nobel Prize in Physics.
-Other
+Altro
 Phonetic Code
 Phonetic Code
 Phonetic Code
 A method of pronouncing letters used to avoid being misunderstood on wireless channels.
-Science
+Scienza
 Institute of Materials Structure Science
 Institute of Materials Structure Science
 Institute of Materials Structure Science
@@ -628,7 +628,7 @@ Akihabara
 Braun Tube Workshop
 Braun Tube Workshop
 Braun Tube Workshop
-(Fictional) A CRT TV shop located on the first floor of the multipurpose “Ohiyama Building” in Suehirocho. Tennouji Yuugo, the owner of the store, also owns the Ohiyama Building.[linebreak][linebreak]Located at the very back of the store is a very rare 42’ CRT TV. [linebreak][linebreak]The store only gets a few customers a day, but strangely enough, it’s been one of the few stores that’s survived over the years in the constantly-changing landscape of Akihabara.
+(Non reale) A CRT TV shop located on the first floor of the multipurpose “Ohiyama Building” in Suehirocho. Tennouji Yuugo, the owner of the store, also owns the Ohiyama Building.[linebreak][linebreak]Located at the very back of the store is a very rare 42’ CRT TV. [linebreak][linebreak]The store only gets a few customers a day, but strangely enough, it’s been one of the few stores that’s survived over the years in the constantly-changing landscape of Akihabara.
 Otaku
 Flag
 Flag
@@ -638,13 +638,13 @@ Otaku
 Blood Tune
 Blood Tune
 Blood Tune
-(Fictional) Short for “Blood Tune: THE ANIMATION.”[linebreak][linebreak]Originally a manga, it received an anime adaptation last year. The main heroine, Seira Orgel, is especially popular among anime otaku, with many figures of her being released.
-Science
+(Non reale) Short for “Blood Tune: THE ANIMATION.”[linebreak][linebreak]Originally a manga, it received an anime adaptation last year. The main heroine, Seira Orgel, is especially popular among anime otaku, with many figures of her being released.
+Scienza
 Flashback
 Flashback
 Flashback
 A symptom of post-traumatic stress disorder (PTSD).[linebreak][linebreak]In the case of PTSD, flashbacks are a psychological phenomenon in which patients who have undergone extreme trauma can suddenly find themselves reliving the memories of those experiences, often after experiencing some sort of “trigger.” These flashbacks can cause symptoms such as heart palpitations, tremors in the hands and feet, and more.
-Other
+Altro
 Freemasons
 Freemasons
 Freemasons
@@ -654,51 +654,51 @@ Flame
 Flame
 Flame
 Net slang.[linebreak][linebreak]Refers to the act of harshly insulting and/or trolling someone online, sometimes as a group.
-Other
+Altro
 Propaganda
 Propaganda
 Propaganda
 The propagation of a particular ideology, often used primarily for the spread of political or religious principles and ideas. The use of the mass media to manipulate public opinion also falls under this definition.[linebreak][linebreak]This method of propagating information first saw use in the Roman Empire, but ever since the 20th century and the advent of two world wars, the tactic has expanded and grown all the more sophisticated.[linebreak][linebreak]In some cases, the propaganda being spread is not necessarily true. If the principles and ideas of the propaganda will still be conveyed properly and it is advantageous to the propagandist, false information can be nonchalantly mixed into the content, as well as slander against the enemy party.
-Other
+Altro
 Parallel World
 Parallel World
 Parallel World
 A universe that exists separate from ours.[linebreak][linebreak]It is believed that some parallel worlds may be strikingly similar to ours, even containing duplicates of ourselves.
-Other
+Altro
 Babydoll
 Babydoll
 Babydoll
 A type of lingerie worn by women, characterized by its wide hem that fluffs out.
-Other
+Altro
 Berlin Wall
 Berlin Wall
 Berlin Wall
 A wall that divided Berlin, the capital of Germany.[linebreak][linebreak]After World War II, Berlin was divided into two sides: the eastern side, which was controlled by the Soviet Union, and the western side, which was controlled by America, England, and France. Soon after, Germany would split itself into West Germany and East Germany. The portion of Berlin in East Germany remained its capital, but West Berlin remained occupied by the allied powers, while also being cut off from the rest of West Germany, which lay approximately 100 miles to the west.[linebreak][linebreak]In 1961, East Germany built a wall around the city in response to continuing attempts by its citizens to seek asylum in West Berlin. This was the Berlin Wall.[linebreak][linebreak]From the day of its establishment to the day of its destruction in 1989, the Berlin Wall served as a symbol of the Cold War, as well as the physical and ideological divide between East and West Germany.[linebreak][linebreak]Additionally, West Berlin was never officially West German territory—they simply operated as a stand-in for foreign affairs and currency administration.
-Other
+Altro
 Perestroika
 Perestroika
 Perestroika
 Russian for “restructuring.”[linebreak][linebreak]A policy of economic reform via the introduction of market-oriented economics, implemented in the Soviet Union in 1985.[linebreak][linebreak]It was originally intended to revive the stalled socialist economy, but it ultimately led to the collapse of the Communist Party of the Soviet Union’s one-party state, as well as the dissolving of the USSR.
-Other
+Altro
 Editorial Company
 Editorial Company
 Editorial Company
 A company that does editorial work or other special projects for a variety of publishing companies.
-Other
+Altro
 Ministry of Defense
 Ministry of Defense
 Ministry of Defense
 One of the central ministries of Japan, it manages and operates the Self-Defense Forces.[linebreak][linebreak]In 2007, it changed its name from the “Defense Agency” to the “Ministry of Defense.”
-Other
+Altro
 Vocalo
 Vocalo
 Vocalo
-(Fictional) A software developed for home computers that allows for the creation of an artificial singing voice.[linebreak][linebreak]Developed and marketed by Japanese instrument manufacturer YAMANA.
+(Non reale) A software developed for home computers that allows for the creation of an artificial singing voice.[linebreak][linebreak]Developed and marketed by Japanese instrument manufacturer YAMANA.
 Otaku
 MacDyver
 MacDyver
 MacDyver
-(Fictional) A popular TV drama that aired in America from 1985 to 1992. The protagonist, MacDyver, was famous for overcoming obstacles with tools fashioned from common household items.
+(Non reale) A popular TV drama that aired in America from 1985 to 1992. The protagonist, MacDyver, was famous for overcoming obstacles with tools fashioned from common household items.
 Internet
 Shitpost
 Shitpost
@@ -709,7 +709,7 @@ Once again...
 Once again...
 Once again...
 Future Gadget No. 5.[linebreak][linebreak]Short for “Once Again I Made Something Worthless, by Goemon.”[linebreak][linebreak]Created by combining a dryer and a vacuum. The dryer is operated using the exhaust of the vacuum.[linebreak][linebreak]Its name is a reference to the popular anime, “Lupants the Third.”
-Other
+Altro
 The Magic Flute
 The Magic Flute
 The Magic Flute
@@ -733,18 +733,18 @@ Chuunibyou
 Future Gadget Laboratory
 Future Gadget Laboratory
 Future Gadget Laboratory
-(Fictional) A “lab” in name only, it is actually a group of students who make strange inventions.[linebreak][linebreak]The lab’s founder, Okabe Rintaro, describes it as “a place where he can further his ambitions to rearrange the ruling structure of the world.”[linebreak][linebreak]To get there, from Akihabara Station, head down Chuo-dori until you reach Suehirocho Station, then take a left onto Kuramaebashi-dori. In the alley before the traffic light, you’ll find the run-down Ohiyama Building. The lab is on the second floor.
+(Non reale) A “lab” in name only, it is actually a group of students who make strange inventions.[linebreak][linebreak]The lab’s founder, Okabe Rintaro, describes it as “a place where he can further his ambitions to rearrange the ruling structure of the world.”[linebreak][linebreak]To get there, from Akihabara Station, head down Chuo-dori until you reach Suehirocho Station, then take a left onto Kuramaebashi-dori. In the alley before the traffic light, you’ll find the run-down Ohiyama Building. The lab is on the second floor.
 Internet
 Wireless LAN
 Wireless LAN
 Wireless LAN
 A method of connecting to the internet and sending/receiving data without the use of a LAN cable.
-Other
+Altro
 Pluto
 Pluto
 Pluto
 A dwarf planet discovered in 1930 by astronomer Clyde Tombaugh.[linebreak][linebreak]For years, Pluto was defined as the 9th planet from the sun, and due to its status as the most distant planet, it often appeared in fiction. However, later developments in astronomy revealed that there were many other planets that were roughly the same size as Pluto, and a fierce debate ensued as to whether they should be counted as well.[linebreak][linebreak]In the end, the International Astronomical Union adopted the term “dwarf planet” in 2006, and Pluto was classified as such.
-Other
+Altro
 Major Curry
 Major Curry
 Major Curry
@@ -754,7 +754,7 @@ Moad Snake
 Moad Snake
 Moad Snake
 Future Gadget No. 4.[linebreak][linebreak]An instant super-humidifier. Uses electric heating coils to quickly boil a large volume of water. This generates enough steam to fill a room of 12 square meters, though it can only be operated continuously for a few seconds. It looks like a claymore land mine, which is sure to appeal to military otaku.[linebreak][linebreak]Its name is a reference to the stealth action game, “Metal Moa Solid: Rising.”
-Other
+Altro
 Mozart
 Mozart
 Mozart
@@ -764,22 +764,22 @@ Could This Be Ora Ora?!
 Could This Be Ora Ora?!
 Could This Be Ora Ora?!
 Future Gadget No. 3.[linebreak][linebreak]A lie detector based on thumb perspiration. Though it might be more appropriate to call it a sweat detector, you have to admit it’s a pretty clever invention.[linebreak][linebreak]Its name is a reference to the classic manga, “JuJu’s Bizarre Adventures.”
-Other
+Altro
 Mondi
 Mondi
 Mondi
-(Fictional) A curry restaurant in Jinbocho.[linebreak][linebreak]The restaurant is famous for its full-bodied European style curry, but is overall a little outside the price range of a college student.[linebreak][linebreak]Each meal comes with endless fries.
+(Non reale) A curry restaurant in Jinbocho.[linebreak][linebreak]The restaurant is famous for its full-bodied European style curry, but is overall a little outside the price range of a college student.[linebreak][linebreak]Each meal comes with endless fries.
 Akihabara
 Yanabayashi Shrine
 Yanabayashi Shrine
 Yanabayashi Shrine
 A shrine in Akihabara.[linebreak][linebreak]Yanabayashi Shrine is located on the other side of Kanda River. To find it, enter the first side road after crossing Manseibashi Bridge. Then, when you reach a gate, go through it, and it’ll be right along the river.[linebreak][linebreak]Home to many stray cats, as well as Urushibara Luka.
-Other
+Altro
 Yugawaya
 Yugawaya
 Yugawaya
-(Fictional) A large specialty store founded over 60 years ago that sells craft and hobby supplies, fabric, and other miscellaneous goods.[linebreak][linebreak]There are over 60 locations all over the country, but they are located mostly in the Kanto region.
-Other
+(Non reale) A large specialty store founded over 60 years ago that sells craft and hobby supplies, fabric, and other miscellaneous goods.[linebreak][linebreak]There are over 60 locations all over the country, but they are located mostly in the Kanto region.
+Altro
 Four Elementals
 Four Elementals
 Four Elementals
@@ -788,12 +788,12 @@ Otaku
 RaiNet Kakeru
 RaiNet Kakeru
 RaiNet Kakeru
-(Fictional) A popular manga serialized in LocoLoco Comics.[linebreak][linebreak]The third season of the anime adaptation is currently airing every Sunday at 9:00 AM on ToTV. Although the series is ostensibly aimed at children, the realistic themes depicted also appeal to adults.
-Other
+(Non reale) A popular manga serialized in LocoLoco Comics.[linebreak][linebreak]The third season of the anime adaptation is currently airing every Sunday at 9:00 AM on ToTV. Although the series is ostensibly aimed at children, the realistic themes depicted also appeal to adults.
+Altro
 Rounder
 Rounder
 Rounder
-(Fictional) An unofficial group that works for SERN.[linebreak][linebreak]The rounders are, in theory, an independent group that performs various activities such as technical investigations. However, their real objective is to recover the IBN 5100s, the only machines capable of hacking SERN’s hidden database. In addition, they are to crush any attempts at time machine research around the world, while also kidnapping the scientists involved in order to force them to work for SERN. They are, in essence, mercenaries who are capable of using force if necessary.[linebreak][linebreak]Rounders are deployed all over the world, and their exact numbers are unknown. Yet, despite this, some of the members on the bottom rung do their work without ever meeting another Rounder face-to-face.
+(Non reale) An unofficial group that works for SERN.[linebreak][linebreak]The rounders are, in theory, an independent group that performs various activities such as technical investigations. However, their real objective is to recover the IBN 5100s, the only machines capable of hacking SERN’s hidden database. In addition, they are to crush any attempts at time machine research around the world, while also kidnapping the scientists involved in order to force them to work for SERN. They are, in essence, mercenaries who are capable of using force if necessary.[linebreak][linebreak]Rounders are deployed all over the world, and their exact numbers are unknown. Yet, despite this, some of the members on the bottom rung do their work without ever meeting another Rounder face-to-face.
 Chuunibyou
 Lab Mems
 Lab Mems
@@ -808,18 +808,18 @@ Internet
 Normies Must Die-P
 Normies Must Die-P
 Normies Must Die-P
-(Fictional) A Vocalo producer so popular, two of his videos have exceeded a million views.[linebreak][linebreak]Normies Must Die-P is especially well-known for the unique worldview he presents with his lyrics. As his name suggests, many of his songs criticize “normies,” as well as himself for not having any friends. Because of this, his songs serve as a source of emotional support for viewers that have found themselves in similar dire straits.[linebreak][linebreak]His songs always feature illustrations drawn by the same illustrator, Parthenon.[linebreak][linebreak]With the video contents and Parthenon’s cute illustrations combined, the popularity of the videos skyrockets.
-Science
+(Non reale) A Vocalo producer so popular, two of his videos have exceeded a million views.[linebreak][linebreak]Normies Must Die-P is especially well-known for the unique worldview he presents with his lyrics. As his name suggests, many of his songs criticize “normies,” as well as himself for not having any friends. Because of this, his songs serve as a source of emotional support for viewers that have found themselves in similar dire straits.[linebreak][linebreak]His songs always feature illustrations drawn by the same illustrator, Parthenon.[linebreak][linebreak]With the video contents and Parthenon’s cute illustrations combined, the popularity of the videos skyrockets.
+Scienza
 RIKEN
 RIKEN
 RIKEN
 Short for “The Institute of Physical and Chemical Research.”[linebreak][linebreak]Founded in 1917, RIKEN is Japan’s only comprehensive natural science-based institute.[linebreak][linebreak]Research at RIKEN covers a variety of fields, such as physics, engineering, chemistry, computational science, biology, and medicine.[linebreak][linebreak]While the main site is in Wako City, Saitama Prefecture, there are campuses in the Hyogo and Kanagawa Prefectures, as well as a few other locations throughout Japan. Additionally, RIKEN also has research centers in America, England, and other countries.
-Other
+Altro
 Ryukyu Kingdom
 Ryukyu Kingdom
 Ryukyu Kingdom
 The kingdom that would later become modern-day Okinawa.[linebreak][linebreak]The Ryukyu Kingdom’s history is quite long, stretching back for nearly half a millenium. The kingdom was an independent monarchy ruled by the King of Ryukyu, and it served as a major trading nation in Asia. Because of this, the kingdom prospered for a long 450 years.[linebreak][linebreak]The capital was located in Shuri, which was located in what is now Naha, and the king’s residence, Shuri Castle, was the administrative center. Aside from the king, high-ranking noble families called “ueekata” built castles called “gusuku” on top of mountains and hills, and ruled over their own specific areas.[linebreak][linebreak]In 1609, the Ryukyu Kingdom was invaded by the Satsuma Domain, and was forced to pay tribute to both the Satsuma Domain and the Edo Shogunate. In the process, the Ryukyu Kingdom became the “Ryukyu Domain,” but they were still allowed to maintain their independent status. However, in 1879, the Government of Meiji Japan forced them to surrender Shuri Castle, and with that, the Ryukyu Domain officially became a part of Japan as “Okinawa Prefecture.”[linebreak][linebreak]Religious rituals played an extremely important role in the Ryukyu Kingdom, and they were always performed by priestesses called “noro.”
-Science
+Scienza
 Quantum Computer
 Quantum Computer
 Quantum Computer
@@ -829,27 +829,27 @@ R’lyeh
 R’lyeh
 R’lyeh
 An ancient island in the Cthulhu Mythos that fell below the sea during an earthquake. As a result, it is now an undersea city located at 47°9’S 126°43’W, which in the South Pacific between New Zealand and the western coast of Chile.[linebreak][linebreak]It is believed that the Great Old One Cthulhu lies dormant within the depths of R’lyeh, and when the stars are right, he will be awakened, and R’lyeh will rise along with him.
-Other
+Altro
 Resistance
 Resistance
 Resistance
 An armed group of irregular fighters who oppose a government, the members of that group, or some other entity.[linebreak][linebreak]The differences between a resistance fighter and a terrorist are very minimal.
-Other
+Altro
 Leltsin
 Leltsin
 Leltsin
-(Fictional) Boris Nikolayevich Leltsin. A former USSR politician.[linebreak][linebreak]After the fall of the Soviet Union, he became the 1st President of the Russia, as well as the Prime Minister.[linebreak][linebreak]Died in 2007.
-Other
+(Non reale) Boris Nikolayevich Leltsin. A former USSR politician.[linebreak][linebreak]After the fall of the Soviet Union, he became the 1st President of the Russia, as well as the Prime Minister.[linebreak][linebreak]Died in 2007.
+Altro
 Alchemy
 Alchemy
 Alchemy
 The art of taking one thing and transmuting it into another. In fiction and conspiracy theories, even human bodies and souls can be transmuted. However, the fundamental law of alchemy, “equivalent exchange,” must be observed at all times.[linebreak][linebreak]In the Middle Ages, alchemists attempted to use chemical processes to transmute common metals, such as lead, into precious metals, such as gold. Their efforts paved the way for modern chemistry.
-Other
+Altro
 SVR
 SVR
 SVR
 Short for the “Foreign Intelligence Service of the Russian Federation,” abbreviated as “CBP” in Russian.[linebreak][linebreak]Russia’s external intelligence agency.[linebreak][linebreak]After the dissolution of the Committee for State Security (KGB), the SVR was estbalished, modeled after the KGB’s First Chief Directorate, which was in charge of foreign intelligence. Their HQ is located south of Moscow, in the Yasenevo District.[linebreak][linebreak]There are other intelligence agencies in Russia as well, such as the  “Main Directorate of the General Staff of the Armed Forces of the Russian Federation” (“GRU”) and the “Federal Security Service” (“FSB”). Each of them has their own territory and specialization in the field of intelligence.
-Other
+Altro
 Lobotomy
 Lobotomy
 Lobotomy
@@ -859,7 +859,7 @@ Planetary Alignment
 Planetary Alignment
 Planetary Alignment
 The name for a phenomenon where all planets in the solar system line up in relation to the sun.[linebreak][linebreak]This phenomenon can occur anywhere from once every few decades, to once every several centuries. The most recent one occurred in 1982, and the next will be in 2161.[linebreak][linebreak]There is no scientific value to this phenomenon, but it creates ideal conditions for visiting several planets at the same time. For this reason, it was used in the Voyager program.[linebreak][linebreak]Since the visuals of the alignment are very striking, planetary alignments are very common in works dealing with the occult.
-Other
+Altro
 Valkyrie
 Valkyrie
 Valkyrie
@@ -869,7 +869,7 @@ ROFL
 ROFL
 ROFL
 Net slang. Short for “rolling on the floor laughing.”[linebreak][linebreak]Variants include “ROFLMAO” (“rolling on the floor laughing my ass off”), and “ROFLCOPTER” (like ROFL, but fused with a helicopter).
-Science
+Scienza
 A10 Nerve
 A10 Nerve
 A10 Nerve
@@ -879,51 +879,51 @@ ADSL
 ADSL
 ADSL
 Short for “Asymmetric Digital Subscriber Line.”[linebreak][linebreak]A type of internet connection that uses telephone lines for high-speed data transmission.[linebreak][linebreak]In the early 2000s, ADSL quickly replaced ISDN as the de-facto method of connecting to the internet. However, in the latter part of the decade, fiber-optic internet services—a much faster service utilizing fiber-optic cables—became more popular, and the number of ADSL users has declined ever since.
-Other
+Altro
 CCD Camera
 CCD Camera
 CCD Camera
 A camera that uses a semiconductor device known as a “CCD” (“charge-coupled device”). However, in general conversation, the term is sometimes used to refer to any extremely small camera.
-Other
+Altro
 CIA
 CIA
 CIA
 Short for the American “Central Intelligence Agency.”[linebreak][linebreak]A foreign intelligence service that reports directly to the President of the United States. They engage in espionage, intelligence gathering, and political manipulation in foreign nations in order to guarantee America’s security.[linebreak][linebreak]They are said to have been involved in many major historical events.
-Science
+Scienza
 Der Alte w[ü]rfelt nicht.
 Der Alte w[ü]rfelt nicht.
 DERALTEWURFELTNICHT
 A phrase found in a letter written by theoretical physicist Albert Einstein to his good friend and theoretical physicist Max Born, in December of 1926. In English it translates to, “God does not play dice [with the Universe].”[linebreak][linebreak]Einstein made great contributions to early quantum theory, but he was skeptical of the field’s central idea that quanta behave in a probabilistic manner. This phrase was intended to express his disagreement with the idea.
-Science
+Scienza
 DNA
 DNA
 DNA
 Short for “deoxyribonucleic acid.”[linebreak][linebreak]The material that makes up genes, commonly referred to as genetic material.[linebreak][linebreak]DNA resembles a long, narrow thread with a double-helix structure, and consists of four bases: Adenine [A], Guanine [G], Cytosine [C], and Thymine [T], all of which are paired off with one another. The base sequence determines the genetic information of a creature, and the number of bases varies from organism to organism. In the case of humans, the number is approximately 3.1 billion.
-Science
+Scienza
 DURPA
 DURPA
 DURPA
-(Fictional) Short for the American “Defense Ultimate Research Projects Agency.”[linebreak][linebreak]A research and development agency that reports directly to the President of the United States and the Secretary of Defense. It was created in order to adapt the latest scientific technology for military purposes.[linebreak][linebreak]It is staffed by around 300 people, many of whom are non-military civilians, and since it reports directly to the Secretary of Defense, it is kept free of direct military interference.[linebreak][linebreake]It is said that researchers in DURPA are given wide latitude to pursue projects they find interesting. During the days of its predecessor, URPA, the researchers were responsible for the development of the Global Positioning System (GPS), as well as URPANET, which would later become the internet.
-Other
+(Non reale) Short for the American “Defense Ultimate Research Projects Agency.”[linebreak][linebreak]A research and development agency that reports directly to the President of the United States and the Secretary of Defense. It was created in order to adapt the latest scientific technology for military purposes.[linebreak][linebreak]It is staffed by around 300 people, many of whom are non-military civilians, and since it reports directly to the Secretary of Defense, it is kept free of direct military interference.[linebreak][linebreake]It is said that researchers in DURPA are given wide latitude to pursue projects they find interesting. During the days of its predecessor, URPA, the researchers were responsible for the development of the Global Positioning System (GPS), as well as URPANET, which would later become the internet.
+Altro
 D-Mail
 D-Mail
 D-Mail
 Short for “DeLorean Mail.”[linebreak][linebreak]An email that can be sent to the past.[linebreak][linebreak]D-Mails are sent from a cellular phone to Future Gadget No. 8: the PhoneWave (name subject to change), and can then be sent to the past. It is possible to specify how far back in the past D-Mails are sent, but only in units of one hour. However, D-Mails cannot be sent too close to the present, and they may only contain a little over 36 bytes of data.
-Science
+Scienza
 ENIAC
 ENIAC
 ENIAC
 Short for the “Electronic Numerical Integrator And Computer.”[linebreak][linebreak]One of the very first computers, built in America in 1947.[linebreak][linebreak]The computer was used to calculate artillery tables, and the mathematician John von Neumann participated in its development. It used over 17,000 vacuum tubes, and was over a thousand times faster than existing electronic calculators. However, as vacuum tubes at the time were very poorly made, several would break and would have to be replaced each day.[linebreak][linebreak]ENIAC is often called the world’s first general-purpose electronic computer, but others, such as the Atanasoff-Berry Computer, existed before the ENIAC did. Thus, it is more precisely described as the first computer that became widely known.
-Other
+Altro
 FBI
 FBI
 FBI
 Short for the “Federal Bureau of Investigation.”[linebreak][linebreak]An American police organization that is attached to the Department of Justice and handles crimes that occur on American soil.[linebreak][linebreak]Approximately 30,000 people work for the FBI, and whenever crimes take place involving a wide area and multiple states, the FBI investigates under federal law.
-Other
+Altro
 IBN 5100
 IBN 5100
 IBN 5100
-(Fictional) IBN’s first portable computer, which went on sale in 1975.[linebreak][linebreak]The design includes an integrated monitor and keyboard, and while it is described as “portable,” it weighs almost 25 kilograms.[linebreak][linebreak]In the 2000s, John Titor revealed that there was a special computer language that could only be used on devices of this type—which was not described in the manual—and the IBN developers would later admit that he was correct.
+(Non reale) IBN’s first portable computer, which went on sale in 1975.[linebreak][linebreak]The design includes an integrated monitor and keyboard, and while it is described as “portable,” it weighs almost 25 kilograms.[linebreak][linebreak]In the 2000s, John Titor revealed that there was a special computer language that could only be used on devices of this type—which was not described in the manual—and the IBN developers would later admit that he was correct.
 Internet
 IP
 IP
@@ -934,7 +934,7 @@ ISDN
 ISDN
 ISDN
 Short for “Integrated Services Digital Network.”[linebreak][linebreak]A completely digital network that used digital exchanges, relays, and subscriber lines. It was a lot faster than the analog lines that were originally used by dial-up internet services, but its userbase massively decreased after the introduction of ADSL, a much faster line.
-Other
+Altro
 K331
 K331
 K331
@@ -949,42 +949,42 @@ Deets plz
 Deets plz
 Deets plz
 Net slang. Short for “Further details, please.”
-Science
+Scienza
 LHC
 LHC
 LHC
 Short for the “Large Hadron Collider.”[linebreak][linebreak]A device that accelerates charged particles in order to research the reactions that result when such particles collide.[linebreak][linebreak]Built by SERN and located 100 meters below the ground in Geneva, Switzerland, it is the world’s largest ring-shaped particle accelerator at 27 kilometers long.[linebreak][linebreak]Many different teams, including one from Japan, use the device to perform experiments.[linebreak][linebreak]The reason for the ring shape is because when charged particles pass through an electromagnetic field, Lorentz force causes their trajectory to shift slightly.
-Science
+Scienza
 Linux
 Linux
 Linux
 An operating system developed in 1991 to be compatible with the general-purpose OS, “Unix.”[linebreak][linebreak]In the early 90s, Unix was extremely expensive and not readily available, so Linus Torvalds (a university student at the time) developed Linux as an alternative. The code is open source, and programmers from all around the world contributed to its development until it reached the point where it could be used for commercial purposes.[linebreak][linebreak]Nowadays, many modern web servers use Linux.
-Other
+Altro
 MIB
 MIB
 MIB
 Short for “Men In Black.”[linebreak][linebreak]An American urban legend.[linebreak][linebreak]It is said that the Men in Black are secret government agents who appear without warning before UFO witnesses or researchers in order to put a stop to their activities.[linebreak][linebreak]It is not known whether any such secret agency actually exists.[linebreak][linebreak]The name comes from the commonly-held belief that they dress in all black, with black suits and black sunglasses.[linebreak][linebreak]A movie of the same name, based loosely on the urban legend, helped popularize the idea.
-Other
+Altro
 NSC
 NSC
 NSC
 Short for the “American National Security Council.”[linebreak][linebreak]A group of people that work directly for the White House and advise the President on national security matters. It consists of the President, the Vice President, the Secretary of State, the Secretary of the Treasury, and the Secretary of Defense.
-Science
+Scienza
 OCR Technology
 OCR Technology
 OCR Technology
 Short for “Optical Character Recognition Technology.”[linebreak][linebreak]A technology that allows a computer to read and recognize letters written on paper.[linebreak][linebreak]Although humans can easily read text composed of printed letters, it is extremely difficult for a machine to do so. This was initially considered to be a pattern recognition problem, which is a field of AI research.[linebreak][linebreak]Nowadays, OCR technology has advanced so much that OCR is used in many commercial services.
-Other
+Altro
 OS
 OS
 OS
 Short for “Operating System.”[linebreak][linebreak]The basic software of a computer that controls the entire system and allows other programs to operate in parallel.
-Other
+Altro
 Plastic Model
 Plastic Model
 Plastic Model
 A model made from plastic parts that come in a kit, put together by following a manual.
-Science
+Scienza
 PTSD
 PTSD
 PTSD
@@ -993,23 +993,23 @@ Internet
 RINE
 RINE
 RINE
-(Fictional) An instant messaging application developed by Hashida Itaru.[linebreak][linebreak]Users can communicate with other users for free via voice calls or texting, as long as both users have the application installed.[linebreak][linebreak]Since it is a privately-developed software and isn’t available on the internet, only Hashida Itaru and his friends and acquaintances use it at the moment.
-Science
+(Non reale) An instant messaging application developed by Hashida Itaru.[linebreak][linebreak]Users can communicate with other users for free via voice calls or texting, as long as both users have the application installed.[linebreak][linebreak]Since it is a privately-developed software and isn’t available on the internet, only Hashida Itaru and his friends and acquaintances use it at the moment.
+Scienza
 SERN
 SERN
 SERN
-(Fictional) A French acronym for “Société Européenne pour la Recherche Nucléaire,” or “European Society for Nuclear Research.”[linebreak][linebreak]The world’s largest elementary particle physics laboratory, located on the Franco-Swiss border near Geneva. It has a bank, a library, a post office, and a dormitory on the premises.[linebreak][linebreak]Scientists from all around the world gather at SERN to research particle physics, and the number of people working there is in the thousands.
+(Non reale) A French acronym for “Société Européenne pour la Recherche Nucléaire,” or “European Society for Nuclear Research.”[linebreak][linebreak]The world’s largest elementary particle physics laboratory, located on the Franco-Swiss border near Geneva. It has a bank, a library, a post office, and a dormitory on the premises.[linebreak][linebreak]Scientists from all around the world gather at SERN to research particle physics, and the number of people working there is in the thousands.
 Internet
 SNS
 SNS
 SNS
 Short for “social networking service.”[linebreak][linebreak]Social networking services, also known as “social networks,” are community-oriented websites that come in a variety of formats, such as registration-based, invite-only, and more.[linebreak][linebreak]Websites such as these are designed to facilitate easy communication between users.
-Other
+Altro
 UFO
 UFO
 UFO
 Short for “unidentified flying object.”[linebreak][linebreak]Usually used to refer to spacecraft piloted by aliens, this term actually describes any kind of flying object whose nature is unknown.
-Other
+Altro
 UMA
 UMA
 UMA
@@ -1019,12 +1019,12 @@ Lol
 Lol
 Lol
 Net slang. Short for “laugh out loud.”[linebreak][linebreak]By inserting “lol” into the middle or at the end of a sentence, the speaker can convey that they find the situation humorous. On message boards, typing them out in succession (lololololol) allows users to strengthen the expression, or to indicate that they’re mocking another user. For example, “hahaha lololol sure lolololol.”[linebreak][linebreak]Variants include “lmao” (“laughing my ass off”), “rofl” (“rolling on the floor laughing”), etc.
-Other
+Altro
 YAMANA
 YAMANA
 YAMANA
-(Fictional) An instrument manufacturer that was founded in the 19th century.[linebreak][linebreak]In the 2000s, the company began to develop and sell text-to-speech software, music software, and other miscellaneous programs for PCs.
-Science
+(Non reale) An instrument manufacturer that was founded in the 19th century.[linebreak][linebreak]In the 2000s, the company began to develop and sell text-to-speech software, music software, and other miscellaneous programs for PCs.
+Scienza
 Year 2000 Problem
 Year 2000 Problem
 Year 2000 Problem
@@ -1033,13 +1033,13 @@ Internet
 @channel
 @channel
 @channel
-(Fictional) Japan’s most popular anonymous message board. Covers a wide variety of topics, from cooking, to anime, to current events.[linebreak][linebreak]Its catchphrase is, “Everything from hacking to tonight’s dinner.”
-Other
+(Non reale) Japan’s most popular anonymous message board. Covers a wide variety of topics, from cooking, to anime, to current events.[linebreak][linebreak]Its catchphrase is, “Everything from hacking to tonight’s dinner.”
+Altro
 Meiwa Party
 Meiwa Party
 Meiwa Party
-(Fictional) One of the two major political parties in Japan.[linebreak][linebreak]Five years ago, the Meiwa Party was an opposition party, but that changed following a major breakthrough in the general election that year.[linebreak][linebreak]Its catchphrase is “A Brighter Peace for the People,” as the two kanji used in its name, “mei” and “wa,” mean “bright” and “peace” respectively.
-Other
+(Non reale) One of the two major political parties in Japan.[linebreak][linebreak]Five years ago, the Meiwa Party was an opposition party, but that changed following a major breakthrough in the general election that year.[linebreak][linebreak]Its catchphrase is “A Brighter Peace for the People,” as the two kanji used in its name, “mei” and “wa,” mean “bright” and “peace” respectively.
+Altro
 Honorifics (Japanese)
 Honorifics (Japanese)
 Honorifics (japanese)
