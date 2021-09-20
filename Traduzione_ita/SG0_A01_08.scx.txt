@@ -190,7 +190,7 @@ If they somehow learned that Kagari was from the future, that could mean she was
 [name]Itaru[line]“All right, Okarin. Hiyajo-shi. [color index="280AA02D1400"]Deets plz[color index="800000"].”[%p]
 [name]Rintaro[line]“I’ve already told you everything there is to know, though.”[%p]
 She was Dr. Leskinen’s assistant, and both she and the professor had been very good to me. I was helping with their work a little. I’d told him all this before.[%p]
-[name]Itaru[line]“For example, is there going to be some complete [color index="280AA02D1400"]ass pull[color index="800000"] where she suddenly becomes a lab member?”[%p]
+[name]Itaru[line]“For example, is there going to be some complete [color index="280AA02D1400"]stravolgimento di trama[color index="800000"] where she suddenly becomes a lab member?”[%p]
 [name]Rintaro[line]“Probably not.”[%p]
 [name]Itaru[line]“Then can I at least call her Maho-tan? Actually, I’m just gonna.”[%p]
 [name]Maho[line]“Maho-tan...?”[%p]

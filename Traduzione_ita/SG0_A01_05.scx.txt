@@ -18,7 +18,7 @@ She wanted to make sure they were taken care of, no matter what she had to do.[%
 She went into the bushes, and there she saw it.[%e]
 [name]Reporter[line]“Ugh...”[%p]
 Several bodies, all brutally mutilated.[%e]
-[name]Newscaster[line]“Five scientists have gone missing this year, and three of the five were believed to have been researching artificial intelligence.”[%p]
+[name]Newscaster[line]“Five scientists have gone missing this year, and three of the five were believed to have been researching intelligenza artificiale.”[%p]
 [name]Newscaster[line]“The authorities believe that the culprits may be radical religious fundamentalists who oppose the development of AI.”[%p]
 [name]Newscaster[line]“And now we go live to the scene. Jessica?”[%p]
 [name]Reporter[line]“This is Jessica Edmond, reporting live from the scene. The bodies found this morning were initially believed to be human—”[%p]

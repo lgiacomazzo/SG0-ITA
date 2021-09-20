@@ -35,7 +35,7 @@ We couldn’t tell them the truth, and even if we did, they wouldn’t believe u
 [name]Rintaro[line]“There’s nothing we can do until we find out who they are.”[%p]
 [name]Suzuha[line]“Then you want us to figure that out by ourselves? How?”[%p]
 [name]Rintaro[line]“Well...”[%p]
-To be honest, I had no clue.[%p]
+Ad essere onesti, I had no clue.[%p]
 The world was full of groups who would want a functioning time machine, if they knew it existed.[%p]
 Russia, America, China...[%p]
 And even Japan.[%p]
