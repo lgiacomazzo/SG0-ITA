@@ -262,7 +262,7 @@ In this linea di universo, Kurisu died before she ever gave that lecture on the 
 [name]Maho[line]“Of course, it’s not like we’ve been sitting on our butts and doing nothing.”[%p]
 [name]Maho[line]“It’s the exact opposite.”[%p]
 [name]Maho[line]“We’ve failed to create the ultimate intelligenza artificiale, but we’ve succeeded in bringing all kinds of benefits to the field of information science.”[%p]
-[name]Maho[line]“For example, [color index="280AA02D1400"]OCR technology[color index="800000"], which scans an image and reads the letters on it, is similar to the methods that humans use to recognize letters.”[%p]
+[name]Maho[line]“For example, [color index="280AA02D1400"]tecnologia OCR[color index="800000"], which scans an image and reads the letters on it, is similar to the methods that humans use to recognize letters.”[%p]
 [name]Maho[line]“I’ve heard some rumors that before long, smartphones are going to have voice recognition built into them, too.”[%p]
 [name]Maho[line]“That was also a field of study in AI research.”[%p]
 [name]Maho[line]“But even 60 years after the field got its start, no one’s succeeded in creating an intelligenza artificiale that has the comprehensive capabilities of a human.”[%p]

@@ -34,7 +34,7 @@ Suzuha realized Itaru was trying to make her feel better. Suddenly, deep in her 
 [name]Suzuha[line]“So I want him to just think about it.”[%p]
 [name]Suzuha[line]“But still... there’s really not a lot of time left.”[%p]
 [name]Itaru[line]“Not a lot of time? Because Russia’s started their experiments?”[%p]
-[name]Suzuha[line]“You see, the internal battery for the [color index="280AA02D1400"]quantum computer[color index="800000"] that controls the time machine is just about to run out.”[%p]
+[name]Suzuha[line]“You see, the internal battery for the [color index="280AA02D1400"]computer quantistico[color index="800000"] that controls the time machine is just about to run out.”[%p]
 [name]Itaru[line]“Seriously?”[%p]
 [name]Suzuha[line]“I told you I used the machine a lot starting in 1998, in order to look for Kagari.”[%p]
 [name]Suzuha[line]“That wasn’t part of the original plan.”[%p]

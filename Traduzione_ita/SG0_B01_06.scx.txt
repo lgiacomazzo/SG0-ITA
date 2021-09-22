@@ -250,7 +250,7 @@ As she stood, she bumped into Lukako, who was standing next to her. The two of t
 [name]Mayuri[line]“Okay...”[%p]
 Mayuri started to take deep breaths.[%p]
 [name]Mayuri[line]“Um... It’s Christmas Eve today.”[%p]
-[name]Mayuri[line]“There’s normies out everywhere today, but this year, let’s have a party and be normies ourselves!”[%p]
+[name]Mayuri[line]“There’s i normie out everywhere today, but this year, let’s have a party and be dei normie ourselves!”[%p]
 [name]Fubuki[line]“No, um... I don’t think that’s what ‘normie’ means, Mayushii...”[%p]
 Fubuki whispered, a little sad.[%p]
 [name]Kaede[line]“A bunch of people asked Fubuki-chan out on Christmas dates! You should’ve seen them all!”[%p]

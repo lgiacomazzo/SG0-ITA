@@ -242,7 +242,7 @@ Which meant that after the Amadeus program was shut down, it had ended up in Str
 [name]Rintaro[line]“K6205.”[%p]
 [name]Itaru[line]“Huh?”[%p]
 [name]Rintaro[line]“K6205 is Kagari’s memories, Daru!”[%p]
-Köchel Number 620—The Magic Flute.[%p]
+Köchel Number 620—Il Flauto Magico.[%p]
 [name]Itaru[line]“K620... I found it!”[%p]
 [name]Rintaro[line]“Now just do it like we talked about!”[%p]
 Compared to Kurisu’s Time Leap Machine, the process was a lot simpler.[%p]

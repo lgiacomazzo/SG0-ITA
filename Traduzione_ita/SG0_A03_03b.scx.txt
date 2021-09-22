@@ -5,7 +5,7 @@ She’d gone to the past when she was ten, and then gotten separated from Suzuha
 Her memories afterward were a total blank, with the exception of the last few weeks.[%e]
 Her oldest memories, after her childhood, were of the ceiling she saw when she woke up.[%p]
 It was the ceiling of an old temple, with stains here and there that looked like faces. She remembered being a little scared.[%p]
-[margin top="38"]Shortly after that, she was given to Yanabayashi Shrine.[%e]
+[margin top="38"]Shortly after that, she was given to Tempio Yanabayashi.[%e]
 [name]Luka[line]“Kagari-san, would you like some tea?”[%p]
 [name]Kagari[line]“Oh, yeah. Thanks, Luka-kun.”[%p]
 [name]Luka[line]“Okay, I’ll put some on.”[%p]
