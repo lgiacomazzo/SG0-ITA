@@ -22,7 +22,7 @@ My heart was pounding so fast that I thought it would burst, and I tripped sever
 I stumbled again and again on the stairs.[%p]
 How many times had I come up these stairs feeling like this?[%p]
 Cursing my lack of endurance, I headed for the top floor.[%p]
-When I got to the 7th floor, I ran into someone I’d hoped I wouldn’t see.[%p]
+When I got to the sesto piano, I ran into someone I’d hoped I wouldn’t see.[%p]
 No... my guess that I’d run into them was right.[%p]
 I wished that I wasn’t, but...[%p]
 [name]Rintaro[line]“Dr. Leskinen!”[%p]
