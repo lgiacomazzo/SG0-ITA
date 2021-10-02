@@ -54,7 +54,7 @@ Right now, the terminal was converting the patch into the language used by the I
 [margin top="38"]The word “CONNECT” appeared on the terminal’s sub screen.[%e]
 [name]Suzuha[line]“OK, it’s connected.”[%p]
 She’d been told that in Japan in this era, ADSL was still in the test phase, and most normal utenti connected to the internet by low-speed dial-up using ISDN.[%p]
-[margin top="38"]But in major city areas like Akihabara, universities, labs, and some big computer companies were starting to use [color index="280AA02D1400"]Internet in fibra ottica[color index="800000"]. Some of them were even using [color index="280AA02E1400"]wireless LAN[color index="800000"]s.[%e]
+[margin top="38"]But in major city areas like Akihabara, universities, labs, and some big computer companies were starting to use [color index="280AA02D1400"]Internet in fibra ottica[color index="800000"]. Some of them were even using [color index="280AA02E1400"]WLAN[color index="800000"]s.[%e]
 Suzuha cracked her way into one of those.[%p]
 [margin top="38"]Dad had laughed when he’d said that with 2036 technology, cracking late 20th century network security was a joke, but he’d been right.[%e]
 [name]Kagari[line]“B-But... if you change the future, won’t that change the world we were in?”[%p]

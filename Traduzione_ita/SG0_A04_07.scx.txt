@@ -173,7 +173,7 @@ My job right now was to keep her busy until Daru broke the lock on the files.[%p
 Which meant that now was the time to act.[%p]
 To act the part of the biggest fool I could.[%p]
 That was my job.[%p]
-[name]Rintaro[line]“My name is Hououin Kyouma! I am the man who shall overthrow the ruling structure of the world and plunge it into chaos!”[%p]
+[name]Rintaro[line]“My name is Hououin Kyouma! I am the man who shall overthrow the struttura di controllo del mondo and plunge it into chaos!”[%p]
 [name]Reyes[line]“...What kind of joke is this?”[%p]
 [name]Rintaro[line]“Hahaha... I, the insane mad scientist, Hououin Kyouma, admit it! You, Reyes, are moderately mad!”[%p]
 [name]Reyes[line]“Houou... What?”[%p]
