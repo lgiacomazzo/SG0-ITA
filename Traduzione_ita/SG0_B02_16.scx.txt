@@ -76,7 +76,7 @@ If it wasn’t Kurisu’s ghost, and it wasn’t an imposter, then the only one 
 [name]Rintaro[line]“So it was you, after all?”[%p]
 [name]Rintaro[line]“Don’t you think it’s a bad idea not to tell them?”[%p]
 [name]Amadeus Kurisu[line]“It’s an even worse idea to tell Maho-senpai!”[%p]
-[name]Rintaro[line]“Why?”[%p]
+[name]Rintaro[line]“Perché?”[%p]
 [name]Amadeus Kurisu[line]“Because I haven’t breathed a word to her about me going on @channel!”[%p]
 [name]Rintaro[line]“Why hide it? It’s not a crime to read or comment on @channel.”[%p]
 [name]Rintaro[line]“Isn’t that right, @channeler [Kurisu]?”[%p]

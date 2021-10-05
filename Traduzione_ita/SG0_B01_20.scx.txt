@@ -76,7 +76,7 @@ In fact, after he’d dropped her off here on the first day, he hadn’t come by
 That’s how she’d explained her visit to Okabe.[%p]
 If he found out she was working on the Microonde Telefonico (Nome Provvisorio) with Itaru, there would be trouble.[%e]
 [name]Itaru[line]“That’s right!”[%p]
-[name]Itaru[line]“Okay, hurry up and come out!”[%p]
+[name]Itaru[line]“Ok, hurry up and come out!”[%p]
 [name]Maho[line]“I can’t! Not with you standing there!”[%p]
 [name]Itaru[line]“Oh, that’s right.”[%p]
 After she was sure Itaru was gone, she quickly washed the bubbles from the body soap off her body.[%p]

@@ -128,7 +128,7 @@ She tilted her head for a second, but quickly lost interest in me and turned tow
 [name]Moeka[line]“I’m here... about that interview...”[%p]
 Even in this linea di universo, Moeka still only spoke in faint whispers.[%p]
 [name]Maho[line]“Dr. Leskinen isn’t here yet. It may be a minute.”[%p]
-[name]Moeka[line]“...Okay.”[%p]
+[name]Moeka[line]“...Ok.”[%p]
 [name]Maho[line]“If you want, I can go over the system until he gets here.”[%p]
 [name]Moeka[line]“Thank... you...”[%p]
 The two of them disappeared into the staff room.[%p]
