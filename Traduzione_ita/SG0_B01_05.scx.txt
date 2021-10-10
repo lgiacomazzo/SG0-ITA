@@ -1,6 +1,6 @@
 [name]Kagari[line]“No, Big Sis Suzuha. You can’t do that.”[%p]
-[name]Kagari[line]“You can’t change the world. You’re not making sense!”[%p]
-[name]Kagari[line]“You can’t erase this world! I won’t let you!”[%p]
+[name]Kagari[line]“Non puoi cambiare il mondo. Non ha alcun senso!”[%p]
+[name]Kagari[line]“Non puoi cancellare questo mondo! Non te lo permetterò!”[%p]
 [name]Suzuha[line]“...”[%p]
 There were bullet marks on the inside of the time machine.[%p]
 [margin top="38"]Suzuha traced them with her fingers, and remembered what had happened here.[%e]

@@ -289,7 +289,7 @@ In other words, with only some small hints, Maho had managed to create the same 
 [name]Maho[line]“I can get as far as digitizing the memory data and transferring it to a cell phone along with the segnali di recupero...”[%p]
 [name]Maho[line]“But I still can’t clear the biggest hurdle, even though Kurisu could.”[%p]
 [name]Rintaro[line]“...The data compression, right?”[%p]
-Maho nodded.[%p]
+Maho annuisce.[%p]
 [name]Maho[line]“I just can’t solve the mystery of how she managed to compress all those terabytes of data.”[%p]
 That was the part that Kurisu had struggled with the most, too.[%p]
 But in the end, with Daru’s help, she’d been able to do it.[%p]

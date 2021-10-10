@@ -208,7 +208,7 @@ It was just like what had been done to Kagari in the last linea di universo, but
 He took the mouse back from Maho and sighed.[%p]
 [name]Itaru[line]“Nope... No luck. I’m not seeing anything.”[%p]
 [name]Rintaro[line]“...”[%p]
-What was going on?[%p]
+Cosa sta succedendo?[%p]
 Hadn’t Stratfo stolen the Amadeus data from Viktor Chondria?[%p]
 [name]Itaru[line]“That university server is the most suspicious. The one with the locked folder.”[%p]
 Which meant that they were working without stealing the data?[%p]

@@ -45,7 +45,7 @@ She checked the desk and the drawers, and couldn’t find a single thing missing
 [name]Reyes[line]“I don’t seem to have lost anything, either.”[%p]
 [name]Leskinen[line]“I looked at my computer, but I don’t see any trace of access by a third party.”[%p]
 [name]Leskinen[line]“You’re sure nothing was stolen?”[%p]
-[name]Maho[line]“Yes.”[%p]
+[name]Maho[line]“Sì.”[%p]
 [name]Leskinen[line]“Come to think of it, Maho, what about your laptop? Was that stolen?”[%p]
 [name]Maho[line]“Oh, I left that at the hotel. It should be fine.”[%p]
 [name]Leskinen[line]“I see. I hope you’re right.”[%p]

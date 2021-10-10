@@ -236,7 +236,7 @@ Which means that the experiments they’d done on her had resulted in a differen
 [name]Rintaro[line]“It’s not that easy...”[%p]
 [name]Maho[line]“But Kurisu made it, right?”[%p]
 [name]Rintaro[line]“Huh?”[%p]
-Oh, right.[%p]
+Ah, giusto.[%p]
 It had to work similarly to the Time Leap Machine.[%p]
 [name]Maho[line]“Which means I can... No, I will, make it, too.”[%p]
 I might be able to help with that.[%p]
