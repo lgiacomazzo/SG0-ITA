@@ -258,7 +258,7 @@ Fubuki had a stronger Reading Steiner than most people, and remembered the other
 [name]Fubuki[line]“In the dream, that Shimoyama guy said... that you and I both had memories of another world.”[%p]
 [name]Rintaro[line]“Sì.”[%p]
 [name]Fubuki[line]“Was he right?”[%p]
-[name]Rintaro[line]“...Yeah.”[%p]
+[name]Rintaro[line]“...Sì.”[%p]
 I hesitated for a moment, but then I gave her a brief explanation of my own Reading Steiner ability.[%p]
 The one thing I wanted to make sure she understood was that her dreams weren’t caused by an illness.[%p]
 But her reaction wasn’t what I expected.[%p]

@@ -137,7 +137,7 @@ She had said that New Year’s was a time for partying with your friends, but it
 [name]Rintaro[line]“Hmm?”[%p]
 I heard a voice I thought I recognized. It was Hiyajo-san herself.[%p]
 And she was yelling at... a police officer.[%p]
-Which meant—[%p]
+Il che significa—[%p]
 [name]Maho[line]“Something to prove it? Just hold on...”[%p]
 [name]Rintaro[line]“Hiyajo-san!”[%p]
 [name]Maho[line]“Oh, Okabe-san! Good timing! Can you help me with something?”[%p]

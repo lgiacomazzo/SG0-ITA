@@ -87,7 +87,7 @@ It was only then that she remembered she’d been keeping Kagari a secret from M
 [name]Suzuha[line]“Oh...”[%p]
 Maybe that was another cruel truth for her.[%p]
 But Suzuha decided that she would hold nothing back now.[%e]
-[name]Suzuha[line]“That’s right.”[%p]
+[name]Suzuha[line]“È così.”[%p]
 [name]Suzuha[line]“Uncle Okarin only lives for another fifteen years.”[%p]
 [name]Mayuri[line]“What...?!”[%p]
 [name]Suzuha[line]“He dies protecting you.”[%p]

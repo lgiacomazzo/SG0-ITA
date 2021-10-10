@@ -32,7 +32,7 @@ After meeting Amadeus, my desire to go to Viktor Chondria had only increased.[%p
 [name]Rintaro[line]“Yeah. You, too. Good luck with your research.”[%p]
 [name]Leskinen[line]“So, Lintahlo, as we discussed previously, I’m going to be revoking your access rights for Amadeus today.”[%p]
 [name]Leskinen[line]“That’s fine, right?”[%p]
-[name]Rintaro[line]“Yes.”[%p]
+[name]Rintaro[line]“Sì.”[%p]
 Evidently they couldn’t leave me with access to Amadeus after they left the country.[%p]
 I was only supposed to test her during their stay here, anyway.[%p]
 [name]Leskinen[line]“Want to say a final goodbye to [Kurisu]?”[%p]

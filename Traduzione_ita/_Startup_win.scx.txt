@@ -38,7 +38,7 @@ OK
 Annulla
 Impostazioni default ripristinate con successo.
 Salvataggio dati di sistema.
-Si prega di non interrompere l'alimentazione.
+Si prega di non interrompere l’alimentazione.
 セーブデータを保存する空き容量が不足しています。
 不要なデータを削除して空き容量を確保してください。
 このデータを読み込みますか?
@@ -75,8 +75,8 @@ Sovrascrivi
 Annulla
 Salvataggio dei dati.
 Si prega di non spegnere il sistema.
-Non c'è abbastanza spazio libero per salvare i dati.
-Si prega di liberare un po' di spazio sul vostro disco rigido per poter salvare.
+Non c’è abbastanza spazio libero per salvare i dati.
+Si prega di liberare un po’ di spazio sul vostro disco rigido per poter salvare.
 Salvataggio dati di sistema.
 Si prega di non spegnere il sistema.
 Controllo dati di sistema.
