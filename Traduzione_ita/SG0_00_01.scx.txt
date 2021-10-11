@@ -1,6 +1,6 @@
 The hatch opened.[%p]
 Bright light flooded my eyes.[%p]
-Where was I?[%p]
+Dove mi trovavo?[%p]
 My eyes narrowed.[%p]
 I could barely make out the summer’s twilight sky.[%p]
 I didn’t want to leave.[%p]

@@ -72,7 +72,7 @@ It was quite possible that up until now, no one had ever shared a person’s mem
 [name]Mayuri[line]“We’ve got a meeting at school about our post-graduation plans. And we have to go.”[%p]
 [name]Luka[line]“Sorry...”[%p]
 [name]Rintaro[line]“Don’t apologize. And don’t worry. I’ll take her home.”[%p]
-[name]Luka[line]“Thank you.”[%p]
+[name]Luka[line]“Grazie.”[%p]
 [name]Mayuri[line]“Ok, Kagari-chan. See you tomorrow.”[%p]
 [name]Kagari[line]“Bye, Mamma. See you tomorrow.”[%p]
 Once Mayuri and Lukako were gone, it was just me and Kagari in the room.[%p]

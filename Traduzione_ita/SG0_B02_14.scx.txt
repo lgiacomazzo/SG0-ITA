@@ -262,7 +262,7 @@ I wasn’t able to get any proof, but I found out most of the patients in her wi
 Many people had memories of Japan at war.[%p]
 [name]Mayuri[line]“Can we see Fubuki-chan?”[%p]
 [name]Kaede[line]“They say they’re doing an MRI to look at her brain right now, so she’s not in her room.”[%p]
-[name]Mayuri[line]“I see...”[%p]
+[name]Mayuri[line]“Ho capito...”[%p]
 [name]Kaede[line]“But it’ll be done soon. Fubuki-chan’s mom told us to wait here.”[%p]
 Kaede motioned to Mayuri, indicating she should sit down at a nearby sofa.[%p]
 [name]Kaede[line]“Once the exam is done, she’s going to come get us.”[%p]

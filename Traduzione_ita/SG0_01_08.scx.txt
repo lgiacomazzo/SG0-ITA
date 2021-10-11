@@ -117,7 +117,7 @@ This was a 3D model on a screen, a tiny collection of 0s and 1s in the shape of 
 [name]Amadeus Kurisu[line]“If you don’t want to tell me, that’s fine, but what was our relationship? I’m kind of curious.”[%p]
 [name]Amadeus Kurisu[line]“Did I not get mad when you called me Christina? Or did I get mad, but then laugh and forgive you?”[%p]
 [name]Rintaro[line]“Uh...”[%p]
-[name]Kurisu[line]“I don’t want to die...”[%p]
+[name]Kurisu[line]“Io non voglio morire...”[%p]
 [name]Rintaro[line]“Ugh...”[%p]
 I was hit with a violent urge to throw up.[%p]
 I could see Kurisu in front of me, covered in blood.[%p]

@@ -302,7 +302,7 @@ Suzuha still had a somber look on her face, but Mayuri, Yuki, and Daru forced he
 Mayuri put a piece of quiche on a plate and gave it to Suzuha.[%p]
 When Suzuha took a bite, her expression began to shine.[%p]
 [name]Suzuha[line]“It’s good!”[%p]
-[name]Mayuri[line]“Really?”[%p]
+[name]Mayuri[line]“Davvero?”[%p]
 [name]Suzuha[line]“Sì.”[%p]
 [name]Mayuri[line]“Eat more. Eat a lot!”[%p]
 [name]Suzuha[line]“I c-can’t eat it all at once.”[%p]

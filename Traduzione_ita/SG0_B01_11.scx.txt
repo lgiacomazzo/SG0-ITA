@@ -388,7 +388,7 @@ She held Maho with her left arm, and took out a military knife with her right. S
 [name]Rintaro[line]“D-Don’t do it!”[%p]
 The horrible memories came flooding back to me.[%p]
 Whether it had happened in a different linea di universo or not, the merciless voice that had taken Mayuri from me was right here.[%p]
-[name]Moeka[line]“Shiina Mayuri is not needed.”[%p]
+[name]Moeka[line]“Shiina Mayuri non è necessaria.”[%p]
 I gritted my teeth so hard it hurt and glared at the woman in the motorcycle suit.[%p]
 [name]Rintaro[line]“I’ll give you what you want, so don’t do it.”[%p]
 I forced myself to speak and the woman in the motorcycle suit took the knife away from Maho’s neck. She handed her over to one of the other men.[%p]

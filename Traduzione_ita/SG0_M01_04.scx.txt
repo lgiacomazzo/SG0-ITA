@@ -124,7 +124,7 @@ I wanted to complain, but I was the one who’d asked Faris to let Maho stay her
 I had to do it.[%p]
 [name]Rintaro[line]“We’re cleaning this room up today.”[%p]
 [name]Rintaro[line]“No complaints, ok? It’s the lady of the house’s orders.”[%p]
-[name]Maho[line]“Yeah?”[%p]
+[name]Maho[line]“Davvero?”[%p]
 [name]Maho[line]“I’m not sure I agree, but whatever. Got it.”[%p]
 [name]Moeka[line]“Ok...”[%p]
 [name]Rintaro[line]“I’ll have to call everyone I can think of to come help. But where do we even start...?”[%p]
