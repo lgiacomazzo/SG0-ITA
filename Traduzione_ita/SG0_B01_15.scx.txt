@@ -188,7 +188,7 @@ For example, whenever there was a lottery for rare RaiNet Kakeru stuff at the co
 Mayuri had told me once that they sold for tens of thousands of yen at auction.[%p]
 [name]Mayuri[line]“Tsk, tsk, tsk.”[%p]
 For some reason, Mayuri was wagging her finger at me.[%p]
-[name]Mayuri[line]“Nope.”[%p]
+[name]Mayuri[line]“No.”[%p]
 [name]Mayuri[line]“This is a green Upa, but it’s not a regular one.”[%p]
 [name]Mayuri[line]“This is the Green Fairy Upa that was in the movie they just released.”[%p]
 Come to think of it, there had been a RaiNet Kakeru movie out in spring.[%p]

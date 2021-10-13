@@ -245,7 +245,7 @@ She pouted and slumped down on the sofa, then pulled the blanket on top of her.[
 [name]Suzuha[line]“D-Don’t be creepy!”[%p]
 [name]Yuki[line]“Oh? Suzuha-san, are you blushing?”[%p]
 [name]Suzuha[line]“I am not blushing!”[%p]
-[name]Yuki[line]“Really?”[%p]
+[name]Yuki[line]“Ma davvero?”[%p]
 [name]Suzuha[line]“Of course not. Why would I be—”[%p]
 [name]Mayuri[line]“You’re blushing right now. It’s so cute!”[%p]
 [name]Yuki[line]“It’s the cutest thing, really.”[%p]

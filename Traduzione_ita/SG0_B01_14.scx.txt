@@ -26,7 +26,7 @@ Kagari didn’t know the doctor’s name, but he was a nice old man who was alwa
 [name]Doctor[line]“Hmm... Kagari-chan, it’s not good to lie. It’ll only make your treatment take longer.”[%p]
 [name]Kagari[line]“Aw...”[%p]
 [name]Doctor[line]“You told me yesterday that you wake up with nightmares all the time still, didn’t you?”[%p]
-[name]Kagari[line]“...Yeah.”[%p]
+[name]Kagari[line]“...Sì.”[%p]
 [name]Mayuri[line]“Oh my... I see.”[%p]
 [name]Doctor[line]“It’s proof that the memories of the bombing still exist in her mind as terrifying experiences.”[%p]
 [name]Doctor[line]“If we don’t treat them properly, it could lead to irreversible consequences.”[%p]

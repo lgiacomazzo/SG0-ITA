@@ -9,7 +9,7 @@ A year after all the chaos, Maho visited the Laboratorio dei Gadget Futuristici 
 [name]Maho[line]“Heh. It’s good to see nothing’s changed here.”[%p]
 [name]Suzuha[line]“Yeah. Looks like not much has changed with you, either.”[%p]
 [name]Maho[line]“I know I’m still short. You don’t have to tell me.”[%p]
-[name]Suzuha[line]“That wasn’t what I meant.”[%p]
+[name]Suzuha[line]“Non era quello che intendevo.”[%p]
 [name]Maho[line]“I know. It was a joke.”[%p]
 [name]Kagari[line]“Uhoohh...”[%p]
 [name]Maho[line]“W-What’s wrong?”[%p]

@@ -137,7 +137,7 @@ And on the table appeared the horrible “Gadget Futuristico N. 8,” which I’
 [name]Itaru[line]“Are you serious? I can’t believe you’re saying that.”[%p]
 [name]Itaru[line]“We used to have a Round Table meeting and have a lot of fun picking names for the Gadget Futuristici.”[%p]
 [name]Rintaro[line]“That’s all just part of my Passato Oscuro.”[%p]
-[name]Itaru[line]“Really?”[%p]
+[name]Itaru[line]“Veramente?”[%p]
 Daru was looking at the dust-covered Gadget Futuristici that were sitting on the shelf of the development room. There was something like fondness in his gaze.[%p]
 Why the hell was he acting like this?[%p]
 Did he think of that nightmare as some kind of happy, youthful memory?[%p]

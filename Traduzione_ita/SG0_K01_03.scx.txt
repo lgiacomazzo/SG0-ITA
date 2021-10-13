@@ -166,7 +166,7 @@ It was going to be a long time before Mayuri became Kagari’s mother, though.[%
 [name]Mayuri[line]“And also...”[%p]
 [name]Mayuri[line]“I think it’s sad, not being able to remember things.”[%p]
 [name]Kagari[line]“Mayuri-san...”[%p]
-[name]Kagari[line]“Thank you.”[%p]
+[name]Kagari[line]“Grazie.”[%p]
 [name]Mayuri[line]“It’s fine! Let’s all do our best!”[%p]
 And so the three of us went back to the lab.[%p]
 [name]Mayuri[line]“Huh? Suzu-san’s bike isn’t here.”[%p]

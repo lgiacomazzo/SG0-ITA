@@ -2,7 +2,7 @@
 Hiyajo Maho was fidgeting.[%p]
 She knew exactly why, but she still didn’t want to admit it.[%e]
 [name]Leskinen[line]“Maho, are you ready?”[%p]
-[name]Maho[line]“Oh, yeah.”[%p]
+[name]Maho[line]“Oh, sì.”[%p]
 She awkwardly stood up from the chair as Dr. Leskinen spoke to her.[%e]
 [name]Leskinen[line]“Hmm...”[%p]
 [name]Maho[line]“W-What?”[%p]

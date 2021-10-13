@@ -132,7 +132,7 @@ Itaru, her dad, was playing yet another game populated entirely with female char
 [name]Itaru[line]“Hmm?”[%p]
 [name]Suzuha[line]“Is everything ok? I’m still going to be born, right?”[%p]
 [name]Itaru[line]“Oh, well... Is that more important than the time machine?”[%p]
-[name]Suzuha[line]“Hey!”[%p]
+[name]Suzuha[line]“Ehi!”[%p]
 Suzuha stormed over to Itaru.[%e]
 [name]Suzuha[line]“You can’t screw this up, Dad!”[%p]
 [name]Itaru[line]“Y-Yeah... Daddy’s gonna do his best, ok?”[%p]

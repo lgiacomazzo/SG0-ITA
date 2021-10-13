@@ -25,7 +25,7 @@ As she pondered the best course of action, she heard the heavy door outside open
 Someone was here.[%p]
 [margin top="38"]Suzuha pulled her gun from its holster and looked out from the cockpit, toward the iron door that lead into the building.[%e]
 She still remembered what happened with Kagari the other day.[%p]
-It couldn’t hurt to be careful.[%p]
+La prudenza non è mai troppa.[%p]
 [margin top="38"]But when she saw who it was, she relaxed.[%e]
 [name]Suzuha[line]“Big Sis Mayu... I almost never see you here.”[%p]
 She put her gun away and jumped out of the cockpit to welcome her.[%e]

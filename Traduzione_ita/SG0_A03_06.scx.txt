@@ -344,7 +344,7 @@ I’d contacted Mayuri and the others, and they were probably going to arrive so
 The words she’d said before...[%p]
 [name]Kagari[line]“Save me... Someone... Someone get me out of here!”[%p]
 [name]Kagari[line]“Save me, Mamma! Why won’t you save me? Mamma! Mamma!”[%p]
-What was that?[%p]
+Di che cosa parla?[%p]
 Were those fragments of her lost memories?[%p]
 If that was the case, then she really was...[%p]
 [name]Mayuri[line]“Okarin!”[%p]

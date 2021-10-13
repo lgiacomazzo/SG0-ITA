@@ -57,7 +57,7 @@ It was safe to assume that they’d been caused by Stratfo and others fighting o
 [name]Maho[line]“But those memories are all we have left of her.”[%p]
 [name]Maho[line]“They’re all we have to prove that she was ever here.”[%p]
 [name]Maho[line]“I don’t want to delete them...”[%p]
-I knew how she felt.[%p]
+Sapevo come si sentiva.[%p]
 Until a few days ago, I would’ve agreed.[%p]
 [name]Rintaro[line]“Then you’re ok with them being misused?”[%p]
 [name]Maho[line]“That’s not...”[%p]

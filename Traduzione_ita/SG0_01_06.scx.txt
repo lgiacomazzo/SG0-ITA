@@ -144,7 +144,7 @@ She was the heir to a rich family that had a lot of influence in this area and h
 In the end, she never could get an answer. To Suzuha, Faris was always a great mystery.[%e]
 [name]Suzuha[line]“I’ll walk you home. Let’s go together.”[%p]
 [name]Faris[line]“Nya? Then you can have dinner at my place, too.”[%p]
-[name]Suzuha[line]“That wasn’t what I meant.”[%p]
+[name]Suzuha[line]“Non era quello che intendevo.”[%p]
 [name]Faris[line]“You never eat any real food, do mew?”[%p]
 [name]Faris[line]“Whenever I see how stoic you are, I always feel like I have to do something, nya.”[%p]
 [name]Faris[line]“Like a protective or motherly feeling... It stirs something like that within me.”[%p]
