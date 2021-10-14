@@ -38,7 +38,7 @@ def main():
         for original_line in file:
             # suffix = [%p] | [%e]
             # line_1 = [line, suffix, '']
-            line_with_suffix = re.split("(\[%p\]$|\[%e\])$", original_line)
+            line_with_suffix = re.split("(\[%p\]|\[%e\]|\[%18\])$", original_line)
             line_1 = line_with_suffix[0]
         
             if len(line_with_suffix) == 1:
@@ -75,6 +75,7 @@ def main():
         new_line = new_line.replace('[line]"', '[line]“')
         new_line = new_line.replace('"[%p]', '”[%p]')
         new_line = new_line.replace('"[%e]', '”[%e]')
+        new_line = new_line.replace('"[%18]', '”[%18]')
         # Controllare ‘ e ’
         new_line = new_line.replace("'", "’")
         new_line = new_line.replace("?.", "?")
@@ -85,6 +86,7 @@ def main():
         file.writelines(new_lines)
     print("Ricordare di controllare i nomi racchiusi in [name] e [line]")
     print("Ricordare di controllare se alcuni caratteri ’ devono essere cambiati in ‘")
+    print("Ricordare di controllare i caratteri \", se cambiarli in “ e ” (solo nel testo, non nei tag tipo [color]) ")
 
 if __name__=="__main__":
     main()

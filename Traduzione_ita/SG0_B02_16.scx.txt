@@ -83,7 +83,7 @@ If it wasn’t Kurisu’s ghost, and it wasn’t an imposter, then the only one 
 [name]Amadeus Kurisu[line]“Listen... call me that one more time, and I’ll start making up gossip about you on @channel.”[%p]
 [name]Rintaro[line]“That’s practically a crime, though.”[%p]
 [name]Rintaro[line]“...”[%p]
-I couldn’t help but laugh.[%p]
+Non ho potuto fare a meno di ridere.[%p]
 Conversations like this brought back so many memories.[%p]
 I used to be so full of myself that I’d tick off Kurisu all the time.[%p]
 [name]Maho[line]“Hey, what are you talking about?”[%p]

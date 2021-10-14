@@ -126,7 +126,7 @@ If that was the case, I should tell her what I experienced, and then have her gi
 [name]Rintaro[line]“...Fine, I’ll tell you what I experienced.”[%p]
 [name]Rintaro[line]“Promise me you won’t tell anyone.”[%p]
 [name]Rintaro[line]“And I’ll say this one more time.”[%p]
-[name]Rintaro[line]“Don’t get any ideas about saving Makise Kurisu.”[%p]
+[name]Rintaro[line]“Non metterti in testa di salvare Makise Kurisu.”[%p]
 [name]Rintaro[line]“Got it?”[%p]
 [name]Maho[line]“...”[%p]
 She nodded as she wiped away the tears.[%p]
