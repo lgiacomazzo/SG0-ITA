@@ -235,7 +235,7 @@ Suzuha let go of Itaru’s collar and moved over to the window. Below, she saw a
 And then she gave a start and turned back toward the room.[%e]
 [name]Suzuha[line]“Wait, this is bad! We haven’t put it away!”[%p]
 [name]Itaru[line]“Huh?”[%p]
-Suzuha pointed toward the desk in the development room, where the “Microonde Telefonico (Nome Provvisorio) Unit-02” was sitting.[%e]
+Suzuha pointed toward the desk in the area di sviluppo, where the “Microonde Telefonico (Nome Provvisorio) Unit-02” was sitting.[%e]
 [name]Itaru[line]“Oh! Crap! Crap! Hide it!”[%p]
 [name]Suzuha[line]“Okey-dokey!”[%p]
 If nothing else, this meant that Hiyajo Maho was coming to the Laboratorio dei Gadget Futuristici.[%p]

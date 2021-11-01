@@ -140,7 +140,7 @@ If the le linee di universo converged, the two of them were going to marry no ma
 [name]Rintaro[line]“What the—”[%p]
 [name]Amadeus Kurisu[line]“I figured you would’ve reached the lab by now.”[%p]
 [name]Rintaro[line]“...”[%p]
-I ran into the development room in the back, clutching my smartphone.[%p]
+I ran into the area di sviluppo in the back, clutching my smartphone.[%p]
 [name]Rintaro[line]“You’ve got a lot of free time, don’t you?”[%p]
 [name]Amadeus Kurisu[line]“Why are you lowering your voice? Do you not want your friends to know about me?”[%p]
 [name]Rintaro[line]“Of course not...”[%p]

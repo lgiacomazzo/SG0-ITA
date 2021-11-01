@@ -126,7 +126,7 @@ He had broken SERN’s security in just 20 hours. I had absolute faith in him.[%
 Daru and Maho were staring at the screen and discussing something.[%p]
 He was probably asking her for details to make his hacking more efficient.[%p]
 I needed to do what I could while I waited.[%p]
-I went back into the development room and opened up a box that had just arrived that day.[%p]
+I went back into the area di sviluppo and opened up a box that had just arrived that day.[%p]
 Mayuri looked over my shoulder into the box.[%p]
 [name]Mayuri[line]“Wow, it’s a microwave!”[%p]
 [name]Rintaro[line]“I’m not using it to heat up your fried chicken, ok?”[%p]
