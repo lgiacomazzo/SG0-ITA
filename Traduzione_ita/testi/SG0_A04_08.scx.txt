@@ -5,7 +5,7 @@
 [name]Kaede[line]“Okarin-san, everyone, thanks for having us over.”[%p]
 [name]Rintaro[line]“Yeah. Come back any time.”[%p]
 [name]Fubuki[line]“Hmm...”[%p]
-[name]Rintaro[line]“C-Cosa c'è?”[%p]
+[name]Rintaro[line]“C-Cosa c’è?”[%p]
 [name]Fubuki[line]“Okarin-san, you’ve kind of changed.”[%p]
 [name]Rintaro[line]“Have I?”[%p]
 [name]Fubuki[line]“Yeah! You seem a lot easier to talk to now.”[%p]

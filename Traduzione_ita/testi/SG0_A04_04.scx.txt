@@ -236,7 +236,7 @@ If that future in 2036 was necessary, then maybe a world where [Kurisu] was rele
 No matter how hard the path would be, I had to take the first step.[%p]
 And what I needed right now was that first step.[%p]
 [name]Rintaro[line]“Hiyajo-san.”[%p]
-[name]Maho[line]“Cosa c'è?”[%p]
+[name]Maho[line]“Cosa c’è?”[%p]
 [name]Rintaro[line]“Can you help me a little more before you go back to America?”[%p]
 [name]Maho[line]“Hmm. Ok, but on two conditions.”[%p]
 [name]Rintaro[line]“Conditions?”[%p]

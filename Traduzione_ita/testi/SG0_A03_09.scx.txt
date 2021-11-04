@@ -387,7 +387,7 @@ She’d left her keycard with the front desk, but there were signs that the lock
 [name]Maho[line]“Actually, the same thing happened to the office not too long ago.”[%p]
 [name]Rintaro[line]“Then it’s not just a coincidence. Someone is after something you’ve got.”[%p]
 [name]Maho[line]“That’s right. And I think I know what it is.”[%p]
-[name]Rintaro[line]“Che cos'è?”[%p]
+[name]Rintaro[line]“Che cos’è?”[%p]
 [name]Maho[line]“Kurisu’s laptop.”[%p]
 [name]Rintaro[line]“That...”[%p]
 Putting all the pieces together, it seemed the most likely option.[%p]

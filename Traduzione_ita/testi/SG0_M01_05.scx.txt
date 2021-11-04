@@ -14,7 +14,7 @@ Oddly enough, Maho had said she’d wanted to take a walk and came along with us
 Nae was more excited than usual.[%p]
 Was it because of all the praise that everyone had showered on Sergeant Clean?[%p]
 [name]Maho[line]“...Heheh.”[%p]
-[name]Rintaro[line]“Hmm? Cosa c'è?”[%p]
+[name]Rintaro[line]“Hmm? Cosa c’è?”[%p]
 [name]Maho[line]“No, I’ve just never seen you make that face is all.”[%p]
 [name]Rintaro[line]“What face?”[%p]
 [name]Maho[line]“I don’t know. Like you’re not nervous. Like you’re relaxed.”[%p]
