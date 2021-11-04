@@ -118,7 +118,7 @@ The woman in the motorcycle suit turned around and tried to escape using another
 I chased after her, but she suddenly spun and hit me with the stock of her gun.[%p]
 [name]Rintaro[line]“Gahh!”[%p]
 It was so sudden I didn’t have a chance to dodge, so I took the blow right on my jaw.[%p]
-I fell to the ground.[%p]
+Caddi a terra.[%p]
 I couldn’t move.[%p]
 [name]Mayuri[line]“Okarin!”[%p]
 I just hope Maho made it away ok...[%p]

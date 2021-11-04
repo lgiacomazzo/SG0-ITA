@@ -83,7 +83,7 @@ After she was sure Itaru was gone, she quickly washed the bubbles from the body 
 [margin top="38"]Her long hair still wasn’t dry, but there wasn’t time for that.[%p]
 She wiped herself off with the towel, and was about to leave the shower room—[%e]
 —when she heard the door open.[%e]
-[name]Rintaro[line]“Hey, Daru.”[%p]
+[name]Rintaro[line]“Ehi, Daru.”[%p]
 [name]Maho[line]“?!”[%p]
 He was here already?![%p]
 [margin top="38"]She quickly shut the door to the shower room again.[%e]

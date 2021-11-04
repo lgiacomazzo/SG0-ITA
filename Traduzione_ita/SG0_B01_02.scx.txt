@@ -141,7 +141,7 @@ When Daru spoke, his face was actually serious for once, and he was looking stra
 [name]Itaru[line]“You know I can’t... leave my daughter there, right?”[%p]
 [name]Suzuha[line]“Papà...”[%p]
 For a moment, Suzuha was about to cry. She squeezed the blanket as hard as she could to stop herself.[%p]
-[margin top="38"]And then—[%e]
+[margin top="38"]E poi—[%e]
 [name]Itaru[line]“Whoops, got too serious. Need to slip back into [color index="280AA02D1400"]shitpost[color index="800000"] mode.”[%p]
 [name]Suzuha[line]“...”[%p]
 [name]Itaru[line]“Anyway, I like being around cute girls, and I look forward to going ‘sniff sniff’ when you’re not looking.”[%p]
