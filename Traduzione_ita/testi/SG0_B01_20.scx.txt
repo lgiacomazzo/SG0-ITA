@@ -30,7 +30,7 @@ Maho wiped her sweaty, soot-covered face with a towel. The white towel turned bl
 [name]Itaru[line]“And I told you, you can’t use that air conditioner for more than an hour a day because it’s so expensive.”[%p]
 [name]Maho[line]“...”[%p]
 These working conditions were abysmal.[%p]
-[margin top="38"]Was Kurisu really able to create the Time Leap Machine under these circumstances?[%p]
+[margin top="38"]Was Kurisu really able to create the Macchina per il Salto Temporale under these circumstances?[%p]
 Just thinking about it gave her even more respect for Kurisu.[%e]
 [name]Maho[line]“Fine. But I’d at least like to take a shower and get this soot out of my hair.”[%p]
 [name]Itaru[line]“Go ahead.”[%p]

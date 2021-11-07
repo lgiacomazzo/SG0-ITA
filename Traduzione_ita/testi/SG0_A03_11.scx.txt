@@ -245,7 +245,7 @@ Which meant that after the Amadeus program was shut down, it had ended up in Str
 Köchel Number 620—Il Flauto Magico.[%p]
 [name]Itaru[line]“K620... I found it!”[%p]
 [name]Rintaro[line]“Now just do it like we talked about!”[%p]
-Compared to Kurisu’s Time Leap Machine, the process was a lot simpler.[%p]
+Compared to Kurisu’s Macchina per il Salto Temporale, the process was a lot simpler.[%p]
 Since the memory data already existed, there was no need for a VR headset.[%p]
 Or the Microonde Telefonico (Nome Provvisorio).[%p]
 All we had to do was use the decoder program on Kagari’s memory data, then use SERN’s LHC to compress it.[%p]

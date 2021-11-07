@@ -462,7 +462,7 @@ She thought that nobody needed her, and that if someone better than her appeared
 [name]Maho[line]“There are a lot of scientists who are more talented than I am.”[%p]
 [name]Maho[line]“And maybe someday the AI I invent will write a paper better than I ever could.”[%p]
 [name]Maho[line]“But so what?”[%p]
-[name]Maho[line]“At Dr. Leskinen’s lab at Viktor Chondria University, the nearest desk to the entrance is my seat.”[%p]
+[name]Maho[line]“At Dr. Leskinen’s lab at Università Viktor Chondria, the nearest desk to the entrance is my seat.”[%p]
 [name]Maho[line]“The door wasn’t put on right and the wind always blows through it, and you can always hear people chattering in the hallway, but it’s my seat.”[%p]
 [name]Maho[line]“Even if the universe itself were to end, I’m not giving that seat up to anyone.”[%p]
 [name]Maho[line]“Even if a more talented scientist or a more talented AI wants it, I’m not giving it up.”[%p]

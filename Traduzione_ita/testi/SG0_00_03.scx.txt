@@ -67,7 +67,7 @@ Her cheeks turned a pretty shade of pink for an instant, but no longer. She migh
 [name]Maho[line]“Here’s an example: we can write memory data back into the brain, but if the brain can’t use it, then it’s useless.”[%p]
 [name]Maho[line]“The memories are there, but you can’t get to them. It’s basically the same as amnesia.”[%p]
 ...As Maho spoke, I remembered.[%p]
-I remembered all the lectures and theories that Kurisu had given me when she was making the Time Leap Machine.[%p]
+I remembered all the lectures and theories that Kurisu had given me when she was making the Macchina per il Salto Temporale.[%p]
 [name]Rintaro[line]“Um... if I remember right, when people try to access their memories, the signal goes from the [color index="280AA02D1400"]lobo frontale[color index="800000"] to the lobo temporale, right?”[%p]
 [name]Maho[line]“Yup. [color index="280AA02D1400"]Top-down memory search signals[color index="800000"].”[%p]
 [name]Rintaro[line]“So then...”[%p]

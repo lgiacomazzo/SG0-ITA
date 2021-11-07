@@ -28,7 +28,7 @@
 [name]Maho[line]Wolfgang Amadeus Mozart...[%p]
 [name]Maho[line][margin top="38"]During his life, there was a man very close to him who considered him his greatest rival.[%e]
 [name]Maho[line]His name was Antonio Salieri.[%p]
-[name]Maho[line][margin top="38"]I took my account name on the Viktor Chondria university network, “Salieri,” from him.[%p]
+[name]Maho[line][margin top="38"]I took my account name on the Università Viktor Chondria network, “Salieri,” from him.[%p]
 [name]Maho[line]The network got a big update a few weeks after Kurisu died. That’s when I chose it.[%p]
 [name]Maho[line]I wanted to match the name of the software that Kurisu and I had been working on before her death, which I still worked on to this day. There was no more meaning to it than that.[%e]
 [name]Maho[line]The name of that software was “Amadeus.”[%p]

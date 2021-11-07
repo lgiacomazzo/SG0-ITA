@@ -12,7 +12,7 @@ It was a corridor with white walls and clean white floors, and two people wearin
 [name]Maho[line]“Do you know where this is?”[%p]
 [name]Kagari[line]“Um... a school?”[%p]
 [name]Maho[line]“Which school?”[%p]
-[name]Kagari[line]“Viktor Chondria University...”[%p]
+[name]Kagari[line]“Università Viktor Chondria...”[%p]
 [name]Maho[line]“Do you know who this is, in front?”[%p]
 [name]Kagari[line]“Tony Brown. His nickname is JB, because he does this weird little dance when he gets excited.”[%p]
 [name]Maho[line]“Then who’s the girl?”[%p]

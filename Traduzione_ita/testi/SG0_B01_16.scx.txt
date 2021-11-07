@@ -75,7 +75,7 @@ Non sapevo esattamente cosa dirgli. Non è che fosse davvero il mio professore.[
 [name]Rintaro[line]“No, sono...”[%p]
 [name]Leskinen[line]“Sarà uno studente alla Viktor Chondria a settembre. Sto pensando di farlo venire nel mio laboratorio.”[%p]
 [name]Rintaro[line]“Huh?”[%p]
-[name]Medico[line]“Capisco. Viktor Chondria University, eh? Questa sì che è una sorpresa.”[%p]
+[name]Medico[line]“Capisco. Università Viktor Chondria, eh? Questa sì che è una sorpresa.”[%p]
 Ho guardato il Dr. Leskinen con aria interrogativa, ma lui mi ha solo sorriso maliziosamente.[%p]
 Quest’uomo...[%p]
 In realtà era proprio un ragazzino.[%p]
