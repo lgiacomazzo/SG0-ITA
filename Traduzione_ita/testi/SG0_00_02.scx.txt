@@ -286,7 +286,7 @@ E quello di cui il dottor Leskinen stava parlando ora era la tecnologia di base 
 La diapositiva sul proiettore passò a un’altra.[%p]
 [name]Maho[line]“Questo progetto è uno sforzo congiunto con il laboratorio di psicofisiologia.”[%p]
 [name]Maho[line]“L’idea è di usare il giro paraippocampale per rimettere nel cervello i ricordi immagazzinati in un computer...”[%p]
-[name]Man[line]“Incredibile!”[%p]
+[name]Uomo[line]“Incredibile!”[%p]
 Uno che sembrava un dottorando in prima fila urlò.[%p]
 Il dottor Leskinen non sembrava particolarmente contrariato dall’interruzione. Maho continuò la sua traduzione.[%p]
 [name]Maho[line]“Incredibile, eh? Posso capire come ti senti. Mi sentirei allo stesso modo nella tua posizione.”[%p]

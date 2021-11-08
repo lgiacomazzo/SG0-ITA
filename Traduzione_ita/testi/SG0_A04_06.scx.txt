@@ -125,7 +125,7 @@ If we were going to hide her, it would have to be at Lukako’s house, or Faris�
 [name]Rintaro[line]“All right, then, it’s settled. Are you ok with that, Kagari?”[%p]
 [name]Kagari[line]“Yeah. All right.”[%p]
 The issue was that I couldn’t leave Kagari alone.[%p]
-[name]Woman’s voice[line]“Um, is there something I could do?”[%p]
+[name]Voce di una donna[line]“Um, is there something I could do?”[%p]
 [name]Rintaro[line]“Huh..?”[%p]
 I turned around and saw that at some point, Yuki had entered the room.[%p]
 [name]Suzuha[line]“Yuki-san...”[%p]

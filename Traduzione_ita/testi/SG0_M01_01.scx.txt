@@ -99,7 +99,7 @@ One of the pipes on another floor had some sort of a problem, and a small amount
 Until they knew the cause, they’d decided to shut down the office for safety reasons. Depending on what they found, it could take anywhere from a week to a month to resolve the issue.[%p]
 Maho had a lot of work to do because of the office closure, and she was out working until morning.[%p]
 Then she went back to the hotel and slept until she was woken up by a call around 10:00 AM.[%p]
-[name]Front[line]“A Kiryu-sama is here to see you in the lobby, ma’am.”[%p]
+[name]Receptionist[line]“A Kiryu-sama is here to see you in the lobby, ma’am.”[%p]
 [name]Maho[line]“...That’s right. I had that interview today. But I thought she was going to call my phone...”[%p]
 [name]Maho[line]“The battery’s dead.”[%p]
 [name]Maho[line]“After all the chaos last night, I must have forgotten to charge it when I got back to the hotel.”[%p]

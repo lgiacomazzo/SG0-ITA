@@ -164,7 +164,7 @@ That was the training I’d given him when he told me he felt too much like a gi
 It was so stupid, I couldn’t even laugh.[%p]
 [name]Luka[line]“I’m sorry...”[%p]
 Thinking back, I was amazed he put up with that nonsense.[%p]
-[name]Luka’s Father[line]“Luka, are you home?”[%p]
+[name]Padre di Luka[line]“Luka, are you home?”[%p]
 I could hear his dad’s voice from their home behind the shrine office.[%p]
 [name]Luka[line]“Yes! I’ll be right there!”[%p]
 [name]Rintaro[line]“Ok, ora vado.”[%p]

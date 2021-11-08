@@ -1,4 +1,4 @@
-[name]Kagari[line]“No, Big Sis Suzuha. You can’t do that.”[%p]
+[name]Kagari[line]“No, Sorellona Suzuha. Non puoi farlo.”[%p]
 [name]Kagari[line]“Non puoi cambiare il mondo. Non ha alcun senso!”[%p]
 [name]Kagari[line]“Non puoi cancellare questo mondo! Non te lo permetterò!”[%p]
 [name]Suzuha[line]“...”[%p]
