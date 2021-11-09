@@ -1,4 +1,4 @@
-[name]Suzuha[line]“Well, Dad? Any luck?”[%p]
+[name]Suzuha[line]“Well, Papà? Any luck?”[%p]
 [name]Itaru[line]“Nope, sorry. Nothing.”[%p]
 [name]Suzuha[line]“Ho capito...”[%p]
 The search for Mayuri’s future daughter, Shiina Kagari, was taking longer than expected.[%p]

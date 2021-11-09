@@ -98,7 +98,7 @@ She hadn’t been here long, but she’d enjoyed spending time with Okabe and Mo
 [margin top="38"]She didn’t want to leave without saying goodbye.[%p]
 [margin top="38"]But she couldn’t help it.[%e]
 [name]Maho[line]“...All right. Let’s go.”[%p]
-There was no one in the Tokyo Denki University office.[%p]
+There was no one in the Università Tokyo Denki office.[%p]
 [margin top="38"]She’d worried that her attackers might be waiting for her, but evidently she’d been worried over nothing.[%e]
 [name]Leskinen[line]“Whew...”[%p]
 [name]Leskinen[line]“We did it!”[%p]

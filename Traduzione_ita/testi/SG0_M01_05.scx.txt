@@ -1,4 +1,4 @@
-[name]Nae[line]“Big Sis Mayuri, let’s go there next!”[%p]
+[name]Nae[line]“Sorellona Mayuri, let’s go there next!”[%p]
 [name]Mayuri[line]“Ok! Let’s go! Ready, start!”[%p]
 [name]Nae[line]“Yay! I win!”[%p]
 [name]Mayuri[line]“Aw, I lost! You run so fast, Nae-chan.”[%p]

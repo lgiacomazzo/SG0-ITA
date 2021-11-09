@@ -208,7 +208,7 @@ Itaru opened a different window on the monitor. He displayed one of the text fil
 [name]Itaru[line]“So I did some research, and there’s an insane amount of agents assigned to that case.”[%p]
 [name]Itaru[line]“It’s to the point where I have no idea where the money to pay them is coming from.”[%p]
 [name]Maho[line]“Capisco...”[%p]
-[name]Suzuha[line]“What about the attack on your workplace, Dad?”[%p]
+[name]Suzuha[line]“What about the attack on your workplace, Papà?”[%p]
 [name]Itaru[line]“Same deal.”[%p]
 The police had called it a fight between foreign mafias trying to expand their territory in Japan.[%p]
 [margin top="38"]The media never questioned the story at all, and even people on the boards of the famously-skeptical @channel believed everything they were told.[%p]
