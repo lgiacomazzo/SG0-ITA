@@ -16,9 +16,10 @@ Audio File: ../../../../../../../oldharddrive/ohboi/sciadv/dotass/zero_videos/op
 Video File: ../../../../../../../oldharddrive/ohboi/sciadv/dotass/zero_videos/op.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 26
-Video Position: 3163
+Video Zoom Percent: 0.250000
+Scroll Position: 46
+Active Line: 47
+Video Position: 681
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,70 +80,81 @@ Comment: 0,0:00:00.21,0:00:00.21,Kanji,,0,0,0,template char noblank,!retime("syl
 Comment: 0,0:01:21.68,0:01:21.68,Kanji - Copia,,0,0,0,template char noblank,!retime("line",-300,0)!{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\an5\pos(!meta.res_x-line.eff_margin_r-line.height/2-20!,!(meta.res_y-line.width)/2+syl.center!)\blur3}
 Comment: 0,0:00:00.21,0:00:00.21,Kanji - Copia,,0,0,0,template char noblank,!retime("syl",0,0)!{\an5\fad(0,100)\pos(!meta.res_x-line.eff_margin_r-line.height/2-20!,!(meta.res_y-line.width)/2+syl.center!)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(!syl.duration/2+syl.duration/4!,!syl.duration!,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}
 Comment: 0,0:01:59.11,0:03:48.50,translation,,0,0,0,template noblank,!retime("line",-300,0)!{\fad(300,250)\pos(!$x+25!,!$y-25!)\fscy83\blur3\c&HF4F3E8&\3c&H4E492D&\shad0}
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Ashita no tenki mo shiranu mama ga ii to kasa wo motazu
+Dialogue: 0,0:00:36.65,0:00:47.15,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Namida no ame nara yasashisugiru uso ni kakikaeta
+Dialogue: 0,0:00:47.00,0:00:52.52,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Hako ni tojikometa sora no danpen ga
+Dialogue: 0,0:00:52.45,0:00:57.88,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Mirai no pazuru ni hamattekurenai
+Dialogue: 0,0:00:57.84,0:01:03.76,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Mugenkai no suiron wa noizu hakidashite
+Dialogue: 0,0:01:03.76,0:01:06.58,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Kami sae mo azamuku rojikku
+Dialogue: 0,0:01:06.47,0:01:09.18,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Yakusoku no ano basho he
+Dialogue: 0,0:01:09.54,0:01:16.08,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Bokura wa uchuu mo mada shiranai zero no geeto hiraku yo
+Dialogue: 0,0:01:16.28,0:01:20.52,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Subete wa tsubu to nari saisei suru
+Dialogue: 0,0:01:20.37,0:01:26.90,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Sorenara togiresou na ishiki mo tsunagitomete miseru yo
+Dialogue: 0,0:01:26.83,0:01:40.77,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Ano jikan ano basho de kimi no toki ga mou ichido hajimaru
 Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}A
 Dialogue: 0,0:00:26.10,0:00:26.60,romaji,,0,0,0,fx,{\fad(0,150)\pos(50,65)\org(52,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(375,500,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}A
 Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(77,65)\blur3\fscy83}shi
 Dialogue: 0,0:00:26.60,0:00:27.14,romaji,,0,0,0,fx,{\fad(0,150)\pos(77,65)\org(79,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(405,540,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}s
 Dialogue: 0,0:00:26.60,0:00:27.14,romaji,,0,0,0,fx,{\fad(0,150)\pos(90,65)\org(92,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(405,540,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}h
 Dialogue: 0,0:00:26.60,0:00:27.14,romaji,,0,0,0,fx,{\fad(0,150)\pos(110,65)\org(112,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(405,540,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}i
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(121,65)\blur3\fscy83}ta
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(134,65)\blur3\fscy83}ta
 Dialogue: 0,0:00:27.14,0:00:27.47,romaji,,0,0,0,fx,{\fad(0,150)\pos(121,65)\org(123,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(247.5,330,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}t
 Dialogue: 0,0:00:27.14,0:00:27.47,romaji,,0,0,0,fx,{\fad(0,150)\pos(133,65)\org(135,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(247.5,330,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}a
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(159,65)\blur3\fscy83}no
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(180,65)\blur3\fscy83}no
 Dialogue: 0,0:00:27.47,0:00:28.57,romaji,,0,0,0,fx,{\fad(0,150)\pos(159,65)\org(161,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(825,1100,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}n
 Dialogue: 0,0:00:27.47,0:00:28.57,romaji,,0,0,0,fx,{\fad(0,150)\pos(179,65)\org(181,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(825,1100,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}o
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(208,65)\blur3\fscy83}te
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(239,65)\blur3\fscy83}te
 Dialogue: 0,0:00:28.83,0:00:29.34,romaji,,0,0,0,fx,{\fad(0,150)\pos(208,65)\org(210,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(382.5,510,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}t
 Dialogue: 0,0:00:28.83,0:00:29.34,romaji,,0,0,0,fx,{\fad(0,150)\pos(220,65)\org(222,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(382.5,510,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}e
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(236,65)\blur3\fscy83}n
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(274,65)\blur3\fscy83}n
 Dialogue: 0,0:00:29.34,0:00:29.82,romaji,,0,0,0,fx,{\fad(0,150)\pos(236,65)\org(238,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(360,480,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}n
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(256,65)\blur3\fscy83}ki
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(297,65)\blur3\fscy83}ki
 Dialogue: 0,0:00:29.82,0:00:30.20,romaji,,0,0,0,fx,{\fad(0,150)\pos(256,65)\org(258,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(285,380,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}k
 Dialogue: 0,0:00:29.82,0:00:30.20,romaji,,0,0,0,fx,{\fad(0,150)\pos(274,65)\org(276,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(285,380,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}i
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(296,65)\blur3\fscy83}mo
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(342,65)\blur3\fscy83}mo
 Dialogue: 0,0:00:30.20,0:00:31.22,romaji,,0,0,0,fx,{\fad(0,150)\pos(296,65)\org(298,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(765,1020,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}m
 Dialogue: 0,0:00:30.20,0:00:31.22,romaji,,0,0,0,fx,{\fad(0,150)\pos(325,65)\org(327,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(765,1020,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}o
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(355,65)\blur3\fscy83}shi
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(410,65)\blur3\fscy83}shi
 Dialogue: 0,0:00:31.52,0:00:31.88,romaji,,0,0,0,fx,{\fad(0,150)\pos(355,65)\org(357,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(270,360,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}s
 Dialogue: 0,0:00:31.52,0:00:31.88,romaji,,0,0,0,fx,{\fad(0,150)\pos(368,65)\org(370,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(270,360,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}h
 Dialogue: 0,0:00:31.52,0:00:31.88,romaji,,0,0,0,fx,{\fad(0,150)\pos(388,65)\org(390,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(270,360,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}i
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(399,65)\blur3\fscy83}ra
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(467,65)\blur3\fscy83}ra
 Dialogue: 0,0:00:31.88,0:00:32.07,romaji,,0,0,0,fx,{\fad(0,150)\pos(399,65)\org(401,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(142.5,190,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}r
 Dialogue: 0,0:00:31.88,0:00:32.07,romaji,,0,0,0,fx,{\fad(0,150)\pos(414,65)\org(416,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(142.5,190,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}a
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(430,65)\blur3\fscy83}nu
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(504,65)\blur3\fscy83}nu
 Dialogue: 0,0:00:32.07,0:00:32.39,romaji,,0,0,0,fx,{\fad(0,150)\pos(430,65)\org(432,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(240,320,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}n
 Dialogue: 0,0:00:32.07,0:00:32.39,romaji,,0,0,0,fx,{\fad(0,150)\pos(450,65)\org(452,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(240,320,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}u
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(480,65)\blur3\fscy83}ma
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(562,65)\blur3\fscy83}ma
 Dialogue: 0,0:00:32.39,0:00:32.57,romaji,,0,0,0,fx,{\fad(0,150)\pos(480,65)\org(482,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(135,180,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}m
 Dialogue: 0,0:00:32.39,0:00:32.57,romaji,,0,0,0,fx,{\fad(0,150)\pos(509,65)\org(511,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(135,180,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}a
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(525,65)\blur3\fscy83}ma
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(617,65)\blur3\fscy83}ma
 Dialogue: 0,0:00:32.57,0:00:32.73,romaji,,0,0,0,fx,{\fad(0,150)\pos(525,65)\org(527,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(120,160,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}m
 Dialogue: 0,0:00:32.57,0:00:32.73,romaji,,0,0,0,fx,{\fad(0,150)\pos(554,65)\org(556,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(120,160,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}a
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(581,65)\blur3\fscy83}ga
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(684,65)\blur3\fscy83}ga
 Dialogue: 0,0:00:32.73,0:00:32.90,romaji,,0,0,0,fx,{\fad(0,150)\pos(581,65)\org(583,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(127.5,170,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}g
 Dialogue: 0,0:00:32.73,0:00:32.90,romaji,,0,0,0,fx,{\fad(0,150)\pos(599,65)\org(601,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(127.5,170,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}a
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(626,65)\blur3\fscy83}ii
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(740,65)\blur3\fscy83}ii
 Dialogue: 0,0:00:32.90,0:00:33.40,romaji,,0,0,0,fx,{\fad(0,150)\pos(626,65)\org(628,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(375,500,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}i
 Dialogue: 0,0:00:32.90,0:00:33.40,romaji,,0,0,0,fx,{\fad(0,150)\pos(637,65)\org(639,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(375,500,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}i
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(658,65)\blur3\fscy83}to
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(775,65)\blur3\fscy83}to
 Dialogue: 0,0:00:33.40,0:00:34.22,romaji,,0,0,0,fx,{\fad(0,150)\pos(658,65)\org(660,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(615,820,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}t
 Dialogue: 0,0:00:33.40,0:00:34.22,romaji,,0,0,0,fx,{\fad(0,150)\pos(670,65)\org(672,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(615,820,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}o
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(699,65)\blur3\fscy83}ka
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(823,65)\blur3\fscy83}ka
 Dialogue: 0,0:00:34.78,0:00:35.11,romaji,,0,0,0,fx,{\fad(0,150)\pos(699,65)\org(701,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(247.5,330,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}k
 Dialogue: 0,0:00:34.78,0:00:35.11,romaji,,0,0,0,fx,{\fad(0,150)\pos(717,65)\org(719,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(247.5,330,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}a
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(732,65)\blur3\fscy83}sa
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(866,65)\blur3\fscy83}sa
 Dialogue: 0,0:00:35.11,0:00:35.29,romaji,,0,0,0,fx,{\fad(0,150)\pos(732,65)\org(734,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(135,180,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}s
 Dialogue: 0,0:00:35.11,0:00:35.29,romaji,,0,0,0,fx,{\fad(0,150)\pos(746,65)\org(748,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(135,180,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}a
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(773,65)\blur3\fscy83}wo
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(921,65)\blur3\fscy83}wo
 Dialogue: 0,0:00:35.29,0:00:35.41,romaji,,0,0,0,fx,{\fad(0,150)\pos(773,65)\org(775,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(90,120,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}w
 Dialogue: 0,0:00:35.29,0:00:35.41,romaji,,0,0,0,fx,{\fad(0,150)\pos(803,65)\org(805,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(90,120,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}o
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(832,65)\blur3\fscy83}mo
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(985,65)\blur3\fscy83}mo
 Dialogue: 0,0:00:35.41,0:00:35.60,romaji,,0,0,0,fx,{\fad(0,150)\pos(832,65)\org(834,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(142.5,190,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}m
 Dialogue: 0,0:00:35.41,0:00:35.60,romaji,,0,0,0,fx,{\fad(0,150)\pos(862,65)\org(864,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(142.5,190,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}o
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(880,65)\blur3\fscy83}ta
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(1042,65)\blur3\fscy83}ta
 Dialogue: 0,0:00:35.60,0:00:36.14,romaji,,0,0,0,fx,{\fad(0,150)\pos(880,65)\org(882,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(405,540,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}t
 Dialogue: 0,0:00:35.60,0:00:36.14,romaji,,0,0,0,fx,{\fad(0,150)\pos(892,65)\org(894,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(405,540,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}a
-Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(907,65)\blur3\fscy83}zu
+Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(1077,65)\blur3\fscy83}zu
 Dialogue: 0,0:00:36.14,0:00:36.41,romaji,,0,0,0,fx,{\fad(0,150)\pos(907,65)\org(909,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(202.5,270,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}z
 Dialogue: 0,0:00:36.14,0:00:36.41,romaji,,0,0,0,fx,{\fad(0,150)\pos(924,65)\org(926,170)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\fscy83\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(202.5,270,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}u
 Dialogue: 0,0:00:36.65,0:00:47.15,romaji,,0,0,0,fx,{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Na
