@@ -63,7 +63,7 @@ Maho was probably feeling a little left out, but that would solve itself with ti
 [name]Yuki[line]“It’ll be fun to see Suzuha-san wearing one, too. Won’t it, Hashida-san?”[%p]
 [name]Itaru[line]“Yeah. Nothing wrong with a little sister shrine priestess. If you could throw in a nurse somewhere, you’d have an anime full house.”[%p]
 [name]Fubuki[line]“Ahaha! You’re always such a pervert, Hashida-san.”[%p]
-[name]Itaru[line]“But a perverted gentleman, though.”[%p]
+[name]Itaru[line]“But a gentiluomo pervertito, though.”[%p]
 In the end, instead of just Mayuri helping at the shrine, Suzuha and Faris had gone, too.[%p]
 Faris I could understand, but I certainly hadn’t expected Suzuha to go.[%p]
 She was probably worried about Kagari, but there was also another reason, she said.[%p]

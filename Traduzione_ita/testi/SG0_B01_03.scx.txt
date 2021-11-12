@@ -82,7 +82,7 @@ I glanced over at Maho, who was staring at the menu and trying her best to keep 
 [name]Rintaro[line]“You like Yuki-san, right?”[%p]
 [name]Itaru[line]“Sure, she’s pretty, and her thighs and the curve of her neck make me pant...”[%p]
 [name]Rintaro[line]“Stop it, pervert.”[%p]
-[name]Itaru[line]“I’m not a pervert! I’m a perverted gentleman.”[%p]
+[name]Itaru[line]“I’m not a pervert! I’m a gentiluomo pervertito.”[%p]
 [name]Rintaro[line]“I don’t care which you are. I’m talking about romance, here.”[%p]
 [name]Itaru[line]“Hmm...?”[%p]
 Daru leaned over the table and sipped his ice tea through a straw.[%p]
