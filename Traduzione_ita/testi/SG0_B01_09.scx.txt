@@ -27,7 +27,7 @@ Suzuha realized Itaru was trying to make her feel better. Suddenly, deep in her 
 [name]Itaru[line]“Uwah... Yeah, you’re right.”[%p]
 [name]Itaru[line]“No way I could say that in front of Okarin.”[%p]
 [name]Suzuha[line]“...”[%p]
-[name]Suzuha[line]“I’m going to write a letter to Uncle Okarin before tomorrow.”[%p]
+[name]Suzuha[line]“I’m going to write a letter to Zio Okarin before tomorrow.”[%p]
 [name]Suzuha[line]“If I try to talk to him directly, I’ll end up acting weird again.”[%p]
 [name]Suzuha[line]“I’ll tell him I’m sorry...”[%p]
 [name]Suzuha[line]“And that I’m going to keep fighting a little longer.”[%p]

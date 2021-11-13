@@ -37,7 +37,7 @@ There was also the hope that if something did happen, I’d be able to learn som
 Still, I hadn’t come back to the lab for a long time.[%p]
 [name]Nae[line]“You shouldn’t say that, Papà.”[%p]
 [name]Tennouji[line]“Hmm? Oh, you’re right. You’re such a good girl, Nae.”[%p]
-[name]Nae[line]“Uncle Okarin, thanks for taking care of me.”[%p]
+[name]Nae[line]“Zio Okarin, thanks for taking care of me.”[%p]
 [name]Rintaro[line]“S-Sì...”[%p]
 Nae didn’t seem as scared of me, probably because I’d stopped treating her like a small, cute animal.[%p]
 [name]Tennouji[line]“Ok, I’ll be back to pick her up tonight. See you.”[%p]

@@ -231,7 +231,7 @@ Suzuha let go of Itaru’s collar and moved over to the window. Below, she saw a
 [margin top="38"]Okabe Rintaro. Shiina Mayuri. Faris NyanNyan.[%p]
 [margin top="38"]And Hiyajo Maho, too.[%e]
 [name]Suzuha[line]“Hiyajo-san’s here already?”[%p]
-[name]Suzuha[line]“But why’s she here with Uncle Okarin?”[%p]
+[name]Suzuha[line]“But why’s she here with Zio Okarin?”[%p]
 And then she gave a start and turned back toward the room.[%e]
 [name]Suzuha[line]“Wait, this is bad! We haven’t put it away!”[%p]
 [name]Itaru[line]“Huh?”[%p]
