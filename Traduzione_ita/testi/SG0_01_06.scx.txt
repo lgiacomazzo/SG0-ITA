@@ -44,7 +44,7 @@ In 2036, you needed a filter and a mask to go outside for any length of time. Co
 [name]Suzuha[line]“Now you understand why everyone was willing to risk it all to change the linea di universo, right, Kagari?”[%p]
 [name]Suzuha[line]“The le linee di universo... History... you can worry about that stuff later. For now, just focus on protecting this sky.”[%p]
 [name]Kagari[line]“...”[%p]
-Kagari slipped her hand into her pocket and took out the faded green Upa key chain.[%p]
+Kagari slipped her hand into her pocket and took out the faded green portachiavi Upa.[%p]
 She stared at it with a sad look on her face.[%p]
 She was probably thinking about Mayuri, her mother.[%p]
 And she was probably trying to understand what it meant that her mother had put her inside the time machine.[%e]

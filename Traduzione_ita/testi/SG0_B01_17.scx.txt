@@ -366,7 +366,7 @@ Ma non c’era polvere, né macchie. Al contrario, brillava intensamente, come s
 [name]Suzuha[line]“Non lo so...”[%p]
 Fissò l’Upa verde che Itaru teneva tra le mani.[%p]
 [margin top="38"]E poi, nella sua mente, sentì l’urlo di una giovane ragazza.[%e]
-[name]Mayuri[line]“Questo è il portachiavi Upa della Mamma. Lo sto dando a te. Abbine cura, ok?”[%p]
+[name]Mayuri[line]“Questo è il portachiavi Upa della Mamma. Lo sto dando a te. Prenditene cura, ok?”[%p]
 [name]Suzuha[line]“...!”[%p]
 Suzuha sussultò.[%p]
 [margin top="38"]Una sensazione di indescrivibile terrore le corse lungo la schiena.[%e]
