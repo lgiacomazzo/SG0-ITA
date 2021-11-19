@@ -151,7 +151,7 @@ Itaru glanced toward the area di sviluppo, past the curtain in the back of the l
 [name]Maho[line]“I wonder what’s wrong with it.”[%p]
 [name]Itaru[line]“If we could ask Okarin, I’m sure things would be different.”[%p]
 [name]Suzuha[line]“We can’t do that. He’d get really mad if he even knew we were working on this.”[%p]
-[name]Suzuha[line]“Uncle’s... afraid. He’s afraid of the power of the linea di universo convergence.”[%p]
+[name]Suzuha[line]“Zio’s... afraid. He’s afraid of the power of the linea di universo convergence.”[%p]
 [name]Suzuha[line]“It won’t be easy to convince him.”[%p]
 In fact, it had almost been a year since she’d first tried and failed.[%e]
 [name]Itaru[line]“Hm...”[%p]
