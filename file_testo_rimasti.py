@@ -9,16 +9,15 @@
 
 import sys
 import pathlib
-import re
 from collections import defaultdict
 
-gia_fatti = ["macrosys2.scx.txt", "CLRFLG.scx.txt", "_tips.scx.txt", "_system.scx.txt", "_Startup_win.scx.txt", "_phone.scx.txt","SG0_00_01.scx.txt", "SG0_00_02.scx.txt", "SG0_00_03.scx.txt", "SG0_00_04.scx.txt", "SG0_01_01.scx.txt", "SG0_01_02.scx.txt", "SG0_01_03.scx.txt", "SG0_01_04.scx.txt", "SG0_01_05.scx.txt", "SG0_01_06.scx.txt", "SG0_01_07.scx.txt", "SG0_A01_01.scx.txt"]
-
-def print_file_sopra_i_(numero, mappa):
-    print(f"File rimasti sopra i {numero}")
-    for file,contatore in mappa.items():
-        if contatore >= numero:
-            print(f"{file}: {contatore}")
+altri_file = ["macrosys2.scx.txt", "CLRFLG.scx.txt", "_tips.scx.txt", "_system.scx.txt", "_Startup_win.scx.txt", "_phone.scx.txt"]
+capitolo_0 = ["SG0_00_01.scx.txt", "SG0_00_02.scx.txt", "SG0_00_03.scx.txt", "SG0_00_04.scx.txt"]
+capitolo_1 = ["SG0_01_01.scx.txt", "SG0_01_02.scx.txt", "SG0_01_03.scx.txt", "SG0_01_04.scx.txt", "SG0_01_05.scx.txt", "SG0_01_06.scx.txt", "SG0_01_07.scx.txt", "SG0_01_08.scx.txt"]
+linea_alfa = ["SG0_A01_01.scx.txt"]
+linea_beta = ["SG0_B01_01.scx.txt"]
+altro = []
+gia_fatti = altri_file + capitolo_0 + capitolo_1 + linea_alfa + linea_beta + altro
 
 def print_file_sopra_i_e_non_tradotti(numero, mappa):
     global gia_fatti
@@ -27,8 +26,13 @@ def print_file_sopra_i_e_non_tradotti(numero, mappa):
         if contatore >= numero and file not in gia_fatti:
             print(f"{file}: {contatore}")
 
-
-regex_expr = sys.argv[1]
+# trova tutti i file e conta quante righe hanno
+# passare come argomento il path dove trovare i file txt (esempio: scrivere "path/*" comporta che legge tutti i file dentro path)
+# senza argomenti, di default legge dentro Traduzione_ita/testi
+if len(sys.argv) >= 2:
+    regex_expr = sys.argv[1]
+else:
+    regex_expr = r".\Traduzione_ita\testi\*"
 mappa = defaultdict(lambda: 0)
 for path in pathlib.Path(".").glob(regex_expr):
     with open(path, "r", encoding="utf-8") as file:
@@ -43,8 +47,8 @@ for file,contatore in mappa.items():
         count += contatore
 
 print_file_sopra_i_e_non_tradotti(0, mappa)
-print_file_sopra_i_e_non_tradotti(300, mappa)
-print_file_sopra_i_e_non_tradotti(400, mappa)
-print_file_sopra_i_e_non_tradotti(500, mappa)
-print_file_sopra_i_e_non_tradotti(600, mappa)
+#print_file_sopra_i_e_non_tradotti(300, mappa)
+#print_file_sopra_i_e_non_tradotti(400, mappa)
+#print_file_sopra_i_e_non_tradotti(500, mappa)
+#print_file_sopra_i_e_non_tradotti(600, mappa)
 print(count)
