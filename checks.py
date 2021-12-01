@@ -54,7 +54,10 @@ def main():
             # line_2 = [line] or [lin]
             line_2 = re.split("^(\[name\].*\[line\])", line_1)
             if len(line_2) == 1:
-                line_2 = ['', '', line_1]
+                # forse [margin top="38"] o [margin top="76"]
+                line_2 = re.split("^(\[margin top=.{4}\])", line_1)
+                if len(line_2) == 1:
+                    line_2 = ['', '', line_1]
             # line_2 = ['', '[name].*[line]', 'resto stringa'] or ['', '', line_1]
             prefix = line_2[1]
             line = line_2[2]
