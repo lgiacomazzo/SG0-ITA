@@ -17,7 +17,7 @@ def editor(filename, editor=None, text=None):
         
         subprocess.call(cmd)
         try:
-            input("Ok. Modifica il file. Premi un tasto quando salvi il file e finisci")
+            input("Ok. Modifica il file. Premi un tasto quando salvi il file e finisci.")
         except Exception as e:
             print(e)
         return path.read_text(encoding='utf-8')
