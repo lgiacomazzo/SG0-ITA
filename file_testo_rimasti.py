@@ -15,7 +15,7 @@ altri_file = ["macrosys2.scx.txt", "CLRFLG.scx.txt", "_tips.scx.txt", "_system.s
 capitolo_0 = ["SG0_00_01.scx.txt", "SG0_00_02.scx.txt", "SG0_00_03.scx.txt", "SG0_00_04.scx.txt"]
 capitolo_1 = ["SG0_01_01.scx.txt", "SG0_01_02.scx.txt", "SG0_01_03.scx.txt", "SG0_01_04.scx.txt", "SG0_01_05.scx.txt", "SG0_01_06.scx.txt", "SG0_01_07.scx.txt", "SG0_01_08.scx.txt"]
 linea_alfa = ["SG0_A01_01.scx.txt"]
-linea_beta = ["SG0_B01_01.scx.txt","SG0_B01_02.scx.txt","SG0_B01_03.scx.txt","SG0_B01_04.scx.txt","SG0_B01_05.scx.txt","SG0_B01_06.scx.txt","SG0_B01_07.scx.txt","SG0_B01_08.scx.txt"]
+linea_beta = ["SG0_B01_01.scx.txt","SG0_B01_02.scx.txt","SG0_B01_03.scx.txt","SG0_B01_04.scx.txt","SG0_B01_05.scx.txt","SG0_B01_06.scx.txt","SG0_B01_07.scx.txt","SG0_B01_08.scx.txt","SG0_B01_09.scx.txt"]
 altro = []
 gia_fatti = altri_file + capitolo_0 + capitolo_1 + linea_alfa + linea_beta + altro
 
