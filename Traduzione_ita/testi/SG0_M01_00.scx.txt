@@ -32,7 +32,7 @@
 [name]Maho[line]The network got a big update a few weeks after Kurisu died. That’s when I chose it.[%p]
 [name]Maho[line]I wanted to match the name of the software that Kurisu and I had been working on before her death, which I still worked on to this day. There was no more meaning to it than that.[%e]
 [name]Maho[line]The name of that software was “Amadeus.”[%p]
-[name]Maho[line][margin top="38"]It was Dr. Leskinen who came up with the idea of naming this neural network-based AI after the genius composer.[%p]
+[name]Maho[line][margin top="38"]It was dottor Leskinen who came up with the idea of naming this neural network-based AI after the genius composer.[%p]
 [name]Maho[line]At the time, I thought it was a good idea. And I still do today.[%p]
 [name]Maho[line][margin top="38"]...I still do today.[%e]
 [name]Maho[line]Amadeus e Salieri...[%p]

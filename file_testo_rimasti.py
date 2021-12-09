@@ -15,9 +15,9 @@ altri_file = ["macrosys2.scx.txt", "CLRFLG.scx.txt", "_tips.scx.txt", "_system.s
 capitolo_0 = ["SG0_00_01.scx.txt", "SG0_00_02.scx.txt", "SG0_00_03.scx.txt", "SG0_00_04.scx.txt"]
 capitolo_1 = ["SG0_01_01.scx.txt", "SG0_01_02.scx.txt", "SG0_01_03.scx.txt", "SG0_01_04.scx.txt", "SG0_01_05.scx.txt", "SG0_01_06.scx.txt", "SG0_01_07.scx.txt", "SG0_01_08.scx.txt"]
 linea_alfa = ["SG0_A01_01.scx.txt"]
-linea_beta = ["SG0_B01_01.scx.txt","SG0_B01_02.scx.txt","SG0_B01_03.scx.txt","SG0_B01_04.scx.txt","SG0_B01_05.scx.txt","SG0_B01_06.scx.txt","SG0_B01_07.scx.txt","SG0_B01_08.scx.txt","SG0_B01_09.scx.txt","SG0_B01_10.scx.txt","SG0_B01_11.scx.txt"]
-altro = []
-gia_fatti = altri_file + capitolo_0 + capitolo_1 + linea_alfa + linea_beta + altro
+linea_beta = ["SG0_B01_01.scx.txt","SG0_B01_02.scx.txt","SG0_B01_03.scx.txt","SG0_B01_04.scx.txt","SG0_B01_05.scx.txt","SG0_B01_06.scx.txt","SG0_B01_07.scx.txt","SG0_B01_08.scx.txt","SG0_B01_09.scx.txt","SG0_B01_10.scx.txt","SG0_B01_11.scx.txt","SG0_B01_12.scx.txt","SG0_B01_13.scx.txt","SG0_B01_14.scx.txt","SG0_B01_15.scx.txt","SG0_B01_16.scx.txt","SG0_B01_17.scx.txt"]
+altri_capitoli = []
+gia_fatti = altri_file + capitolo_0 + capitolo_1 + linea_alfa + linea_beta + altri_capitoli
 
 def print_file_sopra_i_e_non_tradotti(numero, mappa):
     global gia_fatti

@@ -273,7 +273,7 @@ Maho had only met Daru a few times, and already she was starting to be wary of h
 [name]???[line]“Oh no!”[%p]
 Maho’s head jerked up in surprise at the sudden voice. I followed where she was looking and saw—[%p]
 [name]Leskinen[line]“Where? Where are the Japanese shaman girls, Lintahlo?”[%p]
-Dr. Leskinen and Dr. Reyes looked absolutely miserable.[%p]
+Il dottor Leskinen and Dr. Reyes looked absolutely miserable.[%p]
 [name]Reyes[line]“Maho said if I came here, I could see Japanese shaman girls. But they’re gone!”[%p]
 [name]Rintaro[line]“J-Japanese shaman girls?”[%p]
 [name]Maho[line]“He means the shrine priestesses.”[%p]
