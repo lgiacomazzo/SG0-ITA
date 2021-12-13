@@ -77,7 +77,7 @@ I remembered reading that they’d acquired top-secret information on Russian ba
 The result was the destruction of the CIA’s reputation,[%p]
 e allo stesso tempo, la riorganizzazione totale della strategia militare della Russia.[%p]
 Avevo anche sentito alcune voci che affermavano che durante le guerre del Golfo e dell’Iraq, avevano ottenuto informazioni sui paesi in guerra più velocemente di chiunque altro, e che le diffondevano a seconda delle necessità.[%p]
-The world’s governments supposedly called them the “Shadow CIA.”[%p]
+The world’s governments supposedly called them the “CIA ombra.”[%p]
 [name]Rintaro[line]“You work for Stratfo?”[%p]
 [name]Rintaro[line]“But I thought you were the chief researcher at the Istituto di Neuroscienze...”[%p]
 [name]Leskinen[line]“That’s my real job, of course.”[%p]
