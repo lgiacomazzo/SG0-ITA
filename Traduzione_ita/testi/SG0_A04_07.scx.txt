@@ -195,7 +195,7 @@ She stepped on the body next to her as if it were an object, and not a human bei
 Reyes flashed me a dazzling smile and nodded.[%p]
 [name]Rintaro[line]“Capisco...”[%p]
 [name]Rintaro[line]“The time machine, the impossible dream of all mankind.”[%p]
-[name]Rintaro[line]“You learned of the paper that described how it would work!”[%p]
+[name]Rintaro[line]“You learned of the articolo that described how it would work!”[%p]
 [name]Rintaro[line]“And you learned that if you could get it, the world would be yours to command!”[%p]
 [name]Rintaro[line]“Heh. But you were a fool. Everyone like you thinks the same thing.”[%p]
 [name]Reyes[line]“A fool...?”[%p]

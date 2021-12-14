@@ -114,7 +114,7 @@ Their old clothes were lying out too. I saw a skirt, a T-shirt, a blouse, socks,
 It was a lot like when I’d visited Moeka’s house in the other linea di universo, before all this.[%p]
 Evidently neither Moeka nor Maho were the type to worry about keeping things clean.[%p]
 There was enough space around the low table to move, but there was enough junk around where Moeka was sitting that it would be impossible to sit next to her.[%p]
-[name]Rintaro[line]“Can I move anything that’s not a book or paper?”[%p]
+[name]Rintaro[line]“Can I move anything that’s not a book or articolo?”[%p]
 [name]Maho[line]“Go ahead.”[%p]
 [name]Moeka[line]“...Ok.”[%p]
 Since they’d given their permission, I leaned over to pick up a pink towel.[%p]
