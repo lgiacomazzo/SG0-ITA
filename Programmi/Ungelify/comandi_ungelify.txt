@@ -1,3 +1,7 @@
+# copiare il file enscript_h.mpk dalla cartella base del repo in Traduzione_ita/scx/
+# cd ../../Traduzione_ita/scx/ (se si parte dalla cartella dell'eseguibile)
+# oppure cd Traduzione_ita/scx/ (se si parte dalla cartella base del repo tramite cmd o powershell ad esempio)
+# è perfettamente possibile che alcuni scx non li trova. Va bene così, visto che alcuni non servono proprio a niente/non hanno niente da tradurre.
 open enscript_h.mpk
 replace anime.scx
 close
