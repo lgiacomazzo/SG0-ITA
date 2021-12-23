@@ -266,7 +266,7 @@ I ignored Daru, who seemed to have gotten the wrong idea completely, and turned 
 [name]Rintaro[line]“Yeah...”[%p]
 [name]Suzuha[line]“Ad essere onesti, you’ve been pissing me off.”[%p]
 Yeah, that was honest. I chuckled.[%p]
-[name]Suzuha[line]“It’s not just me, Papà, and Sorellona Mayu. It’s Sorellona Rumi, and Brother Luka, and Kagari...”[%p]
+[name]Suzuha[line]“It’s not just me, Papà, and Sorellona Mayu. It’s Sorellona Rumi, and Fratello Luka, and Kagari...”[%p]
 [name]Suzuha[line]“In the future, everyone suffers. They don’t even know if they’re going to be alive tomorrow. They might die horribly, like my mom did.”[%p]
 [name]Suzuha[line]“And they’re trying their best to survive anyway.”[%p]
 [name]Suzuha[line]“But all you do is whine and act like you’re the only person in the world with problems.”[%p]

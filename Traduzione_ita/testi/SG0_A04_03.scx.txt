@@ -292,7 +292,7 @@ Mayuri’s words made me realize how hellish the last 25 years I’d slept throu
 [name]Itaru[line]“Where’s Mayu-shi?”[%p]
 [name]Suzuha[line]“She cried herself out and went to sleep.”[%p]
 [name]Itaru[line]“I can understand that. She and Luka-shi were good friends.”[%p]
-[name]Suzuha[line]“...Brother Luka!”[%p]
+[name]Suzuha[line]“...Fratello Luka!”[%p]
 Lukako was... dead.[%p]
 He’d died protecting Mayuri and Faris.[%p]
 [name]Rintaro[line]“...!”[%p]
