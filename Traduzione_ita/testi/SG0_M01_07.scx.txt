@@ -200,7 +200,7 @@ Moeka tried to say something to Maho, but all that came out of her mouth was blo
 [name]Reyes[line]“This time...!”[%p]
 [name]Amadeus Kurisu[line]“This patch will permanently delete all Amadeus-related data.”[%p]
 [name]Reyes[line]“...Huh?”[%p]
-[name]Amadeus Kurisu[line]“This includes all memory data backups.”[%p]
+[name]Amadeus Kurisu[line]“This includes all dati della memoria backups.”[%p]
 [name]Reyes[line]“Co—”[%p]
 [name]Amadeus Kurisu[line]“Locally stored decryption keys will be deleted and rendered inoperable as well.”[%p]
 [name]Amadeus Kurisu[line]“It will take fifteen minutes to complete the deletion.”[%p]
