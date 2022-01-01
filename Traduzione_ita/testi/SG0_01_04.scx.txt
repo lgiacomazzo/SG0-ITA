@@ -330,7 +330,7 @@ Evidentemente Yuki stava cercando di essere gentile cercando di dare una pulita.
 Il posto era piuttosto in disordine in questo momento. Conoscendo la personalità di Yuki, Suzuha poteva immaginare che lo avrebbe voluto pulire.[%p]
 Itaru prese quello che sembrava un aspirapolvere dal pavimento, e lasciò l’area di sviluppo.[%e]
 [name]Yuki[line]“Che cos’è quella cosa?”[%p]
-[name]Itaru[line]“[color index="280AA02D1400"]Gadget Futuristico N. 5[color index="800000"].”[%p]
+[name]Itaru[line]“[color index="280AA02D1400"]Gadget Futuristico n. 5[color index="800000"].”[%p]
 [name]Itaru[line]“Se lo smonti, puoi usarlo come un normale aspirapolvere.”[%p]
 [name]Yuki[line]“Un aspirapolvere dovrebbe pulire. Se lo smonti, non farà solo più disordine?”[%p]
 [name]Itaru[line]“Uhh...”[%p]

@@ -223,7 +223,7 @@ Era proprio dove l’avevo vista la prima volta, in piedi e con lo sguardo rivol
 Nel profondo dell’oscurità,[%p]
 in un punto che solo un attimo prima era coperto da un panno, vidi un vecchio [color index="280AA02D1400"]microonde[color index="800000"] con lo sportello smontato.[%p]
 —Il Microonde Telefonico (Nome Provvisorio).[%p]
-Gadget Futuristico N. 8.[%p]
+Gadget Futuristico n. 8.[%p]
 Era il gadget che aveva cambiato il mio destino—no, il destino del mondo.[%p]
 [name]Rintaro[line]“Come... Non lo avevo distrutto?”[%p]
 [name]Kurisu[line]“Sì, l’hai fatto.”[%p]

@@ -138,7 +138,7 @@ Suzuha fissò la ragazza di fronte a sé, incapace di credere a ciò che aveva a
 [name]Suzuha[line]“Questa è una scommessa pericolosa. Se mi sbaglio, potresti semplicemente fallire.”[%p]
 [name]Suzuha[line]“La macchina del tempo è al suo limite, e non so quando andrà fuori controllo. Potrebbe semplicemente svanire.”[%p]
 [name]Mayuri[line]“Anche se fosse così... per favore.”[%p]
-[name]Mayuri[line]“Anche Mayushii è una lab mem, no? Non voglio che Okarin e Daru-kun mi salvino e che non faccia mai nulla per loro.”[%p]
+[name]Mayuri[line]“Anche Mayushii è una Lab Mem, no? Non voglio che Okarin e Daru-kun mi salvino e che non faccia mai nulla per loro.”[%p]
 Mayuri si strofinò forte gli occhi e si asciugò le lacrime.[%p]
 [margin top="38"]La vita stava lentamente, lentamente tornando nel suo fragile corpo.[%e]
 [name]Mayuri[line]“A Mayushii... piace Okarin.”[%p]

@@ -244,7 +244,7 @@ La cosa la infastidì abbastanza da tornare indietro e strisciare silenziosament
 La porta era leggermente socchiusa.[%p]
 [margin top="38"]Poteva sentire delle voci all’interno.[%p]
 [margin top="38"]Sapeva che era sbagliato, ma decise di spingere la faccia contro la porta per ascoltare.[%e]
-[name]Reyes[line]“—Per quanto tempo pensi di poterlo tenere in vita?”[%p]
+[name]Reyes[line]“—Per quanto tempo hai intenzione di lasciarlo nuotare?”[%p]
 [name]Leskinen[line]“È una preziosa fonte di informazioni. Sarebbe un peccato perderlo se venisse eliminato, non è vero?”[%p]
 [name]Leskinen[line]“In ogni caso, questo mese partirò per il Giappone. Lo recupererò lì.”[%p]
 [name]Reyes[line]“Riesci a darmi una spiegazione sul perché lo stai tenendo d’occhio da sei mesi?”[%p]
