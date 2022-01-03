@@ -54,7 +54,7 @@ Fece il suo lavoro in silenzio, ruotando il suo corpo massiccio a destra e a sin
 [margin top="38"]Quando era più giovane, amava guardare suo padre costruire la macchina del tempo.[%e]
 [name]Suzuha[line]“Papà?”[%p]
 [name]Itaru[line]“Sì?”[%p]
-[name]Suzuha[line]“Ultimamente... non so cosa mi stia succedendo....”[%p]
+[name]Suzuha[line]“Ultimamente... non so cosa mi stia succedendo...”[%p]
 [name]Suzuha[line]“Questa... Questa potrebbe essere una cosa strana da pensare, però...”[%p]
 [name]Suzuha[line]“È davvero giusto cancellare questo mondo?”[%p]
 La sua mente tornò alle urla della giovane Kagari.[%p]

@@ -358,7 +358,7 @@ Era il [color index="280AA02D1400"]Vaso di Pandora[color index="800000"], con il
 [name]Rintaro[line]“Per scoprire i segreti di Kurisu?”[%p]
 [name]Maho[line]“Volevo saperne di più su di lei!”[%p]
 Lei mi rispose con un’occhiataccia, come se mi stesse sfidando.[%p]
-[name]Rintaro[line]“Daru l’ha già craccato?”[%p]
+[name]Rintaro[line]“Daru l’ha già crackato?”[%p]
 [name]Maho[line]“Non ancora. Per questo volevo parlare con te prima di tornare in America.”[%p]
 Quindi è per questo che mi aveva portato qui?[%p]
 Devo chiamare subito Daru.[%p]

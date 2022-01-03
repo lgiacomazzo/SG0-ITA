@@ -207,10 +207,10 @@ Ne conosco alcune, ma i Suketto sono una novità per me.
 Se un gruppo di tre persone si siede nei posti defilati di un certo maid café...
 Loro appariranno!!
 O così dicono, nya! =゜w゜=
-Nessuno ha mai saputo quale Maid Café fosse...
+Nessuno ha mai saputo quale maid café fosse...
 FINO AD OGGI, NYA!
 È il MayQueen, nyaaaaaaaaaaaa!
-V-va tutto bene?
+V-Va tutto bene?
 È tutto a posto, nya!
 Semplicemente si uniscono alla tua partita nel mezzo di un raid e rubano le uccisioni di tutti i mob, nya.
 Aspetta un attimo.
@@ -237,7 +237,7 @@ No... È che ho avuto questa sensazione per qualche motivo.
 Però è un ragazzo.
 Oh, capisco.
 Proprio così.
-Sì. E’ vero.
+Sì. È vero.
 Proprio così.
 Sì!
 Mi dispiace. Arrivederci.
@@ -259,7 +259,7 @@ Beh, hai ragione.
 Zio Okarin, c’è qualcosa che puoi fare al riguardo?
 Lo sai che non c’è niente che io possa fare per aiutarti!
 Hai ragione. Sì, è vero.
-Fa un po’ male il fatto che ti sei arreso così facilmente.
+Fa un po’ male il fatto che ti sia arresa così facilmente.
 Non mi sembra che siano cose da te, Zio.
 Sì? No? Rispondimi!
 È per questo che la Sorellona Mayu soffre così tanto.
@@ -268,7 +268,7 @@ Chi lo sa?
 Come sono andate le cose con [Kurisu] dopo?
 Nessun problema.
 Possiamo fare qualcosa per la sua bocca?
-Anch’io voglio parlare con [Maho].
+Voglio parlare anche con [Maho].
 Capisco. Qualsiasi cosa tu possa dirmi, non importa quanto piccola, sarebbe d’aiuto.
 Forse è interessata alla Otome Road?
 Che cos’è?
@@ -291,7 +291,7 @@ Non pensavo che ti saresti arrabbiata così tanto.
 Se sapessi che il tuo alter ego elettronico potrebbe spifferare segreti sulla tua vita privata senza che tu ne abbia idea, anche tu daresti di matto.
 Voglio dire, so che non dovrebbe succedere. Ma questo non significa che non succederà.
 Hai ragione.
-Allora, puoi lasciarmi alternare le due cose?
+Allora, puoi lasciarmi alternare tra loro due?
 Ehi, ehi, Okarin. Qual è il colore migliore per un costume da bagno scolastico?
 Di che diavolo stai parlando?
 Chi se ne frega?
@@ -299,7 +299,7 @@ Bianco. Decisamente.
 Beh, sto giocando a questo gioco eroge, ed è appena saltato fuori come scelta.
 Mi stavo chiedendo che colore avresti scelto.
 Onestamente avrei preferito chiedere a Mayu-shi o Luka-shi o Faris-tan.
-Chiamerebbero la polizia sul tuo culo.
+Ti denuncerebbero alla polizia.
 ...Già.
 Quindi non avevo altra scelta se non chiederlo a te!
 Allora, di che colore? Non imbarazzarti, dimmelo e basta!
@@ -311,7 +311,7 @@ Potrebbe essere la scelta più importante che farò in tutta la mia vita!
 Eh? Cosa vuoi dire?
 Il mio intuito mi dice che se sbaglierò, saranno guai seri!
 Che diavolo stai facendo?
-Hmm? Un eroge. Perché?
+Hmm? Gioco a un eroge. Perché?
 Capisco.
 Scelta eccellente. Pochissimi normie sceglierebbero un costume da bagno scolastico bianco. Potresti essere più pervertito di me.
 Forse è così, sai?
@@ -369,7 +369,7 @@ Non vuoi sapere il loro segreto, nya?
 Daru non è una ragazza.
 Questo è vero, nya.
 E il segreto di Yuki-nyan?
-Non siete curiosi di sa-purr-loooooo? =゜w゜=
+Non sei curioso di sa-purr-loooooo? =゜w゜=
 Suzuha probabilmente mi ucciderebbe. Io passo.
 Davvero non vuoi saperlo, nya? =゜w゜=
 Davvero, davvero non vuoi saperlo, nya?
@@ -396,7 +396,7 @@ Hai trovato un modo per farle tornare la memoria?
 Sei preoccupata per lei?
 Onestamente sono un po’ sollevata che Kagari abbia perso i suoi ricordi.
 Ho paura che possano tornare.
-Sono certa che mi detesti.
+Sono certa che lei mi detesti.
 Ma comunque tu vuoi che tornino, giusto?
 Sì, credo di sì.
 Rimuginare sul passato non ti aiuterà.
@@ -414,7 +414,7 @@ Allora perché non chiedi aiuto a Yuki-san?
 Ma stai facendo l’idiota?
 Non sto facendo l’idiota. Sono serio.
 Ci penserò.
-È giusto. Ma certo!
+È così. Certo che lo sono!
 Allora diglielo.
 Ma non posso fare nulla per aiutarla.
 Basta che tu stia con lei, è più che sufficiente.
@@ -459,7 +459,7 @@ Mi dispiace. Te lo chiederò più tardi.
 Oh, non importa. Va tutto bene. Non è niente di che.
 In realtà, vorrei dire solo una cosa.
 Nae è davvero forte.
-Mayushii era così impressionata.
+Mayushii è rimasta impressionata.
 Capisco. La stavi tirando su di morale, eh? Grazie.
 Non ho ancora detto nulla.
 Eh? Non hai detto niente? Allora, di cosa si tratta?
@@ -548,7 +548,7 @@ Ho capito! Mi eserciterò con il doppio dei colpi con la Samidare.
 Oh, sì. Fai pure.
 Kagari-chan sta bene?
 Sta bene. Non preoccuparti.
-Farò qualcosa.
+Me ne occuperò io.
 Stiamo facendo tutti del nostro meglio.
 Però...
 Sono molto, molto preoccupata.
@@ -589,8 +589,8 @@ Grazie.
 Lascia fare a me.
 Sono fuori a fare shopping con Luka-kun.
 Vuoi venire con noi, Okabe-san?
-Scusa, sono un po’ occupato ora.
-Dove sei?
+Scusate, sono un po’ occupato ora.
+Dove siete?
 Ci vediamo più tardi.
 Cos’è successo?
 Sto per fare una lunga chiacchierata.
@@ -610,7 +610,7 @@ A presto.
 Adesso? Siamo a Ikebukuro.
 Io sono ad Akihabara.
 Capisco. Peccato.
-Torna subito a casa quando hai finito con lo shopping.
+Tornate subito a casa quando avete finito con lo shopping.
 Perché?
 Perché lo dico io.
 Ho un brutto presentimento.
@@ -622,18 +622,18 @@ Secondo me potrebbe piovere.
 Qui il cielo è limpido.
 Non c’è una nuvola in cielo!
 È solo la mia intuizione.
-Comunque, vai immediatamente a casa dopo aver finito con lo shopping.
+Comunque, andate immediatamente a casa dopo aver finito con lo shopping.
 Ok, va bene.
 Capito.
 Davvero? Dove ti trovi ora?
 Akihabara.
 Allora dovremmo incontrarci ad Akihabara una volta finito con lo shopping?
 No, vado a casa quando ho finito. Incontriamoci lì.
-Non venire ad Akihabara per nessun motivo.
+Non venite ad Akihabara per nessun motivo.
 Perché?
 Perché lo dico io.
-Aspettami e basta.
-Ma se non ti contatto entro sera, rinuncia e vai a casa. Capito?
+Aspettatemi e basta.
+Ma se non vi contatto entro sera, rinunciate e andate a casa. Capito?
 Cos’è successo?
 Sto bene. Non ti preoccupare.
 Ok, se lo dici tu, Okarin!
@@ -682,9 +682,9 @@ Hai un po’ di tempo?
 Kagari-san si è svegliata. Sembra che si sia calmata.
 Ho capito. Scusa, puoi badare a lei per un po’? Ti contatterò se avrò bisogno di te.
 Fai come abbiamo discusso e basta.
-Trick world,
-collegando ogni
-possibilità.
+Il mondo può essere ingannato
+Connetti le possibilità
+Inganna il mondo.
 Si tratta del mio lavoro segreto, quindi usiamo questa frase.
 Lavoro segreto? Intendi la tua attività di hacker?
 Sì, fondamentalmente.
@@ -717,7 +717,7 @@ Quindi non sai come decifrare il codice? Anche se lo avete creato voi?
 Esattamente.
 Se noi possiamo decifrarlo, allora anche altri hacker bravi come noi possono farlo, giusto? E questo non va bene, duh.
 Capisco.
-E giuro, se fai “Lavoro epico da super hacka, fratello”, ti faccio fuori! ヽ(`Д´)ノ
+E giuro, se dici “Lavoro epico da super hacka, bro”, ti faccio fuori! ヽ(`Д´)ノ
 Non ne avevo intenzione!
 Ma cosa c’entra questo con Kurisu?
 Il portatile e l’hard disk appartenevano a

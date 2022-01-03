@@ -79,7 +79,7 @@ e allo stesso tempo, la riorganizzazione totale della strategia militare della R
 Avevo anche sentito alcune voci che affermavano che durante le guerre del Golfo e dell’Iraq, avevano ottenuto informazioni sui paesi in guerra più velocemente di chiunque altro, e che le diffondevano a seconda delle necessità.[%p]
 I governi del mondo li avevano apparentemente chiamati la ‘CIA ombra’.[%p]
 [name]Rintaro[line]“Lavora per la Stratfo?”[%p]
-[name]Rintaro[line]“Ma io credevo che fosse il ricercatore capo dell’Istituto di Neuroscienze....”[%p]
+[name]Rintaro[line]“Ma io credevo che fosse il ricercatore capo dell’Istituto di Neuroscienze...”[%p]
 [name]Leskinen[line]“Quello è il mio vero lavoro, naturalmente.”[%p]
 [name]Leskinen[line]“A proposito, incontro spesso persone che mi dicono le stesse identiche cose.”[%p]
 [name]Leskinen[line]“Mi dicono che gli umani sono solo scimmie che si uccidono a vicenda. Il cervello umano, e lo sviluppo della neocorteccia, sono ciò che dà origine a religioni e ambizioni folli. Ed è per questo che ci sono le guerre.”[%p]

@@ -9,7 +9,7 @@ Una volta che tutti e due si calmarono, lei iniziò a parlargli di quello che av
 Lui non si mosse di un centimetro.[%p]
 [margin top="38"]Di solito, era un introverso che non insisteva mai troppo per qualcosa, ma questa volta era estremamente testardo.[%p]
 [margin top="38"]Naturalmente, anche Maho lo era.[%e]
-[name]Maho[line]“Voglio almeno craccare la password e vedere cosa c’è dentro.”[%p]
+[name]Maho[line]“Voglio almeno crackare la password e vedere cosa c’è dentro.”[%p]
 [name]Maho[line]“Per ora non possiamo farlo, ma...”[%p]
 [name]Rintaro[line]“Non c’è tempo per questo. Dovremmo liberarcene subito. La cosa migliore sarebbe distruggerlo.”[%p]
 [name]Maho[line]“Distruggerlo... Ma è qualcosa che ci ha lasciato Kurisu, capisci?”[%p]

@@ -300,7 +300,7 @@ Stavo per dirlo, ma mi sono fermato. Mi sembrava che quell’ID avesse un qualch
 [name]Itaru[line]“È per questo che faccio questo lavoro!”[%p]
 [name]Maho[line]“Va bene. Non chiederò indietro i miei soldi.”[%p]
 [name]Maho[line]“Comunque non è che mi aspettassi molto quando te l’ho chiesto.”[%p]
-[name]Itaru[line]“Tanto per essere chiari, altri tre giorni e avrei craccato la password. [color index="280AA02D1400"]Onesto[color index="800000"].”[%p]
+[name]Itaru[line]“Tanto per essere chiari, altri tre giorni e avrei crackato la password. [color index="280AA02D1400"]Onesto[color index="800000"].”[%p]
 [name]Maho[line]“Certo, come vuoi.”[%p]
 Maho sorrise e si voltò verso di me.[%p]
 [name]Maho[line]“A proposito, voglio vedere la prova di questo.”[%p]
