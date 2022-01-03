@@ -41,7 +41,7 @@ Style: romaji 3,Eligible,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 Style: translation 2,Eligible,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,70,100,2,0,1,2,2,1,25,25,25,1
 Style: translation 3,Eligible,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,70,100,2,0,1,2,2,1,25,25,25,1
 Style: romaji,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1
-Style: translation,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1
+Style: translation,Ahellya,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1
 Style: Kanji - Copia,東風ゴシック,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,2,2,6,25,25,25,1
 
 [Events]
@@ -79,7 +79,6 @@ Comment: 0,0:01:21.68,0:01:21.68,Kanji,,0,0,0,template char noblank,!retime("lin
 Comment: 0,0:00:00.21,0:00:00.21,Kanji,,0,0,0,template char noblank,!retime("syl",0,0)!{\an5\fad(0,100)\pos(!meta.res_x-line.eff_margin_r-line.height/2-20!,!(meta.res_y-line.width)/2+syl.center!)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(!syl.duration/2+syl.duration/4!,!syl.duration!,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}
 Comment: 0,0:01:21.68,0:01:21.68,Kanji - Copia,,0,0,0,template char noblank,!retime("line",-300,0)!{\fad(300,250)\c&HF4F3E8&\3c&H4E492D&\shad0\an5\pos(!meta.res_x-line.eff_margin_r-line.height/2-20!,!(meta.res_y-line.width)/2+syl.center!)\blur3}
 Comment: 0,0:00:00.21,0:00:00.21,Kanji - Copia,,0,0,0,template char noblank,!retime("syl",0,0)!{\an5\fad(0,100)\pos(!meta.res_x-line.eff_margin_r-line.height/2-20!,!(meta.res_y-line.width)/2+syl.center!)\shad0\blur3\bord3\c&HE5E5F5&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&HF6E8C8&\3c&HB5B16F&)\t(!syl.duration/2+syl.duration/4!,!syl.duration!,\c&HF4F3E8&\3c&H4E492D&\alpha&HFF&)}
-Comment: 0,0:01:59.11,0:03:48.50,translation,,0,0,0,template noblank,!retime("line",-300,0)!{\fad(300,250)\pos(!$x+25!,!$y-25!)\fscy83\blur3\c&HF4F3E8&\3c&H4E492D&\shad0}
 Dialogue: 0,0:00:25.80,0:00:36.66,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Ashita no tenki mo shiranu mama ga ii to kasa wo motazu
 Dialogue: 0,0:00:36.65,0:00:47.15,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Namida no ame nara yasashisugiru uso ni kakikaeta
 Dialogue: 0,0:00:47.00,0:00:52.52,romaji,,0,0,0,fx,{\fad(300,250)\c&H00FF&\3c&H4E492D&\shad0\pos(50,65)\blur3\fscy83}Hako ni tojikometa sora no danpen ga
