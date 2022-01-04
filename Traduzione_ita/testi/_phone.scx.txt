@@ -765,7 +765,7 @@ Davvero? Mio padre ha di nuovo dato fastidio?
 Va tutto bene. Mi ha dato del tè d’orzo.
 Devo andare a fare shopping. Vuoi venire con me?
 Va bene, ora esco. Aspettami.
-Okabe è nel seminterrato di Tokyo Denki.
+Okabe è nel seminterrato della Tokyo Denki.
 L’ho saputo solo ora.
 Ho seguito il loro monitoraggio per trovare la loro posizione.
 Prenditi cura di Okabe per me.
@@ -790,22 +790,22 @@ Non puoi andare a toccare la biancheria di una ragazza come se niente fosse! [li
 È così comodo avere un frigorifero al lavoro!
 Non devi uscire per andare a prendere da bere, quindi l’unico momento in cui devi lasciare la stanza è per andare in bagno! ><
 Sto lavorando ad un articolo speciale per una rivista di business all’Arc Rewrite.
-Lo speciale riguarda “La Frontiera delle Ricerche sulla Intelligenza Artificiale”.
+Lo speciale riguarda “La Frontiera delle Ricerche sull’Intelligenza Artificiale”.
 Dovrei scrivere sulla dottoressa Hiyajo. Cosa ha fatto e su cosa sta lavorando ora.
-Posso trovare tutto questo dalla rete, ma questo non lo rende un buon articolo, sai?
-Così ho pensato che forse potrei iniziare con una lunga intervista con la dottoressa Hiyajo.
+Posso trovare tutto questo dalla rete, ma questo non lo rende un buon articolo, capisci?
+Così ho pensato che forse potrei iniziare con una lunga intervista alla dottoressa Hiyajo.
 Chiedi anche per me! ><
 Posso pagare, un po’!
 Scusa! >< Ci sono quasi! ><
 Non c’è fretta. Prenditi il tuo tempo.
-Cosa c’è?
+C’è qualche problema?
 Capisco... Allora possiamo parlare sul treno in questo modo.
 Mi sembra strano parlare con te su RINE quando siamo uno accanto all’altro.
 Non mi sembrava che tu stessi bene. Forse sarà stata solo la mia immaginazione.
-Scusa se ti ho fatto preoccupare! [linebreak](;;
+Scusi se l’ho fatta preoccupare! [linebreak](;;
 Non è niente.
 Non preoccuparti.
-Mi assicurerò che lei vada alla Denki University, dottoressa Hiyajo!
+Mi assicurerò che lei vada alla Università Denki, dottoressa Hiyajo!
 È strano essere chiamata dottoressa Hiyajo.
 È strano?
 Già.
@@ -881,7 +881,7 @@ Ma così non puoi vedere questo, vero! Avrei dovuto inviarlo prima![linebreak]><
 Non è stato per molto tempo, ma mi sono divertita così tanto con te!
 Ci rivedremo un giorno! Di sicuro!
 Ti manderò un sacco di messaggi RINE, quindi mandami un sacco di messaggi anche tu, ok?
-Va bene, a dopo!
+Va bene, ci vediamo!
 Bye-bye! A presto, Maho! o(*[  ̑  ][  ̑  ]*)o
 Credo di avere un indizio per i ricordi di Kagari.
 Ci sono alcune cose che voglio chiederti. Dove ti trovi?

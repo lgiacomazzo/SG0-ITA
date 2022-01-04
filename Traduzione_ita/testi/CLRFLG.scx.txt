@@ -5,7 +5,7 @@
 
 [color index="A01F0000"]“EXTRA”
 [color index="800000"]menù è stato aggiunto al menù principale.
-[color index="A01F0000"]“PULISCI LISTA”
+[color index="A01F0000"]“LISTA COMPLETATI”
 [color index="800000"]menù è stato aggiunto al menù extra.
 [color index="A01F0000"]“LIBRERIA CG”
 [color index="800000"]menù è stato aggiunto al menù extra.
