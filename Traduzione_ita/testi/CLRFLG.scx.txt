@@ -5,13 +5,13 @@
 
 [color index="A01F0000"]“EXTRA”
 [color index="800000"]menù è stato aggiunto al menù principale.
-[color index="A01F0000"]“CLEAR LIST”
+[color index="A01F0000"]“PULISCI LISTA”
 [color index="800000"]menù è stato aggiunto al menù extra.
-[color index="A01F0000"]“CG LIBRARY”
+[color index="A01F0000"]“LIBRERIA CG”
 [color index="800000"]menù è stato aggiunto al menù extra.
-[color index="A01F0000"]“SOUND LIBRARY”
+[color index="A01F0000"]“LIBRERIA SUONI”
 [color index="800000"]menù è stato aggiunto al menù extra.
-[color index="A01F0000"]“MOVIE LIBRARY”
+[color index="A01F0000"]“LIBRERIA FILMATI”
 [color index="800000"]menù è stato aggiunto al menù extra.
 [color index="A01F0000"]“TIPS”
 [color index="800000"]menù è stato aggiunto al menù extra.
@@ -21,15 +21,15 @@
 [color index="800000"]sbloccato in “LIBRERIA CG”.
 [color index="A01F0000"]Nuovo sfondo
 [color index="800000"]sbloccato in “Impostazioni sfondo”.
-[color index="A01F0000"]【Promised Rinascimento】[color index="800000"] Completato
-[color index="A01F0000"]【Twin Automata】[color index="800000"] Completato
-[color index="A01F0000"]【Recursive Mother Goose】[color index="800000"] Completato
-[color index="A01F0000"]【Vega and Altair】[color index="800000"] Completato
-[color index="A01F0000"]【Gehenna’s Stigma】[color index="800000"] Completato
-[color index="A01F0000"]【Milky-way Crossing】[color index="800000"] Completato
-[color index="810000"]【Promised Rinascimento】[color index="800000"] Completato
-[color index="810000"]【Twin Automata】[color index="800000"] Completato
-[color index="810000"]【Recursive Mother Goose】[color index="800000"] Completato
-[color index="810000"]【Vega and Altair】[color index="800000"] Completato
-[color index="810000"]【Gehenna’s Stigma】[color index="800000"] Completato
-[color index="810000"]【Milky-way Crossing】[color index="800000"] Completato
+[color index="A01F0000"]【Rinascimento Promesso】[color index="800000"] Completato
+[color index="A01F0000"]【Automi Gemelli】[color index="800000"] Completato
+[color index="A01F0000"]【Mamma Oca Ricorsiva】[color index="800000"] Completato
+[color index="A01F0000"]【Vega e Altair】[color index="800000"] Completato
+[color index="A01F0000"]【Stigma della Gehenna】[color index="800000"] Completato
+[color index="A01F0000"]【Attraversamento della Via Lattea】[color index="800000"] Completato
+[color index="810000"]【Rinascimento Promesso】[color index="800000"] Completato
+[color index="810000"]【Automi Gemelli】[color index="800000"] Completato
+[color index="810000"]【Mamma Oca Ricorsiva】[color index="800000"] Completato
+[color index="810000"]【Vega e Altair】[color index="800000"] Completato
+[color index="810000"]【Stigma della Gehenna】[color index="800000"] Completato
+[color index="810000"]【Attraversamento della Via Lattea】[color index="800000"] Completato

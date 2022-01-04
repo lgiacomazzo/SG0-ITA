@@ -1,34 +1,34 @@
 
  ––––––––––•–•–•–––––––––––
 
-Missing Link of the Annihilator
- Absolute Zero
-Epigraph of the Closed Curve
- Closed Epigraph
-Solitude of the Mournful Transmigration
- A Stray Sheep
-Eclipse of Orbital Ordering
- The Orbital Eclipse
-Dual of Antinomy
- Antinomic Dual
-Rinascimento of the Unwavering Promise
- Promised Rinascimento
-Protocol of the Two-sided Gospel
- X-day Protocol
-Pandora of Eternal Return
- Pandora’s Box
-Recognition of the Elastic Limit
- Presage or Recognize
-The Stigma Beyond the Hidden Mirror
- Gehenna’s Stigma
-Altair of the Point at Infinity
- Vega and Altair
-Mother Goose of Mutual Recursion
- Recursive Mother Goose
-Automaton of Provable Existence
- Twin Automata
-Stardust of Intersected Coordinates
- Milky-way Crossing
+Anello Mancante dell’Annientatore
+ Zero Assoluto
+Epigrafe della Curva Chiusa
+ Epigrafe Chiusa
+Solitudine della Trasmigrazione Luttuosa
+ Una Pecora Smarrita
+Eclissi dell’Ordine Orbitale
+ L’Eclissi Orbitale
+Duale dell’Antinomia
+ Duale Antinomico
+Rinascimento della Promessa Incrollabile
+ Rinascimento Promesso
+Protocollo del Vangelo a Due Facce
+ Protocollo del Giorno X
+Pandora dell’Eterno Ritorno
+ Vaso di Pandora
+Riconoscimento del Limite Elastico
+ Presagire o Riconoscere
+Lo Stigma Oltre lo Specchio Nascosto
+ Stigma della Gehenna
+Altair del Punto all’Infinito
+ Vega e Altair
+Mamma Oca della Mutua Ricorsione
+ Mamma Oca Ricorsiva
+Automa dell’Esistenza Dimostrabile
+ Automi Gemelli
+Polvere di Stelle di Coordinate Incrociate
+ Attraversamento della Via Lattea
                    Data : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
                       Data : [hardcoded-value index="11"]
  Data : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
