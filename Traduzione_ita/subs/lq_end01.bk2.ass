@@ -66,7 +66,7 @@ Comment: 0,0:00:32.60,0:00:38.69,translation-copia,,0,0,0,karaoke,{\k22}Non può
 Comment: 0,0:00:39.55,0:00:45.12,translation-copia,,0,0,0,karaoke,{\k75}Lo “spazio” è il vuoto oscuro e così freddo
 Comment: 0,0:00:45.57,0:00:51.07,translation-copia,,0,0,0,karaoke,{\k20}Si può definire la sua presenza, esiste?
 Comment: 0,0:00:52.18,0:00:58.79,translation-copia,,0,0,0,karaoke,{\k48}Vaghiamo nei cieli (con emozioni infinite)
-Comment: 0,0:00:59.14,0:01:04.85,translation-copia,,0,0,0,karaoke,{\k63}Colmi d'amore dall'alto
+Comment: 0,0:00:59.14,0:01:04.85,translation-copia,,0,0,0,karaoke,{\k63}Pieni di amore dall'alto
 Comment: 0,0:01:05.60,0:01:11.74,translation-copia,,0,0,0,karaoke,{\k66}Lui guida i miei viaggi (l'ora stabilita si avvicina)
 Comment: 0,0:01:12.07,0:01:18.54,translation-copia,,0,0,0,karaoke,{\k45}Versa una lacrima e salta verso un nuovo mondo
 Comment: 0,0:01:40.91,0:01:47.38,translation-copia,,0,0,0,karaoke,{\k34}Una goccia nell'oscurità (una piccola vita)
@@ -74,7 +74,7 @@ Comment: 0,0:01:47.75,0:01:53.53,translation-copia,,0,0,0,karaoke,{\k66}Unica e 
 Comment: 0,0:01:54.26,0:02:00.41,translation-copia,,0,0,0,karaoke,{\k65}Ricordi dolceamari (come momenti perennemente fuggenti)
 Comment: 0,0:02:00.74,0:02:06.30,translation-copia,,0,0,0,karaoke,{\k43}Fanno sì che questo momento duri, duri per sempre
 Comment: 0,0:02:06.72,0:02:13.35,translation-copia,,0,0,0,karaoke,{\k53}Vaghiamo nei cieli (con emozioni infinite)
-Comment: 0,0:02:13.73,0:02:19.36,translation-copia,,0,0,0,karaoke,{\k63}Colmi d'amore dall'alto
+Comment: 0,0:02:13.73,0:02:19.36,translation-copia,,0,0,0,karaoke,{\k63}Pieni di amore dall'alto
 Comment: 0,0:02:20.16,0:02:26.30,translation-copia,,0,0,0,karaoke,{\k66}Lui guida i miei viaggi (l'ora stabilita si avvicina)
 Comment: 0,0:02:26.64,0:02:33.20,translation-copia,,0,0,0,karaoke,{\k45}Versa una lacrima e salta verso un nuovo mondo
 Comment: 0,0:00:55.51,0:00:58.79,Kanji,,0,0,0,karaoke,{\k22}果{\k22}て{\k60}な{\k59}い{\k104}想{\k38}い{\k25}
@@ -814,7 +814,7 @@ Dialogue: 0,0:00:32.30,0:00:38.69,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H
 Dialogue: 0,0:00:39.25,0:00:45.12,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Lo “spazio” è il vuoto oscuro e così freddo
 Dialogue: 0,0:00:45.27,0:00:51.07,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Si può definire la sua presenza, esiste?
 Dialogue: 0,0:00:51.88,0:00:58.79,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Vaghiamo nei cieli (con emozioni infinite)
-Dialogue: 0,0:00:58.84,0:01:04.85,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Colmi d'amore dall'alto
+Dialogue: 0,0:00:58.84,0:01:04.85,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Pieni di amore dall'alto
 Dialogue: 0,0:01:05.30,0:01:11.74,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Lui guida i miei viaggi (l'ora stabilita si avvicina)
 Dialogue: 0,0:01:11.77,0:01:18.54,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Versa una lacrima e salta verso un nuovo mondo
 Dialogue: 0,0:01:40.61,0:01:47.38,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Una goccia nell'oscurità (una piccola vita)
@@ -822,6 +822,6 @@ Dialogue: 0,0:01:47.45,0:01:53.53,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H
 Dialogue: 0,0:01:53.96,0:02:00.41,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Ricordi dolceamari (come momenti perennemente fuggenti)
 Dialogue: 0,0:02:00.44,0:02:06.30,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Fanno sì che questo momento duri, duri per sempre
 Dialogue: 0,0:02:06.42,0:02:13.35,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Vaghiamo nei cieli (con emozioni infinite)
-Dialogue: 0,0:02:13.43,0:02:19.36,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Colmi d'amore dall'alto
+Dialogue: 0,0:02:13.43,0:02:19.36,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Pieni di amore dall'alto
 Dialogue: 0,0:02:19.86,0:02:26.30,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Lui guida i miei viaggi (l'ora stabilita si avvicina)
 Dialogue: 0,0:02:26.34,0:02:33.20,translation-copia,,0,0,0,fx,{\fad(300,250)\c&H91DEEA&\3c&H0A1315&\shad0\pos(50,670)\blur3\bord3\fscy100\fscx80}Versa una lacrima e salta verso un nuovo mondo

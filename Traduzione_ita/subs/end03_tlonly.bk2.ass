@@ -17,8 +17,8 @@ Video File: ../../videos/720p/END03.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.125000
-Scroll Position: 15
-Active Line: 10
+Scroll Position: 3
+Active Line: 12
 Video Position: 4499
 
 [V4+ Styles]
@@ -36,7 +36,7 @@ Style: romaji,ClementePDai,47,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Style: Kanji,東風ゴシック,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1
 Style: Kanji 2,東風ゴシック,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1
 Style: Kanji3,東風ゴシック,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1
-Style: translation,ClementePDai,47,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,70,100,3,0,1,2,2,1,25,25,25,1
+Style: translation,ClementePDai,47,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,70,100,3,0,1,2,2,4,25,25,25,1
 Style: romaji 2,Eligible,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,70,100,2,0,1,2,2,4,25,25,25,1
 Style: romaji 3,Eligible,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,70,100,2,0,1,2,2,4,25,25,25,1
 Style: translation 2,Eligible,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,70,100,2,0,1,2,2,1,25,25,25,1
@@ -56,16 +56,16 @@ Comment: 0,0:01:31.98,0:01:43.58,translation,,0,0,0,karaoke,{\k1}Sono sempre, se
 Comment: 0,0:01:44.91,0:01:57.02,translation,,0,0,0,karaoke,{\k1}Ora e per sempre, sempre, sempre, sempre...
 Comment: 0,0:01:57.90,0:02:08.96,translation,,0,0,0,karaoke,{\k1}Sarò sempre, sempre, sempre, sempre, al tuo fianco...
 Comment: 0,0:02:09.24,0:02:18.17,translation,,0,0,0,karaoke,{\k1}Per proteggere il sorriso di una persona gentile come te.
-Comment: 0,0:01:59.11,0:03:48.50,translation,,0,0,0,template noblank,!retime("line",-300,0)!{\fad(300,250)\pos(!$x+25!,!$y-25!)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}
-Dialogue: 0,0:00:06.55,0:00:18.64,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}C'è solo una cosa che sto cercando... la risata delle stelle.
-Dialogue: 0,0:00:19.53,0:00:31.81,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Scintillando nel vento, la puoi afferrare se solo allunghi la mano.
-Dialogue: 0,0:00:32.08,0:00:44.95,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}I pesci nuotano, avvolti dalla pioggia leggera.
-Dialogue: 0,0:00:45.04,0:00:57.55,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Ho sempre desiderato avvicinare la mia guancia alla tua calda, larga schiena
-Dialogue: 0,0:00:57.60,0:01:03.79,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Chiudi gli occhi, e sicuramente vedrai
-Dialogue: 0,0:01:04.10,0:01:10.58,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Una luce guida per salvare una persona persa come te.
-Dialogue: 0,0:01:10.60,0:01:16.89,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Ascolta attentamente, e sicuramente sentirai
-Dialogue: 0,0:01:17.09,0:01:28.05,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Una canzone per risvegliare dolcemente una persona assopita come te.
-Dialogue: 0,0:01:31.68,0:01:43.58,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Sono sempre, sempre, sempre, sempre, stata al tuo fianco...
-Dialogue: 0,0:01:44.61,0:01:57.02,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Ora e per sempre, sempre, sempre, sempre...
-Dialogue: 0,0:01:57.60,0:02:08.96,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Sarò sempre, sempre, sempre, sempre, al tuo fianco...
-Dialogue: 0,0:02:08.94,0:02:18.17,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Per proteggere il sorriso di una persona gentile come te.
+Comment: 0,0:01:59.11,0:03:48.50,translation,,0,0,0,template noblank,!retime("line",-300,0)!{\fad(300,250)\pos(!$x+25!,!$y-295!)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}
+Dialogue: 0,0:00:06.55,0:00:18.64,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}C'è solo una cosa che sto cercando... la risata delle stelle.
+Dialogue: 0,0:00:19.53,0:00:31.81,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Scintillando nel vento, la puoi afferrare se solo allunghi la mano.
+Dialogue: 0,0:00:32.08,0:00:44.95,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}I pesci nuotano, avvolti dalla pioggia leggera.
+Dialogue: 0,0:00:45.04,0:00:57.55,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Ho sempre desiderato avvicinare la mia guancia alla tua calda, larga schiena
+Dialogue: 0,0:00:57.60,0:01:03.79,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Chiudi gli occhi, e sicuramente vedrai
+Dialogue: 0,0:01:04.10,0:01:10.58,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Una luce guida per salvare una persona persa come te.
+Dialogue: 0,0:01:10.60,0:01:16.89,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Ascolta attentamente, e sicuramente sentirai
+Dialogue: 0,0:01:17.09,0:01:28.05,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Una canzone per risvegliare dolcemente una persona assopita come te.
+Dialogue: 0,0:01:31.68,0:01:43.58,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Sono sempre, sempre, sempre, sempre, stata al tuo fianco...
+Dialogue: 0,0:01:44.61,0:01:57.02,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Ora e per sempre, sempre, sempre, sempre...
+Dialogue: 0,0:01:57.60,0:02:08.96,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Sarò sempre, sempre, sempre, sempre, al tuo fianco...
+Dialogue: 0,0:02:08.94,0:02:18.17,translation,,0,0,0,fx,{\fad(300,250)\pos(50,65)\fscy83\blur3\c&HF4F3E8&\3c&H595228&\shad0}Per proteggere il sorriso di una persona gentile come te.
