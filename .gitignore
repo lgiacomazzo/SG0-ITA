@@ -1,10 +1,7 @@
 file_temporaneo.txt
-script.mpk
 .vs/*
-Originale/*
-videos/*
 *.scx
 Programmi/test/*
-subs_originali/*
-enscript_h.ORIGINAL/*
 Traduzione_ita/scx/*
+Export_traduzione_ita/*
+Originali/*
