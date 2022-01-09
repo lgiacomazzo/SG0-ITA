@@ -3,18 +3,18 @@
 
 
 
-[color index="A01F0000"]“EXTRA”
-[color index="800000"]menù è stato aggiunto al menù principale.
-[color index="A01F0000"]“LISTA COMPLETATI”
-[color index="800000"]menù è stato aggiunto al menù extra.
-[color index="A01F0000"]“LIBRERIA CG”
-[color index="800000"]menù è stato aggiunto al menù extra.
-[color index="A01F0000"]“LIBRERIA MUSICA”
-[color index="800000"]menù è stato aggiunto al menù extra.
-[color index="A01F0000"]“LIBRERIA FILMATI”
-[color index="800000"]menù è stato aggiunto al menù extra.
-[color index="A01F0000"]“TIPS”
-[color index="800000"]menù è stato aggiunto al menù extra.
+[color index="800000"]Il menù [color index="A01F0000"]“EXTRA”
+[color index="800000"]è stato aggiunto al menù principale.
+[color index="800000"]Il sottomenù [color index="A01F0000"]“LISTA COMPLETATI”
+[color index="800000"]è stato aggiunto al menù extra.
+[color index="800000"]Il sottomenù [color index="A01F0000"]“LIBRERIA CG”
+[color index="800000"]è stato aggiunto al menù extra.
+[color index="800000"]Il sottomenù [color index="A01F0000"]“LIBRERIA MUSICALE”
+[color index="800000"]è stato aggiunto al menù extra.
+[color index="800000"]Il sottomenù [color index="A01F0000"]“LIBRERIA FILMATI”
+[color index="800000"]è stato aggiunto al menù extra.
+[color index="800000"]Il sottomenù [color index="A01F0000"]“TIPS”
+[color index="800000"]è stato aggiunto al menù extra.
 [color index="A01F0000"]Nuovo elemento
 [color index="800000"]sbloccato in “TIPS”.
 [color index="A01F0000"]Nuovo elemento
