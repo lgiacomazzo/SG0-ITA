@@ -9,7 +9,7 @@
 [color index="800000"]menù è stato aggiunto al menù extra.
 [color index="A01F0000"]“LIBRERIA CG”
 [color index="800000"]menù è stato aggiunto al menù extra.
-[color index="A01F0000"]“LIBRERIA SUONI”
+[color index="A01F0000"]“LIBRERIA MUSICA”
 [color index="800000"]menù è stato aggiunto al menù extra.
 [color index="A01F0000"]“LIBRERIA FILMATI”
 [color index="800000"]menù è stato aggiunto al menù extra.
