@@ -1,3 +1,5 @@
-c'è anche una immagine particolare da tradurre, riguardante @channel durante il tempo di guerra
-
-aggiungere a riga 687 di phone: [linebreak][linebreak]N.d.t.: Dovrebbe essere una D-Mail, ma né la traduzione in inglese, né la traduzione in italiano (sia da inglese, sia da giapponese), rispetta il limite dei 36 caratteri half-width, quindi ho scelto la frase migliore (dal giapponese, dove invece il limite dei 18 caratteri full-width è rispettato).
+ritradurre discorso tra FB e Okabe con tono formale (se serve)
+Tradurre immagini e video iniziale con (this is the choice of Steins Gate)
+Tradurre (o magari modificare sub) la scritta alla fine del video della ending con Gate of Steiner
+Infine, aggiungere i file dds non esistenti in c0data.mpk (e il video giusto oppure i sottotitoli aggiornati)
+rivedere tempi verbali di SG0_00
