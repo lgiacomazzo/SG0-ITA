@@ -119,7 +119,7 @@ Aveva capito perché anche quando tutti si stavano divertendo, Mayuri sembrava s
 [name]Kagari[line]“Come?”[%p]
 [name]Kagari[line]“Come puoi esserne sicura?”[%p]
 [name]Mayuri[line]“Perché...”[%p]
-[name]Mayuri[line]“Perché è il destino.”[%p]
+[name]Mayuri[line]“È il nostro destino.”[%p]
 [name]Kagari[line]“...!”[%p]
 [name]Mayuri[line]“Il legame tra Mayushii e Kagari-chan non sarà spezzato da nulla.”[%p]
 [name]Mayuri[line]“Quindi anche se perderemo i nostri ricordi, Mayushii verrà a cercarti.”[%p]
