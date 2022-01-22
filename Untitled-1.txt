@@ -1,4 +1,3 @@
-ritradurre discorso tra FB e Okabe con tono formale (se serve)
 Tradurre video iniziale con (this is the choice of Steins Gate)
 Tradurre (o magari modificare sub) la scritta alla fine del video della ending con Gate of Steiner
 Infine, aggiungere i file dds non esistenti in c0data.mpk (e il video giusto oppure i sottotitoli aggiornati)
