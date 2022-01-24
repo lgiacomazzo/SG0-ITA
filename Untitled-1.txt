@@ -1,3 +1,7 @@
 Tradurre video iniziale con (this is the choice of Steins Gate)
 Tradurre (o magari modificare sub) la scritta alla fine del video della ending con Gate of Steiner
 Infine, aggiungere i file dds non esistenti in c0data.mpk (e il video giusto oppure i sottotitoli aggiornati)
+
+---------
+ho aggiunto i file a c0data.mpk, e aggiornato il file patchdef per fare "riconoscere" i nuovi file aggiunti (4, ma comunque)
+non ho abilità nell'editing dei video, quindi forse ricorrerò a dei sottotitoli da aggiungere.
