@@ -1,0 +1,55 @@
+La procedura qui descritta l'ho usata per il file intro.bk2, ma può essere adattata a tutto.
+# 1)
+aprire "RAD Video Tools"
+Selezionare video bik (o bk2) e premere "Convert a file". Visto che convertire solo in avi porta ad una degradazione dell'audio (per me, non sono un esperto), bisogna prendere il video e convertirlo due volte: una per esportare solo il video (avi senza audio), e una per esportare solo l'audio (wav). Per esportare il video, selezionare "Convert video" e deselezionare "Convert audio", premendo poi su "Output type" per selezionare "AVI file", e infine premere "Convert". Per esportare l'audio, basta solo deselezionare "Convert video" e selezionare "Convert audio" senza specificare altro, e poi premere "Convert". Prendere i due file e copiarli in "start". Occhio che il video può essere DAVVERO PESANTE (diversi GiB).
+# 2)
+Generare su gimp (o altro editor) uno sfondo nero, con risoluzione pari a quella del video da modificare, e copiare questo file in "intermediate".
+Preparare i sottotitoli su Aegisub (dipende dal video ovviamente).
+Scaricare ffmpeg (per windows nel mio caso).
+Estrarre il file zip e andare dentro bin.
+Decidere se copiare questo path (fino a bin) nel path dell'utente (variabile di sistema) oppure no. Nel caso viene aggiunto, cambia solo che non bisogna copiare i file, e che anziché scrivere ".\ffmpeg.exe" basterà scrivere "ffmpeg.exe".
+Andare al path dove sono conservati i file da usare (i sottotitoli, e l'immagine), che nel mio caso è nella cartella "intermediate".
+Poi aprire PowerShell (o cmd) nel path e lanciare questi comandi (4 secondi di sfondo nero in 720p, risoluzione del video dettata dall'immagine, mentre i sottotitoli sono stati pensati per una risoluzione di 720p)
+	# video base
+	.\ffmpeg.exe -stream_loop -1 -framerate 29.94 -i .\sfondo_nero_720p.png -r 29.94 -t 00:00:04 -vcodec libx264 output_720p.avi
+	# video con subs
+	.\ffmpeg.exe -framerate 29.94 -i .\output_720p.avi -vf ass=intro_720p_vuoto.ass -r 29.94 -vcodec libx264 output_720p_con_subs.avi
+	# fine
+e prendere il video generato "output_720p_con_subs.avi".
+Spiegazione:
+ -stream_loop indica quante volte il file in input deve essere riproposto (-1 vuol dire infinito, ovvero infinite volte)
+ -framerate indica (in quella posizione) quanti frame al secondo segue la fonte (1 vuol dire che l'immagine "dura" 1 secondo intero)
+ -i rappresenta un input per il file da produrre
+ -r (dopo gli input e prima dell'output) indica il framerate del risultato (29.94 vuol dire 29.94 fps)
+ -t indica a quale durata il video può essere tagliato (in generale la durata massima del video). Formato hh:mm:ss
+ -vcodec indica il codec video da utilizzare (nel mio caso, h.264)
+ -vf l'ho usato per imprimere i sottotitoli nel video (qui il formato è ass, quindi "ass=sottotitoli.ass")
+ 
+# 3)
+Bisogna montare il video
+Aprire openshot (o programma simile) e montare il video.
+Nel mio caso, traccia 1 = video originale, traccia 2 = audio, traccia 3 = video generato, e tagliato per essere al posto giusto
+Poi bisogna esportare il video finale. Andare su File > Esporta Progetto > Esporta Video, e inserire la configurazione presente in "configurazione_openshot.png". Ricordare che la risoluzione e il framerate deve essere quello del video originale (per evitare problemi).
+# 4)
+Bisogna convertire il video avi in bik
+Quindi aprire "RAD Video Tools"
+E premere "Bink it". Visto che purtroppo Bink 2 richiede una licenza, bisogna usare Bink 1. La configurazione sta in "configurazione_bink.png". Alla fine, banalmente, cambiare l'estensione (e il nome) in modo che sia uguale a quella del file da sovrascrivere.
+Ecco il file finale da copiare al path giusto (/languagebarrier/videos/720p/)
+
+
+altri comandi
+# video base
+	.\ffmpeg.exe -stream_loop -1 -framerate 29.94 -i .\sfondo_nero_1080p.png -r 29.94 -t 00:00:04 -vcodec libx264 output_1080p.avi
+	# video con subs
+	.\ffmpeg.exe -i .\output_1080p.avi -vf ass=intro_1080p_vuoto.ass -r 29.94 -vcodec libx264 output_1080p_con_subs.avi
+	# fine
+# video base
+	.\ffmpeg.exe -stream_loop -1 -framerate 30 -i .\sfondo_verdino_720p.png -r 30 -t 00:00:10 -vcodec libx264 output_end01_720p.avi
+	# video con subs
+	.\ffmpeg.exe -i .\output_end01_720p.avi -vf ass=END01_720p_vuoto.ass -r 30 -vcodec libx264 output_end01_720p_con_subs.avi
+	# fine
+# video base
+	.\ffmpeg.exe -stream_loop -1 -framerate 30 -i .\sfondo_verdino_1080p.png -r 30 -t 00:00:10 -vcodec libx264 output_end01_1080p.avi
+	# video con subs
+	.\ffmpeg.exe -i .\output_end01_1080p.avi -vf ass=END01_1080p_vuoto.ass -r 30 -vcodec libx264 output_end01_1080p_con_subs.avi
+	# fine

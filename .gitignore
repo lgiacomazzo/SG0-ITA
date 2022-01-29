@@ -3,11 +3,11 @@ file_temporaneo.txt
 *.scx
 Programmi/test/*
 Traduzione_ita/scx/*
-Traduzione_ita/video/*
-Export_traduzione_ita/*
 Originali/*
 SG0-2.1.1/*
 c0data.mpk
 system.mpk
 enscript.mpk
 c0data_originale.mpk
+Traduzione_ita/video/**/*.bk2
+Traduzione_ita/video/**/*.avi
