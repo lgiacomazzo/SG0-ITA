@@ -1,8 +1,8 @@
 {
   "__schema_version": 2,
   "appdatadir": "Committee of Zero\\SG0Steam",
-  "patchName": "[CoZ] STEINS;GATE 0 Steam Patch (2.1.1)",
-  "patchVersion": "2.1.1",
+  "patchName": "[CoZ] STEINS;GATE 0 Steam Patch (2.1.2)",
+  "patchVersion": "2.1.2",
   "base": {
     "hookText": true,
     "improveDialogueOutlines": false,
