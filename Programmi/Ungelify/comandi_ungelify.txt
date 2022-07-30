@@ -1,6 +1,6 @@
-# copiare il file enscript_h.mpk dalla cartella base del repo in Traduzione_ita/scx/
-# cd ../../Traduzione_ita/scx/ (se si parte dalla cartella dell'eseguibile)
-# oppure cd Traduzione_ita/scx/ (se si parte dalla cartella base del repo tramite cmd o powershell ad esempio)
+# copiare il file enscript_h.mpk dalla cartella base del repo in Traduzione_ita/con_onorifici/scx/
+# cd ../../Traduzione_ita/con_onorifici/scx/ (se si parte dalla cartella dell'eseguibile)
+# oppure cd Traduzione_ita/con_onorifici/scx/ (se si parte dalla cartella base del repo tramite cmd o powershell ad esempio)
 # è perfettamente possibile che alcuni scx non li trova. Va bene così, visto che alcuni non servono proprio a niente/non hanno niente da tradurre.
 open enscript_h.mpk
 replace anime.scx
@@ -534,5 +534,566 @@ open enscript_h.mpk
 replace _system.scx
 close
 open enscript_h.mpk
+replace _tips.scx
+close
+
+------------------------
+Comandi per enscript.mpk
+# copiare il file enscript.mpk dalla cartella base del repo in Traduzione_ita/senza_onorifici/scx/
+# cd ../../Traduzione_ita/con_onorifici/scx/ (se si parte dalla cartella dell'eseguibile)
+# oppure cd Traduzione_ita/senza_onorifici/scx/ (se si parte dalla cartella base del repo tramite cmd o powershell ad esempio)
+# è perfettamente possibile che alcuni scx non li trova. Va bene così, visto che alcuni non servono proprio a niente/non hanno niente da tradurre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+open enscript.mpk
+replace anime.scx
+close
+open enscript.mpk
+replace CLRFLG.scx
+close
+open enscript.mpk
+replace macrosys.scx
+close
+open enscript.mpk
+replace macrosys2.scx
+close
+open enscript.mpk
+replace MAIN00.scx
+close
+open enscript.mpk
+replace MAIN90.scx
+close
+open enscript.mpk
+replace mstart.scx
+close
+open enscript.mpk
+replace SG0_00_01.scx
+close
+open enscript.mpk
+replace SG0_00_02.scx
+close
+open enscript.mpk
+replace SG0_00_03.scx
+close
+open enscript.mpk
+replace SG0_00_04.scx
+close
+open enscript.mpk
+replace SG0_01_01.scx
+close
+open enscript.mpk
+replace SG0_01_02.scx
+close
+open enscript.mpk
+replace SG0_01_03.scx
+close
+open enscript.mpk
+replace SG0_01_04.scx
+close
+open enscript.mpk
+replace SG0_01_05.scx
+close
+open enscript.mpk
+replace SG0_01_06.scx
+close
+open enscript.mpk
+replace SG0_01_07.scx
+close
+open enscript.mpk
+replace SG0_01_08.scx
+close
+open enscript.mpk
+replace SG0_A01_01.scx
+close
+open enscript.mpk
+replace SG0_A01_02.scx
+close
+open enscript.mpk
+replace SG0_A01_03.scx
+close
+open enscript.mpk
+replace SG0_A01_04.scx
+close
+open enscript.mpk
+replace SG0_A01_05.scx
+close
+open enscript.mpk
+replace SG0_A01_06.scx
+close
+open enscript.mpk
+replace SG0_A01_07.scx
+close
+open enscript.mpk
+replace SG0_A01_08.scx
+close
+open enscript.mpk
+replace SG0_A01_09.scx
+close
+open enscript.mpk
+replace SG0_A02_01.scx
+close
+open enscript.mpk
+replace SG0_A02_02.scx
+close
+open enscript.mpk
+replace SG0_A02_03.scx
+close
+open enscript.mpk
+replace SG0_A02_04.scx
+close
+open enscript.mpk
+replace SG0_A02_05.scx
+close
+open enscript.mpk
+replace SG0_A02_06.scx
+close
+open enscript.mpk
+replace SG0_A02_07.scx
+close
+open enscript.mpk
+replace SG0_A02_08.scx
+close
+open enscript.mpk
+replace SG0_A03_01.scx
+close
+open enscript.mpk
+replace SG0_A03_02.scx
+close
+open enscript.mpk
+replace SG0_A03_03b.scx
+close
+open enscript.mpk
+replace SG0_A03_04.scx
+close
+open enscript.mpk
+replace SG0_A03_04b.scx
+close
+open enscript.mpk
+replace SG0_A03_05.scx
+close
+open enscript.mpk
+replace SG0_A03_06.scx
+close
+open enscript.mpk
+replace SG0_A03_07.scx
+close
+open enscript.mpk
+replace SG0_A03_08.scx
+close
+open enscript.mpk
+replace SG0_A03_09.scx
+close
+open enscript.mpk
+replace SG0_A03_10.scx
+close
+open enscript.mpk
+replace SG0_A03_11.scx
+close
+open enscript.mpk
+replace SG0_A04_01.scx
+close
+open enscript.mpk
+replace SG0_A04_02.scx
+close
+open enscript.mpk
+replace SG0_A04_03.scx
+close
+open enscript.mpk
+replace SG0_A04_04.scx
+close
+open enscript.mpk
+replace SG0_A04_05.scx
+close
+open enscript.mpk
+replace SG0_A04_06.scx
+close
+open enscript.mpk
+replace SG0_A04_07.scx
+close
+open enscript.mpk
+replace SG0_A04_08.scx
+close
+open enscript.mpk
+replace SG0_A04_09.scx
+close
+open enscript.mpk
+replace SG0_B01_01.scx
+close
+open enscript.mpk
+replace SG0_B01_02.scx
+close
+open enscript.mpk
+replace SG0_B01_03.scx
+close
+open enscript.mpk
+replace SG0_B01_04.scx
+close
+open enscript.mpk
+replace SG0_B01_05.scx
+close
+open enscript.mpk
+replace SG0_B01_06.scx
+close
+open enscript.mpk
+replace SG0_B01_07.scx
+close
+open enscript.mpk
+replace SG0_B01_08.scx
+close
+open enscript.mpk
+replace SG0_B01_09.scx
+close
+open enscript.mpk
+replace SG0_B01_10.scx
+close
+open enscript.mpk
+replace SG0_B01_11.scx
+close
+open enscript.mpk
+replace SG0_B01_12.scx
+close
+open enscript.mpk
+replace SG0_B01_13.scx
+close
+open enscript.mpk
+replace SG0_B01_14.scx
+close
+open enscript.mpk
+replace SG0_B01_15.scx
+close
+open enscript.mpk
+replace SG0_B01_16.scx
+close
+open enscript.mpk
+replace SG0_B01_17.scx
+close
+open enscript.mpk
+replace SG0_B01_18.scx
+close
+open enscript.mpk
+replace SG0_B01_19.scx
+close
+open enscript.mpk
+replace SG0_B01_20.scx
+close
+open enscript.mpk
+replace SG0_B01_21.scx
+close
+open enscript.mpk
+replace SG0_B01_22.scx
+close
+open enscript.mpk
+replace SG0_B01_23.scx
+close
+open enscript.mpk
+replace SG0_B01_24.scx
+close
+open enscript.mpk
+replace SG0_B01_25.scx
+close
+open enscript.mpk
+replace SG0_B02_11.scx
+close
+open enscript.mpk
+replace SG0_B02_12.scx
+close
+open enscript.mpk
+replace SG0_B02_13.scx
+close
+open enscript.mpk
+replace SG0_B02_14.scx
+close
+open enscript.mpk
+replace SG0_B02_15.scx
+close
+open enscript.mpk
+replace SG0_B02_16.scx
+close
+open enscript.mpk
+replace SG0_B02_17.scx
+close
+open enscript.mpk
+replace SG0_B02_18.scx
+close
+open enscript.mpk
+replace SG0_B02_19.scx
+close
+open enscript.mpk
+replace SG0_B02_20.scx
+close
+open enscript.mpk
+replace SG0_B02_21.scx
+close
+open enscript.mpk
+replace SG0_K01_01.scx
+close
+open enscript.mpk
+replace SG0_K01_02.scx
+close
+open enscript.mpk
+replace SG0_K01_03.scx
+close
+open enscript.mpk
+replace SG0_K01_04.scx
+close
+open enscript.mpk
+replace SG0_K01_05.scx
+close
+open enscript.mpk
+replace SG0_K01_06.scx
+close
+open enscript.mpk
+replace SG0_K01_07.scx
+close
+open enscript.mpk
+replace SG0_K01_08.scx
+close
+open enscript.mpk
+replace SG0_M01_00.scx
+close
+open enscript.mpk
+replace SG0_M01_01.scx
+close
+open enscript.mpk
+replace SG0_M01_02.scx
+close
+open enscript.mpk
+replace SG0_M01_03.scx
+close
+open enscript.mpk
+replace SG0_M01_04.scx
+close
+open enscript.mpk
+replace SG0_M01_05.scx
+close
+open enscript.mpk
+replace SG0_M01_06.scx
+close
+open enscript.mpk
+replace SG0_M01_07.scx
+close
+open enscript.mpk
+replace SG0_M01_08.scx
+close
+open enscript.mpk
+replace SG0_T01_01.scx
+close
+open enscript.mpk
+replace VC_CRS00.scx
+close
+open enscript.mpk
+replace VC_DAR00.scx
+close
+open enscript.mpk
+replace VC_ETA00.scx
+close
+open enscript.mpk
+replace VC_ETB00.scx
+close
+open enscript.mpk
+replace VC_EXA00.scx
+close
+open enscript.mpk
+replace VC_EXB00.scx
+close
+open enscript.mpk
+replace VC_EXC00.scx
+close
+open enscript.mpk
+replace VC_EXD00.scx
+close
+open enscript.mpk
+replace VC_EXE00.scx
+close
+open enscript.mpk
+replace VC_EXF00.scx
+close
+open enscript.mpk
+replace VC_EXG00.scx
+close
+open enscript.mpk
+replace VC_EXH00.scx
+close
+open enscript.mpk
+replace VC_EXI00.scx
+close
+open enscript.mpk
+replace VC_EXJ00.scx
+close
+open enscript.mpk
+replace VC_EXK00.scx
+close
+open enscript.mpk
+replace VC_EXL00.scx
+close
+open enscript.mpk
+replace VC_EXM00.scx
+close
+open enscript.mpk
+replace VC_EXN00.scx
+close
+open enscript.mpk
+replace VC_EXO00.scx
+close
+open enscript.mpk
+replace VC_EXP00.scx
+close
+open enscript.mpk
+replace VC_EXQ00.scx
+close
+open enscript.mpk
+replace VC_EXR00.scx
+close
+open enscript.mpk
+replace VC_EXS00.scx
+close
+open enscript.mpk
+replace VC_EXT00.scx
+close
+open enscript.mpk
+replace VC_EXU00.scx
+close
+open enscript.mpk
+replace VC_EXV00.scx
+close
+open enscript.mpk
+replace VC_EXW00.scx
+close
+open enscript.mpk
+replace VC_EXX00.scx
+close
+open enscript.mpk
+replace VC_EXY00.scx
+close
+open enscript.mpk
+replace VC_EXZ00.scx
+close
+open enscript.mpk
+replace VC_FEI00.scx
+close
+open enscript.mpk
+replace VC_FUB00.scx
+close
+open enscript.mpk
+replace VC_GOS00.scx
+close
+open enscript.mpk
+replace VC_HMN00.scx
+close
+open enscript.mpk
+replace VC_IZK00.scx
+close
+open enscript.mpk
+replace VC_KAE00.scx
+close
+open enscript.mpk
+replace VC_KAG00.scx
+close
+open enscript.mpk
+replace VC_KRK00.scx
+close
+open enscript.mpk
+replace VC_MAH00.scx
+close
+open enscript.mpk
+replace VC_MAH01.scx
+close
+open enscript.mpk
+replace VC_MAY00.scx
+close
+open enscript.mpk
+replace VC_MOE00.scx
+close
+open enscript.mpk
+replace VC_NAE00.scx
+close
+open enscript.mpk
+replace VC_NAK00.scx
+close
+open enscript.mpk
+replace VC_OKA00.scx
+close
+open enscript.mpk
+replace VC_OKA01.scx
+close
+open enscript.mpk
+replace VC_OKM00.scx
+close
+open enscript.mpk
+replace VC_RDA00.scx
+close
+open enscript.mpk
+replace VC_REI00.scx
+close
+open enscript.mpk
+replace VC_RES00.scx
+close
+open enscript.mpk
+replace VC_RUK00.scx
+close
+open enscript.mpk
+replace VC_SMY00.scx
+close
+open enscript.mpk
+replace VC_SUZ00.scx
+close
+open enscript.mpk
+replace VC_TEN00.scx
+close
+open enscript.mpk
+replace VC_URP00.scx
+close
+open enscript.mpk
+replace VC_YUK00.scx
+close
+open enscript.mpk
+replace zz.scx
+close
+open enscript.mpk
+replace ZZZ.scx
+close
+open enscript.mpk
+replace _phone.scx
+close
+open enscript.mpk
+replace _rndrine.scx
+close
+open enscript.mpk
+replace _Startup_and.scx
+close
+open enscript.mpk
+replace _Startup_ps3.scx
+close
+open enscript.mpk
+replace _Startup_ps4.scx
+close
+open enscript.mpk
+replace _Startup_vita.scx
+close
+open enscript.mpk
+replace _Startup_win.scx
+close
+open enscript.mpk
+replace _system.scx
+close
+open enscript.mpk
 replace _tips.scx
 close

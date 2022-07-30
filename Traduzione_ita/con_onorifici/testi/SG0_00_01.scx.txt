@@ -50,7 +50,7 @@ Ma ora, ero costretto a comprenderla di nuovo, e nel modo peggiore possibile.[%p
 [name]Rintaro[line]“Io... l’ho uccisa. L’ho uccisa io. Sono un idiota. È tutta colpa mia.”[%p]
 [name]Suzuha[line]“Ha ucciso Makise Kurisu.”[%p]
 [name]Mayuri[line]“Ucciso? Non può essere vero... Non può...”[%p]
-[name]Suzuha[line]“Non preoccuparti. Ne hai abbastanza per un altro tentativo.” (n.d.t.: carburante)[%p]
+[name]Suzuha[line]“Non preoccuparti. Ne hai abbastanza per un altro tentativo.”[%p]
 [name]Rintaro[line]“Lasciami in pace... Non importa quante volte ci proverò, finirà sempre allo stesso modo.”[%p]
 [name]Suzuha[line]“Cosa stai dicendo?! Hai intenzione di arrenderti?!”[%p]
 [name]Suzuha[line]“Miliardi di vite dipendono da te, Zio Okarin!”[%p]

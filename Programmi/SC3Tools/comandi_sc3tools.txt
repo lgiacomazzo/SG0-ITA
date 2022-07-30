@@ -1,2 +1,4 @@
 # da cartella base del repo
-.\Programmi\SC3Tools\sc3tools.exe replace-text .\Traduzione_ita\scx\* .\Traduzione_ita\testi\* sg0
+.\Programmi\SC3Tools\sc3tools.exe replace-text .\Traduzione_ita\con_onorifici\scx\* .\Traduzione_ita\con_onorifici\testi\* sg0
+
+.\Programmi\SC3Tools\sc3tools.exe replace-text .\Traduzione_ita\senza_onorifici\scx\* .\Traduzione_ita\senza_onorifici\testi\* sg0
