@@ -1,3 +1,4 @@
+Comandi per enscript_h.mpk
 # copiare il file enscript_h.mpk dalla cartella base del repo in Traduzione_ita/con_onorifici/scx/
 # cd ../../Traduzione_ita/con_onorifici/scx/ (se si parte dalla cartella dell'eseguibile)
 # oppure cd Traduzione_ita/con_onorifici/scx/ (se si parte dalla cartella base del repo tramite cmd o powershell ad esempio)
@@ -1096,4 +1097,199 @@ replace _system.scx
 close
 open enscript.mpk
 replace _tips.scx
+close
+
+------------------------
+Comandi per c0data.mpk
+# copiare il file c0data.mpk dalla cartella base del repo in Traduzione_ita/immagini_c0data/output
+# cd ../../Traduzione_ita/immagini_c0data/output/ (se si parte dalla cartella dell'eseguibile)
+# oppure cd Traduzione_ita/immagini_c0data/output/ (se si parte dalla cartella base del repo tramite cmd o powershell ad esempio)
+# alcuni file sono stati aggiunti rispetto al file mpk originale, grazie a una mia modifica al codice sorgente di Ungelify
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+open c0data.mpk
+replace BG12A.png
+close
+open c0data.mpk
+replace BG24A1.png
+close
+open c0data.mpk
+replace BG24A3.png
+close
+open c0data.mpk
+replace BG24A4.png
+close
+open c0data.mpk
+replace BG24A5.png
+close
+open c0data.mpk
+replace BG24E1.png
+close
+open c0data.mpk
+replace BG24E4.png
+close
+open c0data.mpk
+replace BG24N1.png
+close
+open c0data.mpk
+replace BG24N3.png
+close
+open c0data.mpk
+replace BG24N4.png
+close
+open c0data.mpk
+replace BG83A3.png
+close
+open c0data.mpk
+replace CLEARLIST.dds
+close
+open c0data.mpk
+replace CONFIG.dds
+close
+open c0data.mpk
+replace DATA01.dds
+close
+open c0data.mpk
+replace EXMENU.dds
+close
+open c0data.mpk
+replace EXMENU2.dds
+close
+open c0data.mpk
+replace GSYSMES.dds
+close
+open c0data.mpk
+replace help00.dds
+close
+open c0data.mpk
+replace help01.dds
+close
+open c0data.mpk
+replace IBG094.png
+close
+open c0data.mpk
+replace IBG099.png
+close
+open c0data.mpk
+replace MENUCHIP.dds
+close
+open c0data.mpk
+replace MESWIN.dds
+close
+open c0data.mpk
+replace PHONE.dds
+close
+open c0data.mpk
+replace PHONE_B.dds
+close
+open c0data.mpk
+replace PHONE_RINE.dds
+close
+open c0data.mpk
+replace SAVEMENU.dds
+close
+open c0data.mpk
+replace SG0_IBG004A.png
+close
+open c0data.mpk
+replace SG0_IBG005A.png
+close
+open c0data.mpk
+replace SG0_IBG005C.png
+close
+open c0data.mpk
+replace SG0_IBG010A.png
+close
+open c0data.mpk
+replace SG0_IBG010B.png
+close
+open c0data.mpk
+replace SG0_IBG015A.png
+close
+open c0data.mpk
+replace SG0_IBG019A.png
+close
+open c0data.mpk
+replace SG0_IBG031A.png
+close
+open c0data.mpk
+replace SG0_IBG031B.png
+close
+open c0data.mpk
+replace SG0_IBG031C.png
+close
+open c0data.mpk
+replace SG0_IBG031D.png
+close
+open c0data.mpk
+replace SG0_IBG031E.png
+close
+open c0data.mpk
+replace SG0_IBG031F.png
+close
+open c0data.mpk
+replace SG0_IBG031G.png
+close
+open c0data.mpk
+replace SG0_IBG034A.png
+close
+open c0data.mpk
+replace SG0_IBG034B.png
+close
+open c0data.mpk
+replace SG0_IBG034C.png
+close
+open c0data.mpk
+replace SG0_IBG035A.png
+close
+open c0data.mpk
+replace SG0_IBG048A.png
+close
+open c0data.mpk
+replace SG0_IBG049A_honorifics.png
+close
+open c0data.mpk
+replace SG0_IBG049B_honorifics.png
+close
+open c0data.mpk
+replace SG0_IBG052A.png
+close
+open c0data.mpk
+replace SG0_IBG056C.png
+close
+open c0data.mpk
+replace SG0_IBG058A.png
+close
+open c0data.mpk
+replace SYSM_SAVEMENU.dds
+close
+open c0data.mpk
+replace SYSM_TIPS.dds
+close
+open c0data.mpk
+replace TIPSCHIPS.dds
+close
+open c0data.mpk
+replace title_chip.dds
+close
+open c0data.mpk
+replace z_warning.png
 close
