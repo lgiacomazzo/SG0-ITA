@@ -212,7 +212,7 @@ Mi voltai per salire le scale del laboratorio, quando Tennouji sembrò ricordare
 [name]Tennouji[line]“Credo che fosse... Sì, sì. K6205, o qualcosa del genere.”[%p]
 K6205...[%p]
 Era una specie di codice?[%p]
-[name]Tennouji[line]“E i bastardi lo pronunciavano ‘fife’ anziché ‘five’.” (n.d.t.: five = cinque = 5. duh)[%p]
+[name]Tennouji[line]“E i bastardi lo pronunciavano ‘fife’ anziché ‘five’.”[%p]
 [name]Rintaro[line]“Vuole dire che avevano una specie di accento?”[%p]
 [name]Tennouji[line]“No, non è questo. È un [color index="280AA02D1400"]alfabeto fonetico[color index="800000"]. Gergo militare.”[%p]
 [name]Rintaro[line]“Militare...”[%p]
