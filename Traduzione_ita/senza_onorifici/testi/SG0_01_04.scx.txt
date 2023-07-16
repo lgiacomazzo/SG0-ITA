@@ -7,7 +7,7 @@ Si era finalmente alzato verso le 11 del mattino, aveva ingurgitato 3 tazze di r
 [name]Itaru[line]“...Hmm? Oh? Ooh?!”[%p]
 [name]Itaru[line]“Cosa?!”[%p]
 [name]Itaru[line]“Aspetta, ‘[color index="280AA02D1400"]I Normie Devono Morire-P[color index="800000"]’ e ‘[color index="280AA02E1400"]Partenone[color index="800000"]’ sono marito e moglie? Non me lo aveva detto nessuno!”[%p]
-[name]Itaru[line]“E un attimo, il suo nome utente è ‘I Normie Devono Morire’, però è un normie?! Ha una moglie! Non è giusto!”[%p]
+[name]Itaru[line]“E un attimo, il suo handle è ‘I Normie Devono Morire’, però è un normie?! Ha una moglie! Non è giusto!”[%p]
 [name]Itaru[line]“Grr... Pensavo che fosse dalla parte di noi solitari.”[%p]
 [name]Itaru[line]“Questo significa guerra... È tempo di trollare!”[%p]
 [name]Itaru[line]“Whoa, @channel e [color index="280AA02D1400"]Twipo[color index="800000"] sono già arrabbiati!”[%p]

@@ -245,10 +245,10 @@ Biblioteca della Dieta Nazionale
 Biblioteca della Dieta Nazionale
 L’unica biblioteca nazionale del Giappone.[linebreak][linebreak]La biblioteca è composta dall’edificio principale a Tokyo, la filiale Kansai a Kyoto, e diverse altre filiali situate in tutto il paese. L’edificio principale si trova sulla 1st Avenue a Nagata, Chiyoda Ward, ed è tipicamente quello a cui ci si riferisce quando si parla di “Biblioteca della Dieta Nazionale”.[linebreak][linebreak]Tutte le opere pubblicate in Giappone sono conservate in questa biblioteca, e mentre ai normali cittadini è permesso di visionare tali opere, non è permesso prenderle in prestito.
 Internet
-Nome utente
-Nome utente
-Nome utente
-Un nickname online, noto anche come “username”.[linebreak][linebreak]Sulle bacheche anonime come @channel, è molto raro che gli utenti abbiano un nome utente specifico. Se qualcuno posta qualcosa senza un nome utente dedicato, il suo nome sarà semplicemente visualizzato come “Anonymous” o una sua variante.
+Handle
+Handle
+Handle
+Un nickname online, noto anche come “nome utente”.[linebreak][linebreak]Sulle bacheche anonime come @channel, è molto raro che gli utenti abbiano un handle specifico. Se qualcuno posta qualcosa senza un handle dedicato, il suo nome sarà semplicemente visualizzato come “Anonimo” o una sua variante.
 Otaku
 ComiMa
 ComiMa
@@ -583,7 +583,7 @@ Altro
 Vaso di Pandora
 Vaso di Pandora
 Vaso di Pandora
-Nella mitologia greca è un vaso regalato alla prima donna mortale forgiata da Efesto, Pandora, da parte di Zeus, con la raccomandazione di custodirlo, e di non aprirlo mai. Dopo un po’ di tempo, tuttavia, Pandora cedette alla sua curiosità e lo aprì comunque, scatenando sul mondo le numerose calamità che conteneva, portando a compimento il piano di vendetta di Zeus in seguito al furto del fuoco divino da parte di Prometeo. Si dice che l’unica cosa rimasta nel vaso fosse la speranza.
+Nella mitologia greca è un vaso regalato alla prima donna mortale forgiata da Efesto, Pandora, da parte di Zeus, con la raccomandazione di custodirlo, e di non aprirlo mai. Dopo un po’ di tempo, tuttavia, Pandora cedette alla sua curiosità e lo aprì comunque, scatenando sul mondo le numerose calamità che conteneva, portando a compimento il piano di vendetta di Zeus in seguito al furto del fuoco divino da parte di Prometeo. Si dice che l’unica cosa rimasta nel vaso fosse la speranza.[linebreak][linebreak]N.d.t: Ho aggiunto qualche dettaglio in più rispetto al testo originale scritto qui: “A box given to mankind by the gods in Greek mythology. The people were told never to open it, but a woman named Pandora gave in to her curiosity and opened it anyway, unleashing the many calamities held inside upon the world. It is said that the only thing left remaining in the box was Hope.”
 Internet
 Internet in fibra ottica
 Internet in fibra ottica
