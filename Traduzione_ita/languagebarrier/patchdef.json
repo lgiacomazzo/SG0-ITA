@@ -1,8 +1,8 @@
 {
   "__schema_version": 2,
   "appdatadir": "Committee of Zero\\SG0Steam",
-  "patchName": "[CoZ] STEINS;GATE 0 Steam Patch (2.1.2)",
-  "patchVersion": "2.1.2",
+  "patchName": "[CoZ] STEINS;GATE 0 Steam Patch (2.2.0)",
+  "patchVersion": "2.2.0",
   "base": {
     "hookText": true,
     "improveDialogueOutlines": false,
@@ -31,7 +31,7 @@
         "imv004.bk2": "imv004.bk2.ass"
       },
       "videoRedirection": {
-		"end01.bk2": "END01.bik",
+        "end01.bk2": "END01.bik",
         "end02.bk2": "END02.bik",
         "intro.bk2": "intro.bk2",
         "imv004.bk2": "IMV004.bk2",
@@ -114,7 +114,7 @@
         "707": 64
       },
       "bgm": {
-        "70": 69
+        "70": 66
       },
       "manual": {
         "0": 13,
@@ -127,19 +127,19 @@
         "7": 4,
         "8": 5,
         "9": 0,
-        "10": 68,
+        "10": 65,
         "11": 0,
-        "12": 68,
+        "12": 65,
         "13": 6,
         "15": 7,
-		"16": 70,
-		"17": 71,
+        "16": 67,
+        "17": 68,
         "18": 8,
-		"21": 72,
+        "21": 69,
         "22": 10,
         "23": 11,
         "24": 12,
-		"25": 73,
+        "25": 70,
         "30": 9
       }
     }
@@ -216,21 +216,6 @@
       "type": "bool",
       "setters": {
         "shouldHideAutoSkip": true
-      }
-    },
-    "honorifics": {
-      "type": "bool",
-      "setters": {
-        "physicalFileRedirection": {
-          "script.mpk": "enscript_h.mpk"
-        },
-        "fileRedirection": {
-          "bg": {
-            "669": 65,
-            "670": 66,
-            "675": 67
-          }
-        }
       }
     }
   }

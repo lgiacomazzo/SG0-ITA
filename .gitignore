@@ -5,9 +5,10 @@ Programmi/test/*
 Traduzione_ita/scx/*
 Traduzione_ita/immagini_c0data/output/*
 Originali/*
-SG0-2.1.3/*
+SG0-*/
 c0data.mpk
 system.mpk
 Traduzione_ita/video/**/*.bk2
 Traduzione_ita/video/**/*.avi
 c0data_originale.mpk
+SG0-*.zip
