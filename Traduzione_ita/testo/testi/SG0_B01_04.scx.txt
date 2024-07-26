@@ -77,7 +77,7 @@ Proprio così. Non ero venuto fino al laboratorio di Maho per fare due chiacchie
 [name]Maho[line]“Sei un tipo strano.”[%p]
 La reazione di Maho mi ha sorpreso.[%p]
 Ero così strano?[%p]
-[name]Rintaro[line]“The last time we talked, well... part of it was because I was freaking out...but I kind of hung up on her.”[%p]
+[name]Rintaro[line]“L’ultima volta che abbiamo parlato, beh... in parte è successo perché stavo impazzendo... però le ho praticamente chiuso la chiamata in faccia.”[%p]
 [name]Rintaro[line]“Conoscendo la personalità di Kurisu, è arrabbiata. Ne sono sicuro.”[%p]
 [name]Rintaro[line]“E siccome sono ancora in qualche modo legato a lei, ho questa pressione invisibile che mi opprime ogni minuto della giornata.”[%p]
 Il dottor Leskinen aveva cercato di aiutarmi, ma mi sarei sentito meglio se mi avesse semplicemente tolto l’accesso.[%p]
